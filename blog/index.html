@@ -1,0 +1,117 @@
+---
+title: Blog
+layout: default
+---
+
+<div id="main">
+  <!-- Blog -->
+  <div class="blog">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-12">
+          <span class="heading-meta">Ler</span>
+          <h2 class="heading animate-box" data-animate-effect="fadeInLeft">
+            Blog
+          </h2>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-12 col-lg-8">
+          {% for post in paginator.posts %} {% assign month = post.date | date:
+          "%-m" %} {% capture months %} {% case month %} {% when '1' %}Janeiro{%
+          when '2' %}Fevereiro{% when '3' %}Março{% when '4' %}Abril{% when '5'
+          %}Maio{% when '6' %}Junho{% when '7' %}Julho{% when '8' %}Agosto{%
+          when '9' %}Setembro{% when '10' %}Outubro{% when '11' %}Novembro{%
+          when '12' %}Dezembro{% endcase %}{% endcapture %}
+          <div class="blog-entry animate-box" data-animate-effect="fadeInLeft">
+            <div class="desc">
+              <span
+                >{{ post.date | date: '%-d' }} {{ months }}, {{ post.date |
+                date: '%Y' }} | {% for category in post.categories %}<a
+                  href="{{ site.baseurl }}categorias/#{{ category }}"
+                  >{{ category }}{% unless forloop.last %},&nbsp;{% endunless
+                  %}</a
+                >
+                {% endfor %}</span
+              >
+              <h3>
+                <a
+                  href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}"
+                  title="{{ post.title }}"
+                  >{{ post.title }}</a
+                >
+              </h3>
+              <p class="post-content">
+                {{ post.content | strip_html | truncatewords: 45 }}
+              </p>
+              <p>
+                <a
+                  href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}"
+                  class="lead"
+                  >Ler mais <i class="ti-shift-right-alt"></i
+                ></a>
+              </p>
+            </div>
+          </div>
+          {% endfor %} {% if paginator.previous_page or paginator.next_page %}
+          {% include pagination.html %} {% endif %}
+        </div>
+        <div class="col-md-12 col-lg-4">
+          <div class="sidebar-part">
+            <div
+              class="sidebar-block sidebar-block-search animate-box"
+              data-animate-effect="fadeInLeft"
+            ></div>
+            <div
+              class="sidebar-block sidebar-block-categories animate-box"
+              data-animate-effect="fadeInLeft"
+            >
+              <div class="sidebar-block-title">Categorias</div>
+              <div class="sidebar-block-content">
+                <ul class="ul1">
+                  {% for category in site.categories limit:10 %} {% capture
+                  category_name %}{{ category | first }}{% endcapture %}
+                  <li class="cat-item">
+                    <a href="{{ site.baseurl }}categorias/#{{ category_name }}"
+                      ><i class="ti-minus"></i> {{ category_name }}</a
+                    >
+                  </li>
+                  {% endfor %}
+                </ul>
+              </div>
+            </div>
+            <div
+              class="sidebar-block sidebar-block-latest-posts animate-box"
+              data-animate-effect="fadeInLeft"
+            >
+              <div class="sidebar-block-title">Últimas Publicações</div>
+              <div class="sidebar-block-content">
+                {% for post in site.posts limit:3 %} {% assign month = post.date
+                | date: "%-m" %} {% capture months %} {% case month %} {% when
+                '1' %}Janeiro{% when '2' %}Fevereiro{% when '3' %}Março{% when
+                '4' %}Abril{% when '5' %}Maio{% when '6' %}Junho{% when '7'
+                %}Julho{% when '8' %}Agosto{% when '9' %}Setembro{% when '10'
+                %}Outubro{% when '11' %}Novembro{% when '12' %}Dezembro{%
+                endcase %}{% endcapture %}
+                <div class="latest">
+                  <a
+                    href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}"
+                    class="clearfix"
+                  >
+                    <div class="txt1">{{ post.title }}</div>
+                    <div class="txt2">
+                      {{ post.date | date: '%-d' }} {{ months }}, {{ post.date |
+                      date: '%Y' }}
+                    </div>
+                  </a>
+                </div>
+                {% endfor %}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

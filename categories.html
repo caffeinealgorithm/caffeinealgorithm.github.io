@@ -1,0 +1,47 @@
+---
+layout: default
+title: Categorias
+permalink: /categorias/
+---
+
+<div id="main">
+  <div class="blog">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-12">
+          <span class="heading-meta">Ler</span>
+          <h2 class="heading animate-box" data-animate-effect="fadeInLeft">
+            Categorias
+          </h2>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col" style="display: flex; flex-flow: wrap; padding: 0">
+          {% for category in site.categories %}
+          <div
+            class="col-xs-12 col-sm-6 col-lg-6 col-xl-3 blog-entry animate-box"
+            data-animate-effect="fadeInLeft"
+          >
+            <div class="desc">
+              {% capture category_name %}{{ category | first }}{% endcapture %}
+              <h3>
+                <strong
+                  ><a title="{{ category_name }}"
+                    >{{ category_name }}</a
+                  ></strong
+                >
+              </h3>
+              {% for post in site.categories[category_name] %}
+              <p>
+                <a href="{{ site.url }}{{ post.url }}">{{post.title}}</a>
+              </p>
+              {% endfor %}
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
