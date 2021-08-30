@@ -36,6 +36,11 @@ google:
   verify: 'E1ZVOTMIuinhdk-ZmrCj9GUXMfKD2yvePOpMehtaLrk'
   ad_client: 'ca-pub-9627952229249296'
 
+features:
+  hotjar:
+    enable: true
+    id: 2360099
+
 defaults:
   - scope:
       path: ''
@@ -46,17 +51,12 @@ defaults:
 collections:
   python:
     output: false
-  csharp:
-    output: false
-  java:
-    output: false
-  go:
-    output: false
+    sort_by: id
 
 destination: _site
 paginate: 6
 paginate_path: /blog/pagina/:num/
-permalink: /blog/:year/:title/
+permalink: /blog/:year:month:day/:title/
 
 markdown: kramdown
 kramdown:
