@@ -4,7 +4,6 @@ layout: default
 ---
 
 <div id="main">
-  <!-- Blog -->
   <div class="blog">
     <div class="container-fluid">
       <div class="row">
@@ -33,36 +32,43 @@ layout: default
                   >{{ category }}{% unless forloop.last %},&nbsp;{% endunless
                   %}</a
                 >
-                {% endfor %}</span
-              >
+                {% endfor %}
+              </span>
+
               <h3>
                 <a
                   href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}"
                   title="{{ post.title }}"
-                  >{{ post.title }}</a
                 >
+                  {{ post.title }}
+                </a>
               </h3>
+
               <p class="post-content">
                 {{ post.content | strip_html | truncatewords: 45 }}
               </p>
+
               <p>
                 <a
                   href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}"
                   class="lead"
-                  >Ler mais <i class="ti-shift-right-alt"></i
-                ></a>
+                >
+                  Ler mais <i class="ti-shift-right-alt"></i>
+                </a>
               </p>
             </div>
           </div>
           {% endfor %} {% if paginator.previous_page or paginator.next_page %}
           {% include pagination.html %} {% endif %}
         </div>
+
         <div class="col-md-12 col-lg-4">
           <div class="sidebar-part">
             <div
               class="sidebar-block sidebar-block-search animate-box"
               data-animate-effect="fadeInLeft"
             ></div>
+
             <div
               class="sidebar-block sidebar-block-categories animate-box"
               data-animate-effect="fadeInLeft"
@@ -81,6 +87,7 @@ layout: default
                 </ul>
               </div>
             </div>
+
             <div
               class="sidebar-block sidebar-block-latest-posts animate-box"
               data-animate-effect="fadeInLeft"

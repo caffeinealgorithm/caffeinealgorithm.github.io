@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div id="main">
-  <div class="projects">
+  <div class="blog">
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-12">
@@ -13,30 +13,40 @@ layout: default
           </h2>
         </div>
       </div>
+
       <div class="row">
         <div
           class="col-md-12 entry-byline animate-box"
           data-animate-effect="fadeInLeft"
         >
+          {% assign month = page.date | date: "%-m" %} {% capture months %} {%
+          case month %} {% when '1' %}Janeiro{% when '2' %}Fevereiro{% when '3'
+          %}Março{% when '4' %}Abril{% when '5' %}Maio{% when '6' %}Junho{% when
+          '7' %}Julho{% when '8' %}Agosto{% when '9' %}Setembro{% when '10'
+          %}Outubro{% when '11' %}Novembro{% when '12' %}Dezembro{% endcase %}{%
+          endcapture %}
           <i class="fas fa-user"></i>
           <span class="entry-author right-border">
             <a href="#" rel="author">
               <span>{{ site.author.name }}</span>
             </a>
           </span>
+
           <i class="far fa-clock"></i>
           <time
-            datetime="{{ page.date | date: '%-d' }} {{ months }} | {{
+            datetime="{{ page.date | date: '%-d' }} {{ months }}, {{
               page.date | date: '%Y'
             }}"
             class="entry-published right-border"
-            >{{ page.date | date: '%-d' }} {{ months }} | {{ page.date | date:
-            '%Y' }}</time
           >
+            {{ page.date | date: '%-d' }} {{ months }}, {{ page.date | date:
+            '%Y' }}
+          </time>
+
           <i class="fas fa-tags"></i>
-          <span class="comments-link"
-            >{% for category in page.categories %}<a
-              href="{{ site.baseurl }}categorias/#{{ category }}"
+          <span class="comments-link">
+            {% for category in page.categories %}
+            <a href="{{ site.baseurl }}categorias/#{{ category }}"
               >{{ category }}</a
             >
             {% endfor %}</span
@@ -45,30 +55,33 @@ layout: default
 
         {% include share.html %}
       </div>
+
       <div class="row">
         <div
-          class="col-md-12 col-lg-8 animate-box fadeInLeft animated"
+          class="col-md-12 col-lg-8 animate-box fadeInLeft animated content"
           data-animate-effect="fadeInLeft"
         >
           <p>{{ content }}</p>
 
           <div class="post-pagination">
             {% if page.previous.url %}
-            <a href="{{ page.previous.url }}" class="button btn-send"
-              >Anterior</a
-            >
+            <a href="{{ page.previous.url }}" class="button btn-send">
+              Anterior
+            </a>
             {% endif %} {% if page.next.url %}
             <a href="{{ page.next.url }}" class="button btn-send">Seguinte</a>
             {% endif %}
           </div>
           <div class="clearfix"></div>
         </div>
+
         <div class="col-md-12 col-lg-4">
           <div class="sidebar-part">
             <div
               class="sidebar-block sidebar-block-search animate-box"
               data-animate-effect="fadeInLeft"
             ></div>
+
             <div
               class="sidebar-block sidebar-block-categories animate-box"
               data-animate-effect="fadeInLeft"
@@ -79,14 +92,15 @@ layout: default
                   {% for category in site.categories limit:10 %} {% capture
                   category_name %}{{ category | first }}{% endcapture %}
                   <li class="cat-item">
-                    <a href="{{ site.baseurl }}categorias/#{{ category_name }}"
-                      ><i class="ti-minus"></i> {{ category_name }}</a
-                    >
+                    <a href="{{ site.baseurl }}categorias/#{{ category_name }}">
+                      <i class="ti-minus"></i> {{ category_name }}
+                    </a>
                   </li>
                   {% endfor %}
                 </ul>
               </div>
             </div>
+
             <div
               class="sidebar-block sidebar-block-latest-posts animate-box"
               data-animate-effect="fadeInLeft"
@@ -118,6 +132,7 @@ layout: default
           </div>
         </div>
       </div>
+
       <div class="row">
         <div
           class="col-md-12 col-sm-12 animate-box"
@@ -126,8 +141,8 @@ layout: default
       </div>
     </div>
   </div>
-  <!-- Footer -->
-  <div id="footer2">
+
+  <div id="footer">
     <div class="narrow-content">
       <div class="row">
         <div class="col-md-4" style="align-self: center">
@@ -136,56 +151,69 @@ layout: default
             Todos os Direitos Reservados
           </p>
         </div>
+
         <div
           class="col-md-4 animate-box"
           data-animate-effect="fadeInLeft"
         ></div>
+
         <div class="col-md-4" style="align-self: center; margin-bottom: -10px">
           <ul class="social-network">
             <li>
-              <a href="{{ site.author.website }}" target="_blank"
-                ><i class="fas fa-user font-14px gray-icon"></i
-              ></a>
+              <a href="{{ site.author.website }}" target="_blank">
+                <i class="fas fa-user font-14px gray-icon"></i>
+              </a>
             </li>
+
             <li>
               <a
                 href="https://www.youtube.com/c/{{ site.organization.youtube_name }}"
                 target="_blank"
-                ><i class="fab fa-youtube font-14px gray-icon"></i
-              ></a>
+              >
+                <i class="fab fa-youtube font-14px gray-icon"></i>
+              </a>
             </li>
+
             <li>
               <a
                 href="https://github.com/{{ site.organization.github }}"
                 target="_blank"
-                ><i class="fab fa-github font-14px gray-icon"></i
-              ></a>
+              >
+                <i class="fab fa-github font-14px gray-icon"></i>
+              </a>
             </li>
+
             <li>
               <a
                 href="https://www.linkedin.com/company/{{ site.organization.linkedin }}"
                 target="_blank"
-                ><i class="fab fa-linkedin-in font-14px gray-icon"></i
-              ></a>
+              >
+                <i class="fab fa-linkedin-in font-14px gray-icon"></i>
+              </a>
             </li>
+
             <li>
               <a
                 href="https://www.instagram.com/{{ site.organization.instagram }}"
                 target="_blank"
-                ><i class="fab fa-instagram font-14px gray-icon"></i
-              ></a>
+              >
+                <i class="fab fa-instagram font-14px gray-icon"></i>
+              </a>
             </li>
+
             <li>
               <a
                 href="https://www.twitch.tv/{{ site.organization.twitch }}"
                 target="_blank"
-                ><i class="fab fa-twitch font-14px gray-icon"></i
-              ></a>
+              >
+                <i class="fab fa-twitch font-14px gray-icon"></i>
+              </a>
             </li>
+
             <li>
-              <a href="mailto:{{ site.organization.email }}"
-                ><i class="far fa-envelope font-14px gray-icon"></i
-              ></a>
+              <a href="mailto:{{ site.organization.email }}">
+                <i class="far fa-envelope font-14px gray-icon"></i>
+              </a>
             </li>
           </ul>
         </div>

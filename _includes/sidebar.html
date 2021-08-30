@@ -1,7 +1,6 @@
 {% assign active = page.url | downcase | split: '/' %}
 
 <aside id="aside">
-  <!-- Logo -->
   <a id="logo" href="{{ site.baseurl }}">
     <img
       class="logo"
@@ -12,79 +11,128 @@
     }}"
     />
   </a>
+
   <div style="display: flex; justify-content: center">
     <p class="logo-description">{{ site.description }}</p>
   </div>
-  <!-- Menu -->
+
   <nav id="main-menu">
     <ul>
       <li class="{% if active[1] == null %}active{% endif %}">
         <a href="{{ site.url }}">Início</a>
       </li>
+
       <li class="{% if active[1] == 'blog' %}active{% endif %}">
         <a
           href="{{
             'blog' | prepend: site.baseurl | prepend: site.url
           }}"
-          >Blog</a
+        >
+          Blog
+        </a>
+      </li>
+
+      <li class="{% if active[1] == 'programar-em-python' %}active{% endif %}">
+        <a
+          href="{{
+            'programar-em-python' | prepend: site.baseurl | prepend: site.url
+          }}"
+        >
+          Programar em Python
+        </a>
+      </li>
+      <!-- <li class="{% if active[1] == 'programar-em-csharp' %}active{% endif %}">
+        <a
+          href="{{
+            'programar-em-csharp' | prepend: site.baseurl | prepend: site.url
+          }}"
+          >Programar em C#</a
         >
       </li>
+      <li class="{% if active[1] == 'programar-em-java' %}active{% endif %}">
+        <a
+          href="{{
+            'programar-em-java' | prepend: site.baseurl | prepend: site.url
+          }}"
+          >Programar em Java</a
+        >
+      </li>
+      <li class="{% if active[1] == 'programar-em-go' %}active{% endif %}">
+        <a
+          href="{{
+            'programar-em-go' | prepend: site.baseurl | prepend: site.url
+          }}"
+          >Programar em Go</a
+        >
+      </li> -->
     </ul>
   </nav>
-  <!-- Sidebar Footer -->
+
   <div class="footer">
     <ul>
       <li>
-        <a href="{{ site.author.website }}" target="_blank"
-          ><i class="fas fa-user font-14px gray-icon"></i
-        ></a>
+        <a href="{{ site.author.website }}" target="_blank">
+          <i class="fas fa-user font-14 px gray-icon"></i>
+        </a>
       </li>
+
       <li>
         <a
           href="https://www.youtube.com/c/{{ site.organization.youtube_name }}"
           target="_blank"
-          ><i class="fab fa-youtube font-14px gray-icon"></i
-        ></a>
+        >
+          <i class="fab fa-youtube font-14px gray-icon"></i>
+        </a>
       </li>
+
       <li>
         <a
           href="https://github.com/{{ site.organization.github }}"
           target="_blank"
-          ><i class="fab fa-github font-14px gray-icon"></i
-        ></a>
+        >
+          <i class="fab fa-github font-14px gray-icon"></i>
+        </a>
       </li>
+
       <li>
         <a
           href="https://www.linkedin.com/company/{{ site.organization.linkedin }}"
           target="_blank"
-          ><i class="fab fa-linkedin-in font-14px gray-icon"></i
-        ></a>
+        >
+          <i class="fab fa-linkedin-in font-14px gray-icon"></i>
+        </a>
       </li>
+
       <li>
         <a
           href="https://www.instagram.com/{{ site.organization.instagram }}"
           target="_blank"
-          ><i class="fab fa-instagram font-14px gray-icon"></i
-        ></a>
+        >
+          <i class="fab fa-instagram font-14px gray-icon"></i>
+        </a>
       </li>
+
       <li>
         <a
           href="https://www.twitch.tv/{{ site.organization.twitch }}"
           target="_blank"
-          ><i class="fab fa-twitch font-14px gray-icon"></i
-        ></a>
+        >
+          <i class="fab fa-twitch font-14px gray-icon"></i>
+        </a>
       </li>
+
       <li>
         <a href="mailto:{{ site.organization.email }}"
-          ><i class="far fa-envelope font-14px gray-icon"></i
-        ></a>
+          ><i class="far fa-envelope fon t-14px gray-icon"></i>
+        </a>
       </li>
     </ul>
+
     <p>
-      <small
-        >{{ site.organization.name }} &copy; {{ site.time | date: '%Y' }} Todos
-        os Direitos Reservados</small
-      >
+      <small>
+        {{ site.organization.name }} &copy; {{ site.time | date: '%Y' }} Todos
+        os Direitos Reservados
+      </small>
     </p>
   </div>
 </aside>

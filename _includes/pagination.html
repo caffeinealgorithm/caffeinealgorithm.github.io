@@ -1,9 +1,9 @@
 <ul class="pagination-wrap align-center">
   {% if paginator.previous_page %} {% if paginator.previous_page == 1 %}
   <li>
-    <a href="{{ 'blog' | prepend: site.baseurl }}"
-      ><i class="ti-arrow-left"></i
-    ></a>
+    <a href="{{ 'blog' | prepend: site.baseurl }}">
+      <i class="ti-arrow-left"></i>
+    </a>
   </li>
   {% else %}
   <li>
@@ -11,20 +11,22 @@
       href="{{ 'blog' | prepend: site.baseurl }}/pagina/{{
       paginator.previous_page
     }}/"
-      ><i class="ti-arrow-left"></i
-    ></a>
+    >
+      <i class="ti-arrow-left"></i>
+    </a>
   </li>
   {% endif %} {% endif %}
-  <span class="page"
-    >Página {{ paginator.page }} de {{ paginator.total_pages }}</span
-  >
+  <span class="page">
+    Página {{ paginator.page }} de {{ paginator.total_pages }}
+  </span>
 
   {% if paginator.next_page %}
   <li>
     <a
       href="{{ 'blog' | prepend: site.baseurl }}/pagina/{{ paginator.next_page }}/"
-      ><i class="ti-arrow-right"></i
-    ></a>
+    >
+      <i class="ti-arrow-right"></i>
+    </a>
   </li>
   {% endif %}
 </ul>

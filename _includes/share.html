@@ -15,6 +15,7 @@ include.pageurl %} {% else %} {% assign pageurl = page.url %} {% endif %}
       <i class="fab fa-facebook-f"></i>
     </a>
   </li>
+
   <li class="twitter">
     <a
       href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ site.baseurl }}{{ page.url }}"
@@ -24,6 +25,7 @@ include.pageurl %} {% else %} {% assign pageurl = page.url %} {% endif %}
       <i class="fab fa-twitter"></i>
     </a>
   </li>
+
   <li class="linkedin">
     <a
       href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title={{ page.title }}&summary={{ page.description }}&source={{ site.title }}"
@@ -33,6 +35,7 @@ include.pageurl %} {% else %} {% assign pageurl = page.url %} {% endif %}
       <i class="fab fa-linkedin-in"></i>
     </a>
   </li>
+
   <li class="reddit">
     <a
       href="http://www.reddit.com/submit?url={{ site.url }}{{ site.baseurl }}{{ page.url }}"
@@ -42,11 +45,13 @@ include.pageurl %} {% else %} {% assign pageurl = page.url %} {% endif %}
       <i class="fab fa-reddit-alien"></i>
     </a>
   </li>
+
   <li class="email">
     <a
       href="mailto:?subject={{ page.title }}&amp;body={{ site.url }}{{ site.baseurl }}{{ page.url }}"
       title="Partilhar por Email"
-      ><i class="fas fa-envelope"></i
-    ></a>
+    >
+      <i class="fas fa-envelope"></i>
+    </a>
   </li>
 </ul>
