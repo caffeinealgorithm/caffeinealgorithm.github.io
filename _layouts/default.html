@@ -3,6 +3,18 @@
   {% include head.html %}
 
   <body>
+    {% if site.development == false %} {% if site.google.analytics %}
+    <noscript>
+      <iframe
+        src="https://www.googletagmanager.com/ns.html?id={{ site.google.tag_manager }}"
+        height="0"
+        width="0"
+        style="display: none; visibility: hidden"
+      >
+      </iframe>
+    </noscript>
+    {% endif %} {% endif %}
+
     <div id="page">
       <a href="#" class="js-nav-toggle nav-toggle"><i></i></a>
       {% include sidebar.html %} {{ content }}
