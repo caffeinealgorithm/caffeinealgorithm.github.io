@@ -1,6 +1,6 @@
 title: 'Caffeine Algorithm | Início'
 description: 'Uma organização de desenvolvimento que ama cafeína e algoritmos.'
-keywords: 'caffeine algorithm, caffeinealgorithm, desenvolvimento, organização, cafeína, algoritmos, programação, código, python, c#, java, go, javascript, ruby, android, html, css, nelsonsilvadev, nelson silva'
+keywords: 'caffeine algorithm, caffeinealgorithm, desenvolvimento, organização, cafeína, algoritmos, tecnologia, programação, código, cursos, séries, tutoriais, python, c#, java, go, javascript, ruby, android, html, css, nelsonsilvadev, nelson silva'
 url: 'https://caffeinealgorithm.com/'
 baseurl: '/'
 
@@ -43,6 +43,37 @@ defaults:
       type: 'posts'
     values:
       layout: 'post'
+
+links:
+  - title: Subscreve o Canal
+    url: https://www.youtube.com/c/CaffeineAlgorithm?sub_confirmation=1
+    color: '#1a1a1a'
+    icon: fab fa-youtube
+
+  - title: Todas as Séries de Programação
+    url: https://www.youtube.com/c/CaffeineAlgorithm/playlists
+    color: '#1a1a1a'
+    icon: fas fa-archive
+
+  - title: Acede ao Código Desenvolvido
+    url: https://github.com/caffeinealgorithm
+    color: '#1a1a1a'
+    icon: fas fa-code
+
+  - title: Lê a Última Publicação do Blog
+    url: https://caffeinealgorithm.com/blog/
+    color: '#1a1a1a'
+    icon: fas fa-pen-nib
+
+  - title: Conhece o Fundador
+    url: https://nelsonsilvadev.com/
+    color: '#1a1a1a'
+    icon: fas fa-user
+
+  - title: Novidades da Organização
+    url: https://www.linkedin.com/company/caffeinealgorithm
+    color: '#1a1a1a'
+    icon: fab fa-linkedin
 
 collections:
   python:

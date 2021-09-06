@@ -1,6 +1,11 @@
 <head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+  {% if page.id == "links" %}
+  <meta name="robots" content="noindex" />
+  {% endif %}
+
   <meta name="author" content="{{ site.author.name }}" />
   <meta name="organization" content="{{ site.organization.name }}" />
   <meta name="description" content="{{ site.description }}" />
@@ -132,7 +137,18 @@
     }}"
   />
 
-  {% if site.development == false %} {% if site.google.analytics %}
+  {% if page.id == "links" %}
+  <link
+    type="text/css"
+    rel="stylesheet"
+    media="all"
+    href="{{
+      'assets/css/links.min.css'
+        | prepend: site.baseurl
+        | prepend: site.url
+    }}"
+  />
+  {% endif %} {% if site.development == false %} {% if site.google.analytics %}
   <script>
     (function (w, d, s, l, i) {
       w[l] = w[l] || [];

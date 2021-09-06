@@ -1,0 +1,126 @@
+* {
+  padding: 0;
+}
+
+body {
+  padding: 28px;
+  background-color: #ffc900;
+  display: flex;
+  justify-content: center;
+}
+
+a,
+a:hover,
+a:active,
+a:focus {
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+}
+
+header .content {
+  display: flex;
+  flex-flow: row;
+}
+
+header .content img {
+  width: 100px;
+  border-radius: 50%;
+  box-shadow: 0 1px 6px 0 #e8b600;
+  user-select: none;
+  margin-right: 35px;
+}
+
+header .content img:hover {
+  transform: scale(1.05);
+}
+
+header .content div {
+  align-self: center;
+}
+
+header .content h1 {
+  font-size: 30px;
+  margin: 0;
+}
+
+header .content p {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+section ul {
+  display: grid;
+  gap: 10px;
+  margin-top: 16px;
+}
+
+section ul li {
+  height: 60px;
+  border-radius: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+section ul li:hover {
+  transform: scale(1.05);
+}
+
+span {
+  line-height: 23px;
+}
+
+span.icon {
+  position: absolute;
+  top: -5px;
+  right: 8px;
+  border-radius: 3px;
+  background-color: white;
+  padding: 3px 16px;
+  font-size: 16px;
+  color: #1a1a1a;
+}
+
+span.icon i {
+  margin-top: 6px;
+}
+
+.social-networks {
+  display: flex;
+  justify-content: space-between;
+  width: 270px;
+  margin: 22px auto 0 auto;
+}
+
+.social-networks li:hover {
+  transform: scale(1.08);
+}
+
+@media screen and (max-width: 535px) {
+  body {
+    font-size: 14px;
+  }
+
+  header .content {
+    flex-flow: column;
+  }
+
+  header .content img {
+    margin: 0 auto 10px auto;
+  }
+
+  header .content h1,
+  header .content p {
+    text-align: center;
+  }
+
+  span.icon {
+    font-size: 13px;
+    top: -13px;
+    right: 16px;
+  }
+}

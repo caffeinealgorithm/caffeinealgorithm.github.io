@@ -1,0 +1,100 @@
+---
+layout: default
+title: Links
+permalink: /links/
+id: links
+---
+
+<main class="animate-box fadeInLeft animated">
+  <header>
+    <a href="{{ site.baseurl }}" target="_blank" class="content">
+      <img
+        src="{{
+            'assets/img/logo.png'
+              | prepend: site.baseurl
+              | prepend: site.url
+          }}"
+      />
+
+      <div>
+        <h1>{{ site.organization.name }}</h1>
+        <p>{{ site.description }}</p>
+      </div>
+    </a>
+  </header>
+
+  <section>
+    <ul>
+      {% for link in site.links %}
+      <a href="{{ link.url }}" target="_blank">
+        <li style="background-color: {{ link.color }}">
+          <span class="icon">
+            <i class="{{ link.icon }}"></i>
+          </span>
+
+          <span>{{ link.title }}</span>
+        </li>
+      </a>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <ul class="social-networks">
+    <li>
+      <a href="{{ site.author.website }}" target="_blank">
+        <i class="fas fa-user font-14 px gray-icon"></i>
+      </a>
+    </li>
+
+    <li>
+      <a
+        href="https://www.youtube.com/c/{{ site.organization.youtube_name }}"
+        target="_blank"
+      >
+        <i class="fab fa-youtube font-14px gray-icon"></i>
+      </a>
+    </li>
+
+    <li>
+      <a
+        href="https://github.com/{{ site.organization.github }}"
+        target="_blank"
+      >
+        <i class="fab fa-github font-14px gray-icon"></i>
+      </a>
+    </li>
+
+    <li>
+      <a
+        href="https://www.linkedin.com/company/{{ site.organization.linkedin }}"
+        target="_blank"
+      >
+        <i class="fab fa-linkedin-in font-14px gray-icon"></i>
+      </a>
+    </li>
+
+    <li>
+      <a
+        href="https://www.instagram.com/{{ site.organization.instagram }}"
+        target="_blank"
+      >
+        <i class="fab fa-instagram font-14px gray-icon"></i>
+      </a>
+    </li>
+
+    <li>
+      <a
+        href="https://www.twitch.tv/{{ site.organization.twitch }}"
+        target="_blank"
+      >
+        <i class="fab fa-twitch font-14px gray-icon"></i>
+      </a>
+    </li>
+
+    <li>
+      <a href="mailto:{{ site.organization.email }}">
+        <i class="far fa-envelope font-14px gray-icon"></i>
+      </a>
+    </li>
+  </ul>
+</main>

@@ -13,13 +13,11 @@
       >
       </iframe>
     </noscript>
-    {% endif %} {% endif %}
-
+    {% endif %} {% endif %} {% if page.id != "links" %}
     <div id="page">
       <a href="#" class="js-nav-toggle nav-toggle"><i></i></a>
       {% include sidebar.html %} {{ content }}
     </div>
-
-    {% include scripts.html %}
+    {% else %} {{ content }} {% endif %} {% include scripts.html %}
   </body>
 </html>
