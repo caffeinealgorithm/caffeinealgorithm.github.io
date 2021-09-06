@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Hind:300,400,500,600,700|Oswald:300,400,500,600,700|Poppins:300,400,500,600,700|Questrial&display=swap|Roboto:300,400,500,600"');
+@import url('https://fonts.googleapis.com/css?family=Questrial&display=swap');
 
 html,
 body {
@@ -13,7 +13,7 @@ body {
   font-size: 17px;
   line-height: 1.75em;
   font-weight: 400;
-  color: #333333;
+  color: #1a1a1a;
 }
 
 ol,
@@ -74,7 +74,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #333333;
+  color: #1a1a1a;
   font-family: 'Questrial', sans-serif;
   font-weight: 500;
   line-height: 1.5em;
@@ -86,11 +86,11 @@ p {
   font-size: 17px;
   line-height: 1.5em;
   margin: 0 0 20px;
-  color: #333333;
+  color: #1a1a1a;
 }
 
 a {
-  color: #333333;
+  color: #1a1a1a;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -99,7 +99,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-  color: #333333;
+  color: #1a1a1a;
   outline: none;
   text-decoration: none !important;
 }
@@ -128,7 +128,7 @@ small {
 
 b,
 strong {
-  color: #333333;
+  color: #1a1a1a;
 }
 
 code > span {
@@ -143,7 +143,7 @@ pre.highlight {
   margin: 0 0 22px;
   font-size: 13px;
   line-height: 1.42857143;
-  color: #333;
+  color: #1a1a1a;
   border: 1px solid #ccc;
   border-radius: 4px;
 }
@@ -186,7 +186,7 @@ textarea {
   font-size: 14px;
   line-height: 1.5em;
   font-weight: 300;
-  color: #333333;
+  color: #1a1a1a;
   background-image: none;
   border-bottom: 1px solid #ececec;
   border-color: ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
@@ -195,7 +195,7 @@ textarea {
 input:focus,
 textarea:focus {
   border-bottom-width: 2px;
-  border-color: #333333;
+  border-color: #1a1a1a;
 }
 
 input[type='submit'],
@@ -211,7 +211,7 @@ button {
   color: #fff;
   -webkit-transition: background-color 0.15s ease-out;
   transition: background-color 0.15s ease-out;
-  background-color: #333333;
+  background-color: #1a1a1a;
   margin-top: 10px;
 }
 
@@ -230,21 +230,21 @@ a.button {
   color: #fff;
   -webkit-transition: background-color 0.15s ease-out;
   transition: background-color 0.15s ease-out;
-  background-color: #333333;
+  background-color: #1a1a1a;
   margin-top: 10px;
   display: inline-block;
 }
 
 a.button:hover {
   background-color: #ffc900;
-  color: #333;
+  color: #1a1a1a;
 }
 
 input[type='submit']:hover,
 input[type='reset']:hover,
 input[type='button']:hover,
 button:hover {
-  background-color: #333333;
+  background-color: #1a1a1a;
   color: #fff;
 }
 
@@ -261,7 +261,7 @@ table,
 th,
 tr,
 td {
-  border: 1px solid #333333;
+  border: 1px solid #1a1a1a;
 }
 
 th,
@@ -284,11 +284,11 @@ input[type='checkbox'] {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #333333;
+  background: #1a1a1a;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #333333;
+  background: #1a1a1a;
 }
 
 ::-webkit-selection {
@@ -338,7 +338,7 @@ input[type='checkbox'] {
 }
 
 .entry-byline a {
-  color: #333333;
+  color: #1a1a1a;
 }
 
 .entry-byline .right-border {
@@ -363,7 +363,7 @@ input[type='checkbox'] {
   background-color: #ffc900;
   background-position: top;
   background-size: cover;
-  box-shadow: 2px 0 25px -15px #333333;
+  box-shadow: 2px 0 25px -15px #1a1a1a;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -403,7 +403,7 @@ input[type='checkbox'] {
   font-size: 16px;
   line-height: 1.5em;
   margin: 0 0 20px;
-  color: #333333;
+  color: #1a1a1a;
   font-weight: 600;
   text-align: center;
   margin-bottom: 40px;
@@ -445,14 +445,14 @@ input[type='checkbox'] {
 #aside #logo a {
   display: inline-block;
   text-align: center;
-  color: #333333;
+  color: #1a1a1a;
   letter-spacing: 3px;
 }
 
 #logo-footer a {
   display: inline-block;
   text-align: center;
-  color: #333333;
+  color: #1a1a1a;
 }
 
 #aside #logo a span {
@@ -496,17 +496,17 @@ input[type='checkbox'] {
 }
 
 #aside #main-menu ul li a:hover {
-  color: #333333;
+  color: #1a1a1a;
   text-decoration: underline !important;
 }
 
 #aside #main-menu ul li.active a {
-  color: #333333;
+  color: #1a1a1a;
   text-decoration: underline;
 }
 
 #aside #main-menu ul li.active a:hover {
-  color: #333333;
+  color: #1a1a1a;
 }
 
 #aside #main-menu ul li.active a:after {
@@ -539,13 +539,13 @@ input[type='checkbox'] {
 
 .footer p {
   margin-bottom: 0;
-  color: #333333;
+  color: #1a1a1a;
   font-size: 16px;
   font-family: 'Questrial', sans-serif;
 }
 
 .footer a {
-  color: #333333;
+  color: #1a1a1a;
 }
 
 @media screen and (max-width: 768px) {
@@ -573,7 +573,7 @@ input[type='checkbox'] {
 }
 
 #aside .footer ul li a {
-  color: #333333;
+  color: #1a1a1a;
   padding: 2px;
 }
 
@@ -582,7 +582,7 @@ input[type='checkbox'] {
 #aside .footer ul li a:focus {
   text-decoration: none;
   outline: none;
-  color: #333333;
+  color: #1a1a1a;
 }
 
 #main {
@@ -664,7 +664,7 @@ input[type='checkbox'] {
 
 #hero .flexslider .flex-control-nav li a.flex-active {
   cursor: pointer;
-  background: #333333;
+  background: #1a1a1a;
 }
 
 #hero .flexslider .flex-direction-nav {
@@ -705,7 +705,7 @@ input[type='checkbox'] {
 #hero .flexslider .slider-text > .slider-text-inner h1 {
   font-size: 40px;
   line-height: 1.5;
-  color: #333333;
+  color: #1a1a1a;
   font-family: 'Questrial', sans-serif;
   font-weight: 400;
   margin: 0;
@@ -765,7 +765,7 @@ body.offcanvas .nav-toggle {
 }
 
 .heading {
-  color: #333333;
+  color: #1a1a1a;
   font-family: 'Questrial', sans-serif;
   margin-bottom: 18px;
   font-weight: 500;
@@ -779,13 +779,13 @@ body.offcanvas .nav-toggle {
 }
 
 .about-heading {
-  color: #333333;
+  color: #1a1a1a;
   font-family: 'Questrial', sans-serif;
   font-size: 24px;
 }
 
 .post-heading {
-  color: #333333;
+  color: #1a1a1a;
   font-family: 'Questrial', sans-serif;
   margin-bottom: 15px;
   font-size: 28px;
@@ -848,7 +848,7 @@ body.offcanvas .nav-toggle {
 }
 
 .blog-entry .desc h3 a {
-  color: #333333;
+  color: #1a1a1a;
   text-decoration: none;
   font-family: 'Questrial', sans-serif;
   font-size: 24px;
@@ -867,12 +867,12 @@ body.offcanvas .nav-toggle {
 
 .blog-entry .desc .lead {
   font-size: 15px;
-  color: #333333;
+  color: #1a1a1a;
   font-family: 'Questrial', sans-serif;
 }
 
 .blog-entry .desc .lead:hover {
-  color: #333333;
+  color: #1a1a1a;
 }
 
 .blog-entry:hover .blog-img img {
@@ -898,7 +898,7 @@ body.offcanvas .nav-toggle {
 }
 
 .sidebar-block .sidebar-block-title {
-  color: #333333;
+  color: #1a1a1a;
   text-decoration: none;
   font-family: 'Questrial', sans-serif;
   font-size: 24px;
@@ -946,7 +946,7 @@ body.offcanvas .nav-toggle {
 }
 
 .ul1 > li a:hover {
-  color: #333333;
+  color: #1a1a1a;
   text-decoration: none;
 }
 
@@ -973,7 +973,7 @@ body.offcanvas .nav-toggle {
 }
 
 .latest a:hover .txt2 {
-  color: #333333;
+  color: #1a1a1a;
 }
 
 .txt1,
@@ -1017,9 +1017,9 @@ body.offcanvas .nav-toggle {
 }
 
 .tags li a:hover {
-  background: #333333;
+  background: #1a1a1a;
   color: #fff;
-  border-color: #333333;
+  border-color: #1a1a1a;
 }
 
 .pagination-wrap {
@@ -1052,8 +1052,8 @@ body.offcanvas .nav-toggle {
 }
 
 .pagination-wrap li a.active {
-  background-color: #333333;
-  border: 1px solid #333333;
+  background-color: #1a1a1a;
+  border: 1px solid #1a1a1a;
   color: #fff;
 }
 
@@ -1094,7 +1094,7 @@ ol.comment-list li.comment .comment-body {
   position: relative;
   padding: 20px 30px 20px 90px;
   margin-left: 40px;
-  color: #333333;
+  color: #1a1a1a;
   position: relative;
 }
 
@@ -1117,7 +1117,7 @@ ol.comment-list li.comment .comment-author .avatar {
 
 ol.comment-list li.comment .comment-author .name {
   display: inline-block;
-  color: #333333;
+  color: #1a1a1a;
   font-family: 'Questrial', sans-serif;
   font-size: 18px;
   line-height: 1.5em;
@@ -1137,7 +1137,7 @@ ol.comment-list li.comment .comment-meta {
 }
 
 ol.comment-list li.comment .comment-meta a {
-  color: #333333;
+  color: #1a1a1a;
 }
 
 ol.comment-list li.comment .comment-meta:before,
@@ -1255,7 +1255,7 @@ ol.comment-list li .children li {
 .project .desc .con .icon span a {
   color: #ccc;
   padding: 5px;
-  background: #333;
+  background: #1a1a1a;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   -ms-border-radius: 4px;
@@ -1303,7 +1303,7 @@ ol.comment-list li .children li {
 }
 
 .project .desc span a {
-  color: #333333;
+  color: #1a1a1a;
 }
 
 .project:hover .desc {
@@ -1321,7 +1321,7 @@ ol.comment-list li .children li {
 }
 
 .project-desc h2 {
-  color: #333333;
+  color: #1a1a1a;
   font-family: 'Questrial', sans-serif;
   font-size: 24px;
 }
@@ -1359,6 +1359,11 @@ ol.comment-list li .children li {
   margin: 0 0 14px;
 }
 
+.blog .content h5 {
+  font-size: 23px;
+  margin: 0 0 15px 0;
+}
+
 .blog .content p a {
   color: #0091ff;
 }
@@ -1394,7 +1399,7 @@ ol.comment-list li .children li {
 
 #footer h2 {
   margin: 0 0 20px 0;
-  color: #333333;
+  color: #1a1a1a;
   font-size: 40px;
   line-height: 30px;
   letter-spacing: 3px;
@@ -1439,7 +1444,7 @@ ol.comment-list li .children li {
 
 .social li a {
   font-size: 22px;
-  color: #333333;
+  color: #1a1a1a;
   padding: 10px;
   display: -moz-inline-stack;
   display: inline-block;
@@ -1458,7 +1463,7 @@ ol.comment-list li .children li {
 }
 
 .social li a:hover {
-  color: #333333;
+  color: #1a1a1a;
 }
 
 .social li a:hover,
@@ -1466,7 +1471,7 @@ ol.comment-list li .children li {
 .social li a:focus {
   outline: none;
   text-decoration: none;
-  color: #333333;
+  color: #1a1a1a;
 }
 
 .share {
@@ -1504,7 +1509,7 @@ ol.comment-list li .children li {
 
 .share li a i {
   font-size: 16px;
-  color: #333333;
+  color: #1a1a1a;
   margin-top: 10px;
 }
 
@@ -1551,7 +1556,7 @@ ol.comment-list li .children li {
 .share li {
   width: 36px;
   height: 36px;
-  border: 1px solid #333333;
+  border: 1px solid #1a1a1a;
   border-radius: 50%;
   margin-bottom: 10px;
   opacity: 40%;
@@ -1644,8 +1649,8 @@ ul.social-network li {
   outline: none;
   -webkit-box-shadow: none;
   box-shadow: none;
-  border-color: #333333;
-  border-bottom: 2px solid #333333;
+  border-color: #1a1a1a;
+  border-bottom: 2px solid #1a1a1a;
 }
 
 .btn-contact {
@@ -1659,7 +1664,7 @@ ul.social-network li {
   border-width: 0;
   -webkit-transition: background-color 0.15s ease-out;
   transition: background-color 0.15s ease-out;
-  background-color: #333333;
+  background-color: #1a1a1a;
   margin-top: 10px;
   border-radius: 0;
 }
@@ -1701,7 +1706,7 @@ ul.social-network li {
 
 .feature .text h3 {
   margin-bottom: 20px;
-  color: #333333;
+  color: #1a1a1a;
   font-size: 16px;
   font-family: 'Questrial', sans-serif;
 }
@@ -1711,7 +1716,7 @@ ul.social-network li {
 }
 
 .feature.feature-sm .icon i {
-  color: #333333;
+  color: #1a1a1a;
   font-size: 40px;
 }
 
@@ -1743,7 +1748,7 @@ ul.social-network li {
 
 .nav-toggle.dark.active i::before,
 .nav-toggle.dark.active i::after {
-  background: #333333;
+  background: #1a1a1a;
 }
 
 .nav-toggle:hover,
@@ -1786,8 +1791,8 @@ ul.social-network li {
 
 .nav-toggle.dark i {
   position: relative;
-  color: #333333;
-  background: #333333;
+  color: #1a1a1a;
+  background: #1a1a1a;
   -webkit-transition: all 0.2s ease-out;
   -o-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
@@ -1795,7 +1800,7 @@ ul.social-network li {
 
 .nav-toggle.dark i::before,
 .nav-toggle.dark i::after {
-  background: #333333;
+  background: #1a1a1a;
   -webkit-transition: 0.2s;
   -o-transition: 0.2s;
   transition: 0.2s;
@@ -1851,7 +1856,7 @@ ul.social-network li {
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
-  background: #333333;
+  background: #1a1a1a;
   margin: 15px 30px;
   border-radius: 50%;
 }
@@ -1901,11 +1906,11 @@ ul.social-network li {
 }
 
 .gray-icon {
-  color: #333333;
+  color: #1a1a1a;
   background: transparent;
   padding: 6px;
   border-radius: 50%;
-  border: 1px solid #333333;
+  border: 1px solid #1a1a1a;
   font-size: 18px;
   width: 32px;
   height: 32px;
@@ -1915,7 +1920,7 @@ ul.social-network li {
 }
 
 .yellow-icon {
-  color: #333333;
+  color: #1a1a1a;
   background: transparent;
   font-size: 24px;
   display: inline-flex;
