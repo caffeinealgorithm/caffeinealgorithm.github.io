@@ -2,14 +2,21 @@
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-  {% if page.id == "links" %}
+  {% if page.id == "links" or page.id == "categorias" %}
   <meta name="robots" content="noindex" />
   {% endif %}
 
   <meta name="author" content="{{ site.author.name }}" />
   <meta name="organization" content="{{ site.organization.name }}" />
-  <meta name="description" content="{{ site.description }}" />
+
+  <meta
+    name="description"
+    content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"
+  />
+
+  <!-- TODO: This keywords should be different for each page -->
   <meta name="keywords" content="{{ site.keywords }}" />
+
   <meta
     name="viewport"
     content="width=device-width, initial-scale=1, maximum-scale=1"
@@ -20,11 +27,25 @@
   {% endif %} {% endif %}
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="{{ site.title }}" />
-  <meta name="twitter:description" content="{{ site.description }}" />
+
+  <meta
+    name="twitter:title"
+    content="{% if page.title %}{{ page.title }} - {{ site.organization.name }}{% else
+      %}{{ site.title }}{% endif %}"
+  />
+
+  <meta
+    name="twitter:description"
+    content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"
+  />
+
+  <meta
+    name="twitter:image"
+    content="{{ 'assets/img/logo.png' | prepend: site.baseurl | prepend: site.url }}"
+  />
 
   <title>
-    {% if page.title %}{{ site.organization.name }} | {{ page.title }}{% else
+    {% if page.title %}{{ page.title }} - {{ site.organization.name }}{% else
     %}{{ site.title }}{% endif %}
   </title>
 
