@@ -2,56 +2,56 @@
 include.pageurl %} {% else %} {% assign pageurl = page.url %} {% endif %}
 
 <ul
-  id="share-buttons"
-  class="share animate-box fadeInLeft animated"
+  id="shr-bttns"
+  class="shr animate-box fadeInLeft animated"
   data-animate-effect="fadeInLeft"
 >
-  <li class="facebook">
-    <a
-      href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}"
-      onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
-      title="Partilhar no Facebook"
-    >
+  <a
+    href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}"
+    onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+    title="Partilhar no Facebook"
+  >
+    <li class="facebook">
       <i class="fab fa-facebook-f"></i>
-    </a>
-  </li>
+    </li>
+  </a>
 
-  <li class="twitter">
-    <a
-      href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ site.baseurl }}{{ page.url }}"
-      onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
-      title="Partilhar no Twitter"
-    >
+  <a
+    href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ site.baseurl }}{{ page.url }}"
+    onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+    title="Partilhar no Twitter"
+  >
+    <li class="twitter">
       <i class="fab fa-twitter"></i>
-    </a>
-  </li>
+    </li>
+  </a>
 
-  <li class="linkedin">
-    <a
-      href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title={{ page.title }}&summary={{ page.description }}&source={{ site.title }}"
-      onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
-      title="Partilhar no LinkedIn"
-    >
+  <a
+    href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title={{ page.title }}&summary={{ page.description }}&source={{ site.title }}"
+    onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+    title="Partilhar no LinkedIn"
+  >
+    <li class="linkedin">
       <i class="fab fa-linkedin-in"></i>
-    </a>
-  </li>
+    </li>
+  </a>
 
-  <li class="reddit">
-    <a
-      href="http://www.reddit.com/submit?url={{ site.url }}{{ site.baseurl }}{{ page.url }}"
-      onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;"
-      title="Partilhar no Reddit"
-    >
+  <a
+    href="http://www.reddit.com/submit?url={{ site.url }}{{ site.baseurl }}{{ page.url }}"
+    onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;"
+    title="Partilhar no Reddit"
+  >
+    <li class="reddit">
       <i class="fab fa-reddit-alien"></i>
-    </a>
-  </li>
+    </li>
+  </a>
 
-  <li class="email">
-    <a
-      href="mailto:?subject={{ page.title }}&amp;body={{ site.url }}{{ site.baseurl }}{{ page.url }}"
-      title="Partilhar por Email"
-    >
+  <a
+    href="mailto:?subject={{ page.title }}&amp;body={{ site.url }}{{ site.baseurl }}{{ page.url }}"
+    title="Partilhar por Email"
+  >
+    <li class="email">
       <i class="fas fa-envelope"></i>
-    </a>
-  </li>
+    </li>
+  </a>
 </ul>
