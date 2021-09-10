@@ -29,7 +29,7 @@ description: Lê todas as publicações devidamente escritas relacionadas com o 
               <span
                 >{{ post.date | date: '%-d' }} {{ months }}, {{ post.date |
                 date: '%Y' }} | {% for category in post.categories %}<a
-                  href="{{ site.baseurl }}categorias/#{{ category }}"
+                  href="{{ 'categorias/#' | prepend: site.baseurl | prepend: site.url }}{{ category }}"
                   >{{ category }}{% unless forloop.last %},&nbsp;{% endunless
                   %}</a
                 >
@@ -38,7 +38,7 @@ description: Lê todas as publicações devidamente escritas relacionadas com o 
 
               <h3>
                 <a
-                  href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}"
+                  href="{{ '' | prepend: site.baseurl | prepend: site.url }}{{ post.url | remove_first: '/' }}"
                   title="{{ post.title }}"
                 >
                   {{ post.title }}
@@ -51,7 +51,7 @@ description: Lê todas as publicações devidamente escritas relacionadas com o 
 
               <p>
                 <a
-                  href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}"
+                  href="{{ '' | prepend: site.baseurl | prepend: site.url }}{{ post.url | remove_first: '/' }}"
                   class="lead"
                 >
                   Ler mais <i class="ti-shift-right-alt"></i>
@@ -80,7 +80,8 @@ description: Lê todas as publicações devidamente escritas relacionadas com o 
                   {% for category in site.categories limit:10 %} {% capture
                   category_name %}{{ category | first }}{% endcapture %}
                   <li class="cat-item">
-                    <a href="{{ site.baseurl }}categorias/#{{ category_name }}"
+                    <a
+                      href="{{ 'categorias/#' | prepend: site.baseurl | prepend: site.url }}{{ category_name }}"
                       ><i class="ti-minus"></i> {{ category_name }}</a
                     >
                   </li>
@@ -104,7 +105,7 @@ description: Lê todas as publicações devidamente escritas relacionadas com o 
                 endcase %}{% endcapture %}
                 <div class="latest">
                   <a
-                    href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}"
+                    href="{{ '' | prepend: site.baseurl | prepend: site.url }}{{ post.url | remove_first: '/' }}"
                     class="clearfix"
                   >
                     <div class="txt1">{{ post.title }}</div>

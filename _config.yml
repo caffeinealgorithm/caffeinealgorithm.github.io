@@ -76,7 +76,7 @@ links:
     icon: fab fa-linkedin
 
 collections:
-  python:
+  anuncios:
     output: false
     sort_by: id
 

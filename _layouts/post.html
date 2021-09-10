@@ -46,7 +46,8 @@ layout: default
           <i class="fas fa-tags"></i>
           <span class="comments-link">
             {% for category in page.categories %}
-            <a href="{{ site.baseurl }}categorias/#{{ category }}"
+            <a
+              href="{{ '' | prepend: site.baseurl | prepend: site.url }}categorias/#{{ category }}"
               >{{ category }}</a
             >
             {% endfor %}</span
@@ -92,7 +93,9 @@ layout: default
                   {% for category in site.categories limit:10 %} {% capture
                   category_name %}{{ category | first }}{% endcapture %}
                   <li class="cat-item">
-                    <a href="{{ site.baseurl }}categorias/#{{ category_name }}">
+                    <a
+                      href="{{ '' | prepend: site.baseurl | prepend: site.url }}categorias/#{{ category_name }}"
+                    >
                       <i class="ti-minus"></i> {{ category_name }}
                     </a>
                   </li>
@@ -116,7 +119,7 @@ layout: default
                 endcase %}{% endcapture %}
                 <div class="latest">
                   <a
-                    href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}"
+                    href="{{ '' | prepend: site.baseurl | prepend: site.url }}{{ post.url | remove_first: '/' }}"
                     class="clearfix"
                   >
                     <div class="txt1">{{ post.title }}</div>

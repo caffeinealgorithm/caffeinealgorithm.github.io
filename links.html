@@ -10,11 +10,7 @@ id: links
   <header>
     <a href="{{ site.baseurl }}" target="_blank" class="content">
       <img
-        src="{{
-            'assets/img/logo.png'
-              | prepend: site.baseurl
-              | prepend: site.url
-          }}"
+        src="{{ 'assets/img/logo.png' | prepend: site.baseurl | prepend: site.url }}"
       />
 
       <div>
