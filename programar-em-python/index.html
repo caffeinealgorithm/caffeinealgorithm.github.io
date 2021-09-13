@@ -1,0 +1,68 @@
+---
+layout: default
+title: Programar em Python
+description: Visualiza todos os vídeos referentes à série de nome &quot;Programar em Python&quot;. Aprende a desenvolver nesta linguagem de programação de forma totalmente gratuita.
+keywords: programar em python, programar, python
+---
+
+<div id="main">
+  <div class="blog">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-12">
+          <span class="heading-meta">Visualizar</span>
+          <h2 class="heading animate-box" data-animate-effect="fadeInLeft">
+            Programar em Python
+          </h2>
+        </div>
+      </div>
+
+      <div class="row">
+        {% for video in site.python %} {% assign month = video.date | date:
+        "%-m" %} {% capture months %} {% case month %} {% when '1' %}Janeiro{%
+        when '2' %}Fevereiro{% when '3' %}Março{% when '4' %}Abril{% when '5'
+        %}Maio{% when '6' %}Junho{% when '7' %}Julho{% when '8' %}Agosto{% when
+        '9' %}Setembro{% when '10' %}Outubro{% when '11' %}Novembro{% when '12'
+        %}Dezembro{% endcase %}{% endcapture %}
+        <div
+          class="col-xs-12 col-sm-3 col-sm-6 col-lg-6 col-xl-3 animate-box"
+          data-animate-effect="fadeInLeft"
+        >
+          <a
+            href="https://www.youtube.com/embed/{{video.custom_id}}"
+            class="lightbox mfp-iframe"
+            title="{{ video.title }}"
+            url="https://www.youtube.com/watch?v={{video.custom_id}}"
+            class="desc"
+          >
+            <div class="project">
+              <img
+                src="{{ 'assets/img/playlists/python' | append: '/' | append: forloop.index | prepend: site.baseurl | prepend: site.url }}.png"
+                class="img-fluid"
+                alt=""
+              />
+
+              <div
+                class="desc"
+                style="
+                  display: flex;
+                  align-items: center;
+                  justify-content: center;
+                "
+              >
+                <div class="con">
+                  <i
+                    class="fab fa-youtube"
+                    style="font-size: 50px; color: #ffc900"
+                  ></i>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+        {% endfor %} {% if paginator.previous_page or paginator.next_page %} {%
+        include pagination.html %} {% endif %}
+      </div>
+    </div>
+  </div>
+</div>

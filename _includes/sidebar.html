@@ -37,6 +37,16 @@
           Anúncios
         </a>
       </li>
+
+      <li class="{% if active[1] == 'programar-em-python' %}active{% endif %}">
+        <a
+          href="{{
+            'programar-em-python' | prepend: site.baseurl | prepend: site.url
+          }}"
+        >
+          Programar em Python
+        </a>
+      </li>
     </ul>
   </nav>
 

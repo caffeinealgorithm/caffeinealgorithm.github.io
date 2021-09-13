@@ -79,6 +79,9 @@ collections:
   anuncios:
     output: false
     sort_by: id
+  python:
+    output: false
+    sort_by: id
 
 destination: _site
 paginate: 6
