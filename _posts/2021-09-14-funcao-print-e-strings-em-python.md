@@ -3,7 +3,7 @@ layout: post
 excerpt: Blog
 title: 'Função print() e Strings em Python'
 description: 'Descobre como se trabalha com a função print() e com as strings na linguagem de programação Python. Obtém respostas às tuas dúvidas com a teoria e os exemplos apresentados.'
-keywords: 'python, função print, função, print, strings, string'
+keywords: 'python, função print, função, print, strings, string, publicação'
 date: 2021-09-14
 categories: [Python]
 ---

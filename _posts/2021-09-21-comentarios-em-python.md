@@ -3,7 +3,7 @@ layout: post
 excerpt: Blog
 title: 'Comentários em Python'
 description: 'Descobre como se trabalha com comentários na linguagem de programação Python. Obtém respostas às tuas dúvidas com a teoria e os exemplos apresentados.'
-keywords: 'python, comentários, comentário'
+keywords: 'python, comentários, comentário, publicação'
 date: 2021-09-21
 categories: [Python]
 ---

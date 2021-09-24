@@ -3,14 +3,14 @@ layout: post
 excerpt: Blog
 title: 'Operadores de Atribuição em Python'
 description: 'Descobre como se trabalha com operadores de atribuição na linguagem de programação Python. Obtém respostas às tuas dúvidas com a teoria e os exemplos apresentados.'
-keywords: 'python, operadores de atribuição, operadores, atribuição'
+keywords: 'python, operadores de atribuição, operadores, atribuição, publicação'
 date: 2021-09-17
 categories: [Python]
 ---
 
 Nesta publicação aprende-se a trabalhar com operadores de atribuição para que se possa usar esses mesmos conhecimentos e assim evoluir.
 
-`a += 3` | `a = a + 3`
+`a += 2` | `a = a + 2`
 `b -= 2` | `b = b - 2`
 `c *= 2` | `c = c * 2`
 `d /= 2` | `d = d / 2`

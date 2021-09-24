@@ -3,7 +3,7 @@ layout: post
 excerpt: Blog
 title: 'Mais sobre as Strings em Python'
 description: 'Descobre como se trabalha com algo mais sobre as strings na linguagem de programação Python. Obtém respostas às tuas dúvidas com a teoria e os exemplos apresentados.'
-keywords: 'python, strings, string'
+keywords: 'python, strings, string, publicação'
 date: 2021-09-20
 categories: [Python]
 ---

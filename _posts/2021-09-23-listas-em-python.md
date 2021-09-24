@@ -3,7 +3,7 @@ layout: post
 excerpt: Blog
 title: 'Listas em Python'
 description: 'Descobre como se trabalha com listas na linguagem de programação Python. Obtém respostas às tuas dúvidas com a teoria e os exemplos apresentados.'
-keywords: 'python, listas, lista'
+keywords: 'python, listas, lista, publicação'
 date: 2021-09-23
 categories: [Python]
 ---
