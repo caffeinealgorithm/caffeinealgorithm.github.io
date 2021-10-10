@@ -1,33 +1,131 @@
 ---
 layout: default
-keywords: organização, desenvolvimento
+description: Uma organização de desenvolvimento que ama cafeína e algoritmos (lê as últimas publicações e visualiza os últimos vídeos publicados).
+keywords: organização, desenvolvimento, cafeína, algoritmos, publicações, vídeos
 ---
 
 <div id="main">
-  <aside id="hero" class="js-fullheight">
-    <div class="flexslider js-fullheight">
-      <ul class="slides">
-        <li
-          style="background-image: url({{
-          'assets/img/cover.png'
-            | prepend: site.baseurl
-            | prepend: site.url
-        }})"
+  <div class="blog">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-12">
+          <span class="heading-meta">Ler</span>
+          <h2 class="heading animate-box" data-animate-effect="fadeInLeft">
+            Últimas Publicações
+          </h2>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-12 col-lg-12">
+          <div class="sidebar-block-content">
+            {% for post in site.posts limit:3 %} {% assign month = post.date |
+            date: "%-m" %} {% capture months %} {% case month %} {% when '1'
+            %}Janeiro{% when '2' %}Fevereiro{% when '3' %}Março{% when '4'
+            %}Abril{% when '5' %}Maio{% when '6' %}Junho{% when '7' %}Julho{%
+            when '8' %}Agosto{% when '9' %}Setembro{% when '10' %}Outubro{% when
+            '11' %}Novembro{% when '12' %}Dezembro{% endcase %}{% endcapture %}
+            <div
+              class="blog-entry animate-box"
+              data-animate-effect="fadeInLeft"
+            >
+              <div class="desc">
+                <span
+                  >{{ post.date | date: '%-d' }} {{ months }}, {{ post.date |
+                  date: '%Y' }} | {% for category in post.categories %}<a
+                    href="{{ 'categorias/#' | prepend: site.baseurl | prepend: site.url }}{{ category }}"
+                    >{{ category }}{% unless forloop.last %},&nbsp;{% endunless
+                    %}</a
+                  >
+                  {% endfor %}
+                </span>
+
+                <h3>
+                  <a
+                    href="{{ '' | prepend: site.baseurl | prepend: site.url }}{{ post.url | remove_first: '/' }}"
+                    title="{{ post.title }}"
+                  >
+                    {{ post.title }}
+                  </a>
+                </h3>
+
+                <p class="post-content">
+                  {{ post.content | strip_html | truncatewords: 45 }}
+                </p>
+
+                <p>
+                  <a
+                    href="{{ '' | prepend: site.baseurl | prepend: site.url }}{{ post.url | remove_first: '/' }}"
+                    class="lead"
+                  >
+                    Ler mais <i class="ti-shift-right-alt"></i>
+                  </a>
+                </p>
+              </div>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-12">
+          <span class="heading-meta">Visualizar</span>
+          <h2 class="heading animate-box" data-animate-effect="fadeInLeft">
+            Últimos Vídeos
+          </h2>
+        </div>
+      </div>
+
+      <div class="row">
+        {% assign videos = site.python | reverse %} {% for video in videos
+        limit:4 %} {% assign month = video.date | date: "%-m" %} {% capture
+        months %} {% case month %} {% when '1' %}Janeiro{% when '2'
+        %}Fevereiro{% when '3' %}Março{% when '4' %}Abril{% when '5' %}Maio{%
+        when '6' %}Junho{% when '7' %}Julho{% when '8' %}Agosto{% when '9'
+        %}Setembro{% when '10' %}Outubro{% when '11' %}Novembro{% when '12'
+        %}Dezembro{% endcase %}{% endcapture %}
+        <div
+          class="col-xs-12 col-sm-3 col-sm-6 col-lg-6 col-xl-3 animate-box"
+          data-animate-effect="fadeInLeft"
         >
-          <div class="overlay"></div>
-          <div class="container-fluid">
-            <div class="row">
-              <div class="col-md-12 js-fullheight slider-text">
-                <div class="slider-text-inner">
-                  <div class="desc">
-                    <h1>{{ site.organization.name }}</h1>
-                  </div>
+          <a
+            href="https://www.youtube.com/embed/{{video.custom_id}}"
+            class="lightbox mfp-iframe"
+            title="{{ video.title }}"
+            url="https://www.youtube.com/watch?v={{video.custom_id}}"
+            class="desc"
+          >
+            <div class="project">
+              <img
+                src="{{ 'assets/img/playlists' | append: '/' | append: video.id | prepend: site.baseurl | prepend: site.url }}.png"
+                class="img-fluid"
+                alt=""
+              />
+
+              <div
+                class="desc"
+                style="
+                  display: flex;
+                  align-items: center;
+                  justify-content: center;
+                "
+              >
+                <div class="con">
+                  <i
+                    class="fab fa-youtube"
+                    style="font-size: 50px; color: #ffc900"
+                  ></i>
                 </div>
               </div>
             </div>
-          </div>
-        </li>
-      </ul>
+          </a>
+        </div>
+        {% endfor %} {% if paginator.previous_page or paginator.next_page %} {%
+        include pagination.html %} {% endif %}
+      </div>
     </div>
-  </aside>
+  </div>
 </div>
