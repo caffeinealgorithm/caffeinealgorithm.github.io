@@ -18,12 +18,7 @@ keywords: programar em python, programar, python
       </div>
 
       <div class="row">
-        {% for video in site.python %} {% assign month = video.date | date:
-        "%-m" %} {% capture months %} {% case month %} {% when '1' %}Janeiro{%
-        when '2' %}Fevereiro{% when '3' %}Março{% when '4' %}Abril{% when '5'
-        %}Maio{% when '6' %}Junho{% when '7' %}Julho{% when '8' %}Agosto{% when
-        '9' %}Setembro{% when '10' %}Outubro{% when '11' %}Novembro{% when '12'
-        %}Dezembro{% endcase %}{% endcapture %}
+        {% for video in site.python %}
         <div
           class="col-xs-12 col-sm-3 col-sm-6 col-lg-6 col-xl-3 animate-box"
           data-animate-effect="fadeInLeft"
@@ -60,8 +55,7 @@ keywords: programar em python, programar, python
             </div>
           </a>
         </div>
-        {% endfor %} {% if paginator.previous_page or paginator.next_page %} {%
-        include pagination.html %} {% endif %}
+        {% endfor %}
       </div>
     </div>
   </div>
