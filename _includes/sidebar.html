@@ -47,6 +47,14 @@
           Programar em Python
         </a>
       </li>
+      <li class="{% if active[1] == 'programar-em-csharp' %}active{% endif %}">
+        <a
+          href="{{
+            'programar-em-csharp' | prepend: site.baseurl | prepend: site.url
+          }}"
+          >Programar em C#</a
+        >
+      </li>
     </ul>
   </nav>
 
