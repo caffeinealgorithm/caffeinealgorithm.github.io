@@ -91,9 +91,9 @@ p {
 
 a {
   color: #1a1a1a;
-  -webkit-transition: 0.5s;
+  /* -webkit-transition: 0.5s;
   -o-transition: 0.5s;
-  transition: 0.5s;
+  transition: 0.5s; */
 }
 
 a:hover,
@@ -209,8 +209,8 @@ button {
   font-weight: 300;
   border: none;
   color: #fff;
-  -webkit-transition: background-color 0.15s ease-out;
-  transition: background-color 0.15s ease-out;
+  /* -webkit-transition: background-color 0.15s ease-out;
+  transition: background-color 0.15s ease-out; */
   background-color: #1a1a1a;
   margin-top: 10px;
 }
@@ -228,8 +228,8 @@ a.button {
   font-weight: 300;
   border: none;
   color: #fff;
-  -webkit-transition: background-color 0.15s ease-out;
-  transition: background-color 0.15s ease-out;
+  /* -webkit-transition: background-color 0.15s ease-out;
+  transition: background-color 0.15s ease-out; */
   background-color: #1a1a1a;
   margin-top: 10px;
   display: inline-block;
@@ -490,9 +490,9 @@ input[type='checkbox'] {
   padding: 0;
   font-family: 'Questrial', sans-serif;
   font-weight: 400;
-  -webkit-transition: 0.3s;
+  /* -webkit-transition: 0.3s;
   -o-transition: 0.3s;
-  transition: 0.3s;
+  transition: 0.3s; */
 }
 
 #aside #main-menu ul li a:hover {
@@ -511,11 +511,11 @@ input[type='checkbox'] {
 
 #aside #main-menu ul li.active a:after {
   visibility: visible;
-  -webkit-transform: scaleX(1);
+  /* -webkit-transform: scaleX(1);
   -moz-transform: scaleX(1);
   -ms-transform: scaleX(1);
   -o-transform: scaleX(1);
-  transform: scaleX(1);
+  transform: scaleX(1); */
 }
 
 #aside .footer {
@@ -588,9 +588,9 @@ input[type='checkbox'] {
 #main {
   width: 77%;
   float: right;
-  -webkit-transition: 0.5s;
+  /* -webkit-transition: 0.5s;
   -o-transition: 0.5s;
-  transition: 0.5s;
+  transition: 0.5s; */
 }
 
 @media screen and (max-width: 1200px) {
@@ -830,14 +830,14 @@ body.offcanvas .nav-toggle {
 .blog-entry .blog-img img {
   position: relative;
   max-width: 100%;
-  -webkit-transform: scale(1);
+  /* -webkit-transform: scale(1);
   -moz-transform: scale(1);
   -ms-transform: scale(1);
   -o-transform: scale(1);
   transform: scale(1);
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
-  transition: 0.3s;
+  transition: 0.3s; */
 }
 
 .blog-entry .desc h3 {
@@ -875,13 +875,13 @@ body.offcanvas .nav-toggle {
   color: #1a1a1a;
 }
 
-.blog-entry:hover .blog-img img {
+/* .blog-entry:hover .blog-img img {
   -webkit-transform: scale(1.1);
   -moz-transform: scale(1.1);
   -ms-transform: scale(1.1);
   -o-transform: scale(1.1);
   transform: scale(1.1);
-}
+} */
 
 .post img {
   padding-bottom: 30px;
@@ -917,9 +917,9 @@ body.offcanvas .nav-toggle {
   border: 0;
   padding: 12px 20px;
   font-size: 16px;
-  -webkit-transition: all 0.3s;
+  /* -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
-  transition: all 0.3s;
+  transition: all 0.3s; */
   color: #909090;
   background: transparent;
 }
@@ -939,10 +939,10 @@ body.offcanvas .nav-toggle {
   color: #707070;
   text-decoration: none;
   display: block;
-  transition: all 0.3s ease-out;
+  /* transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
   -webkit-transition: all 0.3s ease-out;
-  -o-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out; */
 }
 
 .ul1 > li a:hover {
@@ -966,10 +966,10 @@ body.offcanvas .nav-toggle {
 
 .latest a .txt2 {
   color: #707070;
-  transition: all 0.3s ease-out;
+  /* transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
   -webkit-transition: all 0.3s ease-out;
-  -o-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out; */
 }
 
 .latest a:hover .txt2 {
@@ -1010,10 +1010,10 @@ body.offcanvas .nav-toggle {
   text-decoration: none;
   font-size: 13px;
   color: #707070;
-  transition: all 0.3s ease-out;
+  /* transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
   -webkit-transition: all 0.3s ease-out;
-  -o-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out; */
 }
 
 .tags li a:hover {
@@ -1229,9 +1229,9 @@ ol.comment-list li .children li {
   right: 0;
   background: rgba(0, 0, 0, 0.3);
   opacity: 0;
-  -webkit-transition: 0.3s;
+  /* -webkit-transition: 0.3s;
   -o-transition: 0.3s;
-  transition: 0.3s;
+  transition: 0.3s; */
 }
 
 .project .desc .con {
@@ -1273,14 +1273,14 @@ ol.comment-list li .children li {
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 1px;
-  -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
+  /* -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
   -webkit-transition: opacity 0.3s, -webkit-transform 0.3s;
   transition: opacity 0.3s, -webkit-transform 0.3s;
   -o-transition: transform 0.3s, opacity 0.3s;
   transition: transform 0.3s, opacity 0.3s;
   transition: transform 0.3s, opacity 0.3s, -webkit-transform 0.3s;
   -webkit-transform: translate3d(0, -15px, 0);
-  transform: translate3d(0, -15px, 0);
+  transform: translate3d(0, -15px, 0); */
   margin-bottom: 15px;
 }
 
@@ -1292,14 +1292,14 @@ ol.comment-list li .children li {
   display: block;
   color: #ccc;
   font-size: 13px;
-  -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
+  /* -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
   -webkit-transition: opacity 0.3s, -webkit-transform 0.3s;
   transition: opacity 0.3s, -webkit-transform 0.3s;
   -o-transition: transform 0.3s, opacity 0.3s;
   transition: transform 0.3s, opacity 0.3s;
   transition: transform 0.3s, opacity 0.3s, -webkit-transform 0.3s;
   -webkit-transform: translate3d(0, 15px, 0);
-  transform: translate3d(0, 15px, 0);
+  transform: translate3d(0, 15px, 0); */
 }
 
 .project .desc span a {
@@ -1310,7 +1310,7 @@ ol.comment-list li .children li {
   opacity: 1;
 }
 
-.project:hover .desc h3 {
+/* .project:hover .desc h3 {
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
 }
@@ -1318,7 +1318,7 @@ ol.comment-list li .children li {
 .project:hover .desc span {
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
-}
+} */
 
 .project-desc h2 {
   color: #1a1a1a;
@@ -1616,8 +1616,8 @@ ul.social-network li {
   color: #fff;
   letter-spacing: 1px;
   border-width: 0;
-  -webkit-transition: background-color 0.15s ease-out;
-  transition: background-color 0.15s ease-out;
+  /* -webkit-transition: background-color 0.15s ease-out;
+  transition: background-color 0.15s ease-out; */
   background-color: #1a1a1a;
   margin-top: 10px;
   border-radius: 0;
@@ -1724,9 +1724,9 @@ ul.social-network li {
   text-transform: uppercase;
   text-indent: -55px;
   background: #fff;
-  -webkit-transition: all 0.2s ease-out;
+  /* -webkit-transition: all 0.2s ease-out;
   -o-transition: all 0.2s ease-out;
-  transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out; */
   top: -2px;
 }
 
@@ -1738,26 +1738,26 @@ ul.social-network li {
   background: #fff;
   position: absolute;
   left: 0;
-  -webkit-transition: 0.2s;
+  /* -webkit-transition: 0.2s;
   -o-transition: 0.2s;
-  transition: 0.2s;
+  transition: 0.2s; */
 }
 
 .nav-toggle.dark i {
   position: relative;
   color: #1a1a1a;
   background: #1a1a1a;
-  -webkit-transition: all 0.2s ease-out;
+  /* -webkit-transition: all 0.2s ease-out;
   -o-transition: all 0.2s ease-out;
-  transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out; */
 }
 
 .nav-toggle.dark i::before,
 .nav-toggle.dark i::after {
   background: #1a1a1a;
-  -webkit-transition: 0.2s;
+  /* -webkit-transition: 0.2s;
   -o-transition: 0.2s;
-  transition: 0.2s;
+  transition: 0.2s; */
 }
 
 .nav-toggle i::before {
@@ -1782,20 +1782,20 @@ ul.social-network li {
 
 .nav-toggle.active i::before {
   top: 0;
-  -webkit-transform: rotateZ(45deg);
+  /* -webkit-transform: rotateZ(45deg);
   -moz-transform: rotateZ(45deg);
   -ms-transform: rotateZ(45deg);
   -o-transform: rotateZ(45deg);
-  transform: rotateZ(45deg);
+  transform: rotateZ(45deg); */
 }
 
 .nav-toggle.active i::after {
   bottom: 0;
-  -webkit-transform: rotateZ(-45deg);
+  /* -webkit-transform: rotateZ(-45deg);
   -moz-transform: rotateZ(-45deg);
   -ms-transform: rotateZ(-45deg);
   -o-transform: rotateZ(-45deg);
-  transform: rotateZ(-45deg);
+  transform: rotateZ(-45deg); */
 }
 
 .nav-toggle {
@@ -1807,9 +1807,9 @@ ul.social-network li {
   opacity: 1;
   visibility: hidden;
   padding: 12px 15px;
-  -webkit-transition: 0.5s;
+  /* -webkit-transition: 0.5s;
   -o-transition: 0.5s;
-  transition: 0.5s;
+  transition: 0.5s; */
   background: #1a1a1a;
   margin: 15px 30px;
   border-radius: 50%;
@@ -1828,9 +1828,9 @@ ul.social-network li {
 
 #sticky_item {
   overflow: hidden;
-  -webkit-transition: 0.3s;
+  /* -webkit-transition: 0.3s;
   -o-transition: 0.3s;
-  transition: 0.3s;
+  transition: 0.3s; */
 }
 
 #sticky_item.is_stuck {

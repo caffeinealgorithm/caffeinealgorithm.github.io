@@ -11,9 +11,7 @@ keywords: blog, publicações, anúncios, programar em python, python
       <div class="row">
         <div class="col-md-12">
           <span class="heading-meta">Ler</span>
-          <h2 class="heading animate-box" data-animate-effect="fadeInLeft">
-            Blog
-          </h2>
+          <h2 class="heading">Blog</h2>
         </div>
       </div>
 
@@ -25,7 +23,7 @@ keywords: blog, publicações, anúncios, programar em python, python
           %}Maio{% when '6' %}Junho{% when '7' %}Julho{% when '8' %}Agosto{%
           when '9' %}Setembro{% when '10' %}Outubro{% when '11' %}Novembro{%
           when '12' %}Dezembro{% endcase %}{% endcapture %}
-          <div class="blog-entry animate-box" data-animate-effect="fadeInLeft">
+          <div class="blog-entry">
             <div class="desc">
               <span
                 >{{ post.date | date: '%-d' }} {{ months }}, {{ post.date |
@@ -66,15 +64,9 @@ keywords: blog, publicações, anúncios, programar em python, python
 
         <div class="col-md-12 col-lg-4">
           <div class="sidebar-part">
-            <div
-              class="sidebar-block sidebar-block-search animate-box"
-              data-animate-effect="fadeInLeft"
-            ></div>
+            <div class="sidebar-block sidebar-block-search"></div>
 
-            <div
-              class="sidebar-block sidebar-block-categories animate-box"
-              data-animate-effect="fadeInLeft"
-            >
+            <div class="sidebar-block sidebar-block-categories">
               <div class="sidebar-block-title">Categorias</div>
               <div class="sidebar-block-content">
                 <ul class="ul1">
@@ -91,10 +83,7 @@ keywords: blog, publicações, anúncios, programar em python, python
               </div>
             </div>
 
-            <div
-              class="sidebar-block sidebar-block-latest-posts animate-box"
-              data-animate-effect="fadeInLeft"
-            >
+            <div class="sidebar-block sidebar-block-latest-posts">
               <div class="sidebar-block-title">Últimas Publicações</div>
               <div class="sidebar-block-content">
                 {% for post in site.posts limit:3 %} {% assign month = post.date
