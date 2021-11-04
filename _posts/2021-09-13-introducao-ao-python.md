@@ -21,8 +21,8 @@ Algumas características importantes sobre a linguagem que vamos aprender nesta 
 
 Não esquecer que tal linguagem pode ser usada para a análise de dados, para a inteligência artificial, machine learning, construção de aplicações, de websites e etc.
 
-- Instalação do Python 3.\*;
-- Instalação do Visual Studio Code (opcional).
+- instalação do Python 3.\*;
+- instalação do Visual Studio Code (opcional).
 
 Não te esqueças de [assistir ao vídeo](https://youtu.be/H4PE1xN4AGM){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20210913/introduction-to-python/){:target="\_blank"}.
 

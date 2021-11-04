@@ -20,7 +20,7 @@ Nesta publicação aprende-se a trabalhar com operadores aritméticos para que s
 ```python
 print('Adição:', 10 + 10) # Adição: 20
 print('Subtração:', 10.5 - 5.5 - 4.5) # Subtração: 0.5
-print('Multiplicação:', -10 * -2) # Multiplicação: -20
+print('Multiplicação:', -10 * 2) # Multiplicação: -20
 print('Divisão:', 10 / 10) # Divisão: 1.0
 print('Resto:', 8 % 2) # Resto: 0
 print('Exponente:', 2 ** 5) # Exponente: 32 (2 * 2 * 2 * 2 * 2)
