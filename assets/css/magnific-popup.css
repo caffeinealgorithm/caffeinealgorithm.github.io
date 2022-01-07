@@ -284,6 +284,7 @@ button::-moz-focus-inner {
 
 .mfp-iframe-holder .mfp-close {
   top: -40px;
+  display: none;
 }
 
 .mfp-iframe-scaler {

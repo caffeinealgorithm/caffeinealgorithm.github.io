@@ -4,7 +4,7 @@
   <a id="logo" href="{{ site.baseurl }}">
     <img
       class="logo"
-      src="{{ 'assets/img/logo.png' | prepend: site.baseurl | prepend: site.url }}"
+      src="{{ '/assets/img/logo.png' | prepend: site.baseurl | prepend: site.url }}"
     />
   </a>
 
@@ -21,7 +21,7 @@
       <li class="{% if active[1] == 'blog' %}active{% endif %}">
         <a
           href="{{
-            'blog' | prepend: site.baseurl | prepend: site.url
+            '/blog' | prepend: site.baseurl | prepend: site.url
           }}"
         >
           Blog
@@ -31,7 +31,7 @@
       <li class="{% if active[1] == 'anuncios' %}active{% endif %}">
         <a
           href="{{
-            'anuncios' | prepend: site.baseurl | prepend: site.url
+            '/anuncios' | prepend: site.baseurl | prepend: site.url
           }}"
         >
           Anúncios
@@ -41,7 +41,7 @@
       <li class="{% if active[1] == 'programar-em-python' %}active{% endif %}">
         <a
           href="{{
-            'programar-em-python' | prepend: site.baseurl | prepend: site.url
+            '/programar-em-python' | prepend: site.baseurl | prepend: site.url
           }}"
         >
           Programar em Python
@@ -50,7 +50,7 @@
       <li class="{% if active[1] == 'programar-em-csharp' %}active{% endif %}">
         <a
           href="{{
-            'programar-em-csharp' | prepend: site.baseurl | prepend: site.url
+            '/programar-em-csharp' | prepend: site.baseurl | prepend: site.url
           }}"
           >Programar em C#</a
         >

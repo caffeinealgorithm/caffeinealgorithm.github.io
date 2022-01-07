@@ -28,7 +28,7 @@ keywords: blog, publicações, anúncios, programar em python, python
               <span
                 >{{ post.date | date: '%-d' }} {{ months }}, {{ post.date |
                 date: '%Y' }} | {% for category in post.categories %}<a
-                  href="{{ 'categorias/#' | prepend: site.baseurl | prepend: site.url }}{{ category }}"
+                  href="{{ '/categorias/#' | prepend: site.baseurl | prepend: site.url }}{{ category }}"
                   >{{ category }}{% unless forloop.last %},&nbsp;{% endunless
                   %}</a
                 >
@@ -37,7 +37,7 @@ keywords: blog, publicações, anúncios, programar em python, python
 
               <h3>
                 <a
-                  href="{{ '' | prepend: site.baseurl | prepend: site.url }}{{ post.url | remove_first: '/' }}"
+                  href="{{ '/' | prepend: site.baseurl | prepend: site.url }}{{ post.url | remove_first: '/' }}"
                   title="{{ post.title }}"
                 >
                   {{ post.title }}
@@ -50,7 +50,7 @@ keywords: blog, publicações, anúncios, programar em python, python
 
               <p>
                 <a
-                  href="{{ '' | prepend: site.baseurl | prepend: site.url }}{{ post.url | remove_first: '/' }}"
+                  href="{{ '/' | prepend: site.baseurl | prepend: site.url }}{{ post.url | remove_first: '/' }}"
                   class="lead"
                 >
                   Ler mais <i class="ti-shift-right-alt"></i>
@@ -74,7 +74,7 @@ keywords: blog, publicações, anúncios, programar em python, python
                   category_name %}{{ category | first }}{% endcapture %}
                   <li class="cat-item">
                     <a
-                      href="{{ 'categorias/#' | prepend: site.baseurl | prepend: site.url }}{{ category_name }}"
+                      href="{{ '/categorias/#' | prepend: site.baseurl | prepend: site.url }}{{ category_name }}"
                       ><i class="ti-minus"></i> {{ category_name }}</a
                     >
                   </li>
@@ -95,7 +95,7 @@ keywords: blog, publicações, anúncios, programar em python, python
                 endcase %}{% endcapture %}
                 <div class="latest">
                   <a
-                    href="{{ '' | prepend: site.baseurl | prepend: site.url }}{{ post.url | remove_first: '/' }}"
+                    href="{{ '/' | prepend: site.baseurl | prepend: site.url }}{{ post.url | remove_first: '/' }}"
                     class="clearfix"
                   >
                     <div class="txt1">{{ post.title }}</div>

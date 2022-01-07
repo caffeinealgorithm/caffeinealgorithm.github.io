@@ -1,8 +1,7 @@
 title: 'Caffeine Algorithm'
 description: 'Uma organização de desenvolvimento que ama cafeína e algoritmos.'
 keywords: 'tecnologia, informática, programação, programador, código, cursos, séries, tutoriais, portugal, brasil, caffeinealgorithm, caffeine algorithm'
-url: 'https://caffeinealgorithm.com/'
-baseurl: '/'
+url: 'https://caffeinealgorithm.com'
 
 development: false
 
@@ -99,5 +98,5 @@ kramdown:
   syntax_highlighter_opts:
     css_class: 'highlight'
 
-plugins: ['jekyll-paginate']
+plugins: ['jekyll-paginate', 'jekyll-sitemap']
 exclude: ['README.md']

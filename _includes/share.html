@@ -3,7 +3,7 @@ include.pageurl %} {% else %} {% assign pageurl = page.url %} {% endif %}
 
 <ul id="shr-bttns" class="shr">
   <a
-    href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}"
+    href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}/{{ page.url }}"
     onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
     title="Partilhar no Facebook"
   >
@@ -13,7 +13,7 @@ include.pageurl %} {% else %} {% assign pageurl = page.url %} {% endif %}
   </a>
 
   <a
-    href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ site.baseurl }}{{ page.url }}"
+    href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ site.baseurl }}/{{ page.url }}"
     onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
     title="Partilhar no Twitter"
   >
@@ -23,7 +23,7 @@ include.pageurl %} {% else %} {% assign pageurl = page.url %} {% endif %}
   </a>
 
   <a
-    href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title={{ page.title }}&summary={{ page.description }}&source={{ site.title }}"
+    href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}/{{ page.url }}&title={{ page.title }}&summary={{ page.description }}&source={{ site.title }}"
     onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
     title="Partilhar no LinkedIn"
   >
@@ -33,7 +33,7 @@ include.pageurl %} {% else %} {% assign pageurl = page.url %} {% endif %}
   </a>
 
   <a
-    href="http://www.reddit.com/submit?url={{ site.url }}{{ site.baseurl }}{{ page.url }}"
+    href="http://www.reddit.com/submit?url={{ site.url }}{{ site.baseurl }}/{{ page.url }}"
     onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;"
     title="Partilhar no Reddit"
   >
@@ -43,7 +43,7 @@ include.pageurl %} {% else %} {% assign pageurl = page.url %} {% endif %}
   </a>
 
   <a
-    href="mailto:?subject={{ page.title }}&amp;body={{ site.url }}{{ site.baseurl }}{{ page.url }}"
+    href="mailto:?subject={{ page.title }}&amp;body={{ site.url }}{{ site.baseurl }}/{{ page.url }}"
     title="Partilhar por Email"
   >
     <li class="email">

@@ -28,7 +28,7 @@ keywords: organização, desenvolvimento, cafeína, algoritmos, publicações, v
                 <span
                   >{{ post.date | date: '%-d' }} {{ months }}, {{ post.date |
                   date: '%Y' }} | {% for category in post.categories %}<a
-                    href="{{ 'categorias/#' | prepend: site.baseurl | prepend: site.url }}{{ category }}"
+                    href="{{ '/categorias/#' | prepend: site.baseurl | prepend: site.url }}{{ category }}"
                     >{{ category }}{% unless forloop.last %},&nbsp;{% endunless
                     %}</a
                   >
@@ -37,7 +37,7 @@ keywords: organização, desenvolvimento, cafeína, algoritmos, publicações, v
 
                 <h3>
                   <a
-                    href="{{ '' | prepend: site.baseurl | prepend: site.url }}{{ post.url | remove_first: '/' }}"
+                    href="{{ '/' | prepend: site.baseurl | prepend: site.url }}{{ post.url | remove_first: '/' }}"
                     title="{{ post.title }}"
                   >
                     {{ post.title }}
@@ -50,7 +50,7 @@ keywords: organização, desenvolvimento, cafeína, algoritmos, publicações, v
 
                 <p>
                   <a
-                    href="{{ '' | prepend: site.baseurl | prepend: site.url }}{{ post.url | remove_first: '/' }}"
+                    href="{{ '/' | prepend: site.baseurl | prepend: site.url }}{{ post.url | remove_first: '/' }}"
                     class="lead"
                   >
                     Ler mais <i class="ti-shift-right-alt"></i>
@@ -87,7 +87,7 @@ keywords: organização, desenvolvimento, cafeína, algoritmos, publicações, v
           >
             <div class="project">
               <img
-                src="{{ 'assets/img/playlists' | append: '/' | append: video.id | prepend: site.baseurl | prepend: site.url }}.png"
+                src="{{ '/assets/img/playlists' | append: '/' | append: video.id | prepend: site.baseurl | prepend: site.url }}.png"
                 class="img-fluid"
                 alt=""
               />
