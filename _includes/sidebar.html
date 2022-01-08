@@ -1,10 +1,11 @@
 {% assign active = page.url | downcase | split: '/' %}
 
 <aside id="aside">
-  <a id="logo" href="{{ site.baseurl }}">
+  <a id="logo" href="/">
     <img
       class="logo"
       src="{{ '/assets/img/logo.png' | prepend: site.baseurl | prepend: site.url }}"
+      alt="Logo"
     />
   </a>
 
@@ -15,7 +16,7 @@
   <nav id="main-menu">
     <ul>
       <li class="{% if active[1] == null %}active{% endif %}">
-        <a href="{{ site.url }}">Início</a>
+        <a href="/">Início</a>
       </li>
 
       <li class="{% if active[1] == 'blog' %}active{% endif %}">

@@ -11,7 +11,7 @@ keywords: programar em c#, programar em csharp, programar, c#, csharp
       <div class="row">
         <div class="col-md-12">
           <span class="heading-meta">Visualizar</span>
-          <h2 class="heading">Programar em C#</h2>
+          <h1 class="heading">Programar em C#</h1>
         </div>
       </div>
 
@@ -27,17 +27,17 @@ keywords: programar em c#, programar em csharp, programar, c#, csharp
           data-animate-effect="fadeInLeft"
         >
           <a
-            href="https://www.youtube.com/embed/{{video.custom_id}}"
+            href="https://www.youtube.com/embed/{{ video.custom_id }}"
             class="lightbox mfp-iframe"
             title="{{ video.title }}"
-            url="https://www.youtube.com/watch?v={{video.custom_id}}"
+            url="https://www.youtube.com/watch?v={{ video.custom_id }}"
             class="desc"
           >
             <div class="project">
               <img
                 src="{{ '/assets/img/playlists/csharp' | append: '/' | append: forloop.index | prepend: site.baseurl | prepend: site.url }}.png"
                 class="img-fluid"
-                alt=""
+                alt="{{ video.title }}"
               />
 
               <div

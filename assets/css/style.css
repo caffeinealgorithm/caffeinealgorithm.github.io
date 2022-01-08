@@ -373,6 +373,15 @@ input[type='checkbox'] {
   transition: 0.5s;
 }
 
+#happy-coding {
+  color: #1a1a1a;
+  font-family: Questrial, sans-serif;
+  font-weight: 500;
+  line-height: 1.5em;
+  font-size: 26px;
+  margin: 0 0 20px 0;
+}
+
 @media screen and (max-width: 1200px) {
   #aside {
     width: 30%;

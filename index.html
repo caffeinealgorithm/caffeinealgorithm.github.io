@@ -9,6 +9,9 @@ keywords: organização, desenvolvimento, cafeína, algoritmos, publicações, v
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-12">
+          <h1 class="heading" style="position: fixed; top: -100px">
+            Caffeine Algorithm
+          </h1>
           <span class="heading-meta">Ler</span>
           <h2 class="heading">Últimas Publicações</h2>
         </div>
@@ -79,17 +82,17 @@ keywords: organização, desenvolvimento, cafeína, algoritmos, publicações, v
           data-animate-effect="fadeInLeft"
         >
           <a
-            href="https://www.youtube.com/embed/{{video.custom_id}}"
+            href="https://www.youtube.com/embed/{{ video.custom_id }}"
             class="lightbox mfp-iframe"
             title="{{ video.title }}"
-            url="https://www.youtube.com/watch?v={{video.custom_id}}"
+            url="https://www.youtube.com/watch?v={{ video.custom_id }}"
             class="desc"
           >
             <div class="project">
               <img
                 src="{{ '/assets/img/playlists' | append: '/' | append: video.id | prepend: site.baseurl | prepend: site.url }}.png"
                 class="img-fluid"
-                alt=""
+                alt="{{ video.title }}"
               />
 
               <div

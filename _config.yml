@@ -5,6 +5,8 @@ url: 'https://caffeinealgorithm.com'
 
 development: false
 
+tagline: 'Aprende a Programar'
+
 organization:
   name: 'Caffeine Algorithm'
   email: 'contacto@caffeinealgorithm.com'
@@ -29,12 +31,32 @@ author:
   github: 'nelsonsilvadev'
   instagram: 'nelsonsilvadev'
   website: 'https://nelsonsilvadev.com/'
+  url: 'https://nelsonsilvadev.com/'
 
 google:
   tag_manager: 'GTM-53K3CN5'
   analytics: 'UA-76965623-1'
   verify: 'E1ZVOTMIuinhdk-ZmrCj9GUXMfKD2yvePOpMehtaLrk'
   ad_client: 'ca-pub-9627952229249296'
+
+google_site_verification: 'E1ZVOTMIuinhdk-ZmrCj9GUXMfKD2yvePOpMehtaLrk'
+
+facebook:
+  admins: 'algorithmcaffeine'
+
+social:
+  name: 'Caffeine Algorithm'
+  links:
+    - 'https://www.youtube.com/c/CaffeineAlgorithm'
+    - 'https://www.twitch.tv/caffeinealgorithm'
+    - 'https://github.com/caffeinealgorithm'
+    - 'https://www.linkedin.com/company/caffeinealgorithm'
+    - 'https://www.instagram.com/caffeinealgorithm'
+    - 'https://facebook.com/algorithmcaffeine'
+
+locale: 'pt_PT'
+
+seo_paginator_message: 'Página %<current>s de %<total>s | '
 
 defaults:
   - scope:
@@ -98,5 +120,5 @@ kramdown:
   syntax_highlighter_opts:
     css_class: 'highlight'
 
-plugins: ['jekyll-paginate', 'jekyll-sitemap']
+plugins: ['jekyll-paginate', 'jekyll-sitemap', 'jekyll-seo-tag']
 exclude: ['README.md']
