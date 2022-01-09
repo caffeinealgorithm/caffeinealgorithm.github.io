@@ -1836,10 +1836,6 @@ ul.social-network li {
   }
 }
 
-.js .animate-box {
-  opacity: 0;
-}
-
 #sticky_item {
   overflow: hidden;
   /* -webkit-transition: 0.3s;

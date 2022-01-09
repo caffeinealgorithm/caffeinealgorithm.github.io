@@ -2,11 +2,20 @@
 
 <aside id="aside">
   <a id="logo" href="/">
-    <img
-      class="logo"
-      src="{{ '/assets/img/logo.png' | prepend: site.baseurl | prepend: site.url }}"
-      alt="Logo"
-    />
+    <picture>
+      <source
+        srcset="{{ '/assets/img/logo.webp' | prepend: site.baseurl | prepend: site.url }}"
+        type="image/webp"
+      />
+
+      <img
+        class="logo"
+        src="{{ '/assets/img/logo.jpg' | prepend: site.baseurl | prepend: site.url }}"
+        alt="Logo"
+        width="150"
+        height="150"
+      />
+    </picture>
   </a>
 
   <div style="display: flex; justify-content: center">

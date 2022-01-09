@@ -23,7 +23,7 @@
 
   <meta
     name="twitter:image"
-    content="{{ '/assets/img/logo.png' | prepend: site.baseurl | prepend: site.url }}"
+    content="{{ '/assets/img/logo.jpg' | prepend: site.baseurl | prepend: site.url }}"
   />
 
   <link
@@ -67,17 +67,6 @@
     rel="stylesheet"
     media="all"
     href="{{
-      '/assets/css/animate.css'
-        | prepend: site.baseurl
-        | prepend: site.url
-    }}"
-  />
-
-  <link
-    type="text/css"
-    rel="stylesheet"
-    media="all"
-    href="{{
       '/assets/css/all.min.css'
         | prepend: site.baseurl
         | prepend: site.url
@@ -89,18 +78,7 @@
     rel="stylesheet"
     media="all"
     href="{{
-      '/assets/css/et-lineicons.css'
-        | prepend: site.baseurl
-        | prepend: site.url
-    }}"
-  />
-
-  <link
-    type="text/css"
-    rel="stylesheet"
-    media="all"
-    href="{{
-      '/assets/css/themify-icons.css'
+      '/assets/css/themify-icons.min.css'
         | prepend: site.baseurl
         | prepend: site.url
     }}"
@@ -122,33 +100,24 @@
     rel="stylesheet"
     media="all"
     href="{{
-      '/assets/css/flexslider.css'
+      '/assets/css/magnific-popup.min.css'
         | prepend: site.baseurl
         | prepend: site.url
     }}"
   />
 
+  {% if page.id == "post" %}
   <link
     type="text/css"
     rel="stylesheet"
     media="all"
     href="{{
-      '/assets/css/magnific-popup.css'
+      '/assets/css/syntax.min.css'
         | prepend: site.baseurl
         | prepend: site.url
     }}"
   />
-
-  <link
-    type="text/css"
-    rel="stylesheet"
-    media="all"
-    href="{{
-      '/assets/css/syntax.css'
-        | prepend: site.baseurl
-        | prepend: site.url
-    }}"
-  />
+  {% endif %}
 
   <link
     type="text/css"

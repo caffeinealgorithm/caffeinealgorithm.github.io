@@ -34,11 +34,20 @@ keywords: programar em c#, programar em csharp, programar, c#, csharp
             class="desc"
           >
             <div class="project">
-              <img
-                src="{{ '/assets/img/playlists/csharp' | append: '/' | append: forloop.index | prepend: site.baseurl | prepend: site.url }}.png"
-                class="img-fluid"
-                alt="{{ video.title }}"
-              />
+              <picture>
+                <source
+                  srcset="{{ '/assets/img/playlists/csharp' | append: '/' | append: forloop.index | prepend: site.baseurl | prepend: site.url }}.webp"
+                  type="image/webp"
+                />
+
+                <img
+                  src="{{ '/assets/img/playlists/csharp' | append: '/' | append: forloop.index | prepend: site.baseurl | prepend: site.url }}.png"
+                  class="img-fluid"
+                  alt="{{ video.title }}"
+                  width="448"
+                  height="252"
+                />
+              </picture>
 
               <div
                 class="desc"

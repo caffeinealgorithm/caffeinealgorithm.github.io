@@ -11,10 +11,19 @@ id: links
 <main>
   <header>
     <a href="{{ site.baseurl }}" target="_blank" class="content">
-      <img
-        src="{{ '/assets/img/logo.png' | prepend: site.baseurl | prepend: site.url }}"
-        alt="Logo"
-      />
+      <picture>
+        <source
+          srcset="{{ '/assets/img/logo.webp' | prepend: site.baseurl | prepend: site.url }}"
+          type="image/webp"
+        />
+
+        <img
+          src="{{ '/assets/img/logo.jpg' | prepend: site.baseurl | prepend: site.url }}"
+          alt="Logo"
+          width="100"
+          height="100"
+        />
+      </picture>
 
       <div>
         <h1>{{ site.organization.name }}</h1>
