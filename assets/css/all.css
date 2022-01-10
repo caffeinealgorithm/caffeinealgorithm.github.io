@@ -13,8 +13,16 @@
   line-height: 1;
 }
 
+.fa-archive:before {
+  content: '\f187';
+}
+
 .fa-clock:before {
   content: '\f017';
+}
+
+.fa-code:before {
+  content: '\f121';
 }
 
 .fa-envelope:before {
@@ -37,8 +45,16 @@
   content: '\f16d';
 }
 
+.fa-linkedin:before {
+  content: '\f08c';
+}
+
 .fa-linkedin-in:before {
   content: '\f0e1';
+}
+
+.fa-pen-nib:before {
+  content: '\f5ad';
 }
 
 .fa-reddit-alien:before {
