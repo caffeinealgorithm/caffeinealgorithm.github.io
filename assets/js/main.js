@@ -193,3 +193,29 @@ $('.ajax-page-load-link').magnificPopup({
     enabled: true,
   },
 });
+
+// const toggle = document.getElementById('toggle');
+let theme = window.localStorage.getItem('theme');
+
+if (theme === 'dark') document.body.classList.add('dark');
+else {
+  $('.moon').toggleClass('sun');
+  $('.toggle').toggleClass('day');
+}
+
+$('.toggle').click(function () {
+  document.body.classList.toggle('dark');
+
+  $('.moon').toggleClass('sun');
+  $('.toggle').toggleClass('day');
+
+  if (theme === 'dark') {
+    window.localStorage.setItem('theme', 'light');
+    theme = 'light';
+    console.log('Light');
+  } else {
+    window.localStorage.setItem('theme', 'dark');
+    theme = 'dark';
+    console.log('Dark');
+  }
+});

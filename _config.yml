@@ -118,7 +118,7 @@ kramdown:
   hard_wrap: false
   syntax_highlighter: rouge
   syntax_highlighter_opts:
-    css_class: 'highlight'
+    css_class: 'syntax'
 
 plugins: ['jekyll-paginate', 'jekyll-sitemap', 'jekyll-seo-tag']
 exclude: ['README.md']
