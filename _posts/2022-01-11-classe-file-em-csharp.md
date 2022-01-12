@@ -44,6 +44,10 @@ namespace Base {
 // O ficheiro "Ficheiro-Move.txt" não existe.
 ```
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/jW8uXGlFwZo" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Não te esqueças de [assistir ao vídeo](https://youtu.be/jW8uXGlFwZo){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220111/file-class-in-csharp/){:target="\_blank"}.
 
 ### _Happy coding!_

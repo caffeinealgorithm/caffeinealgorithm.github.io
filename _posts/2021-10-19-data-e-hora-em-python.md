@@ -27,6 +27,10 @@ print(localtime(time())) # time.struct_time(tm_year=2021, tm_mon=8, tm_mday=5, t
 print(asctime(localtime(time()))) # Thu Aug 5 22:03:08 2021
 ```
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/pT6gLZZOoIw" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Não te esqueças de [assistir ao vídeo](https://youtu.be/pT6gLZZOoIw){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211019/date-and-time-in-python/){:target="\_blank"}.
 
 ### _Happy coding!_

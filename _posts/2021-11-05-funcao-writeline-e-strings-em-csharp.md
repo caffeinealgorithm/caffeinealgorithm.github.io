@@ -42,6 +42,10 @@ namespace Base {
 }
 ```
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/2-dIbl35A_w" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Não te esqueças de [assistir ao vídeo](https://youtu.be/2-dIbl35A_w){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211105/writeline-function-and-strings-in-csharp/){:target="\_blank"}.
 
 ### _Happy coding!_

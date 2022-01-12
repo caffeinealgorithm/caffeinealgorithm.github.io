@@ -53,6 +53,10 @@ namespace Base {
 */
 ```
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/8q8-qNsEZGs" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Não te esqueças de [assistir ao vídeo](https://youtu.be/8q8-qNsEZGs){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211215/dictionaries-in-csharp/){:target="\_blank"}.
 
 ### _Happy coding!_

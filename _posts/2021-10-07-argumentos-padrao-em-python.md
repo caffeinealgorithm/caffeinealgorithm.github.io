@@ -22,6 +22,10 @@ def estadoDaPorta(estado = True):
 estadoDaPorta(False) # A porta está fechada.
 ```
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/dWk0XVIto3w" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Não te esqueças de [assistir ao vídeo](https://youtu.be/dWk0XVIto3w){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211007/default-arguments-in-python/){:target="\_blank"}.
 
 ### _Happy coding!_

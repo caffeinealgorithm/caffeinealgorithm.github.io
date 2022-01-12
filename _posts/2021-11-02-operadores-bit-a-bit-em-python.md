@@ -32,6 +32,10 @@ print('Resultado do operador <<:', x << 2) # Resultado do operador <<: 240 (1111
 print('Resultado do operador >>:', x >> 2) # Resultado do operador >>: 15 (00001111)
 ```
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/gyBY7AcVPk4" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Não te esqueças de [assistir ao vídeo](https://youtu.be/gyBY7AcVPk4){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211102/bitwise-operators-in-python/){:target="\_blank"}.
 
 ### _Happy coding!_

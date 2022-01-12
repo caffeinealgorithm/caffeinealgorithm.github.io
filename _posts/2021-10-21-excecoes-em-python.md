@@ -28,6 +28,10 @@ else:
 print('Eu sei que ocorreu um erro, no entanto, o meu conteúdo ainda é apresentado na linha de comandos.')
 ```
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/4ULTUP1RWSM" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Não te esqueças de [assistir ao vídeo](https://youtu.be/4ULTUP1RWSM){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211021/exceptions-in-python/){:target="\_blank"}.
 
 ### _Happy coding!_

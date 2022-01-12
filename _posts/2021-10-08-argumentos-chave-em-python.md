@@ -27,6 +27,10 @@ imprimirABC(c = 1, a = 2, b = 3)
 '''
 ```
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/Od8zRnsZIoE" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Não te esqueças de [assistir ao vídeo](https://youtu.be/Od8zRnsZIoE){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211008/key-arguments-in-python/){:target="\_blank"}.
 
 ### _Happy coding!_

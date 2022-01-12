@@ -52,6 +52,10 @@ namespace Base {
 }
 ```
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/xwk4Xx5-zO0" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Não te esqueças de [assistir ao vídeo](https://youtu.be/xwk4Xx5-zO0){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211231/partial-in-csharp/){:target="\_blank"}.
 
 ### _Happy coding!_

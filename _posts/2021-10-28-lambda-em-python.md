@@ -24,6 +24,10 @@ adicao = (lambda a, b, c : a + b + c)
 print('Resultado da adição:', adicao(25, 30, 45)) # Resultado da adição: 100
 ```
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/0bSYL5vnh6k" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Não te esqueças de [assistir ao vídeo](https://youtu.be/0bSYL5vnh6k){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211028/lambda-in-python/){:target="\_blank"}.
 
 ### _Happy coding!_

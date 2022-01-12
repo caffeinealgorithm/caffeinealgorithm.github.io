@@ -37,6 +37,10 @@ namespace Base {
 }
 ```
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/-C6_spcZYAs" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Não te esqueças de [assistir ao vídeo](https://youtu.be/-C6_spcZYAs){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211115/readline-function-in-csharp/){:target="\_blank"}.
 
 ### _Happy coding!_

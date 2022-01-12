@@ -37,6 +37,10 @@ inimigo1.verificarVida() # Eu ainda estou em combate e tenho 2 vidas.
 inimigo2.verificarVida() # Eu ainda estou em combate e tenho 5 vidas.
 ```
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/JzHlMtlohNE" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Não te esqueças de [assistir ao vídeo](https://youtu.be/JzHlMtlohNE){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211022/classes-and-objects-in-python/){:target="\_blank"}.
 
 ### _Happy coding!_

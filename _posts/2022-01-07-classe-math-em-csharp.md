@@ -51,6 +51,10 @@ namespace Base {
 */
 ```
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/ZCr9-qfctoU" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Não te esqueças de [assistir ao vídeo](https://youtu.be/ZCr9-qfctoU){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220107/math-class-in-csharp/){:target="\_blank"}.
 
 ### _Happy coding!_

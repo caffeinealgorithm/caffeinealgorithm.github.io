@@ -50,6 +50,10 @@ namespace Base {
 */
 ```
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/9h8vh0r3fwk" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Não te esqueças de [assistir ao vídeo](https://youtu.be/9h8vh0r3fwk){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211124/for-loop-in-csharp/){:target="\_blank"}.
 
 ### _Happy coding!_

@@ -42,6 +42,10 @@ for numero in range(1, 11):
 '''
 ```
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/NHn4AzcKLeA" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Não te esqueças de [assistir ao vídeo](https://youtu.be/NHn4AzcKLeA){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20210928/for-loop-in-python/){:target="\_blank"}.
 
 ### _Happy coding!_

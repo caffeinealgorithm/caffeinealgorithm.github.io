@@ -34,6 +34,10 @@ print('Resultado da função fsum():', fsum(numeros)) # Resultado da função fs
 print('Resultado da função pow():', pow(2, 5)) # Resultado da função pow(): 32.0
 ```
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/yA_QteaN0vs" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Não te esqueças de [assistir ao vídeo](https://youtu.be/yA_QteaN0vs){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211018/math-functions-in-python/){:target="\_blank"}.
 
 ### _Happy coding!_

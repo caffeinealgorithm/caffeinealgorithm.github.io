@@ -42,6 +42,10 @@ namespace Base {
 // É maior de idade: True
 ```
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/KMHQmYq6Kms" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Não te esqueças de [assistir ao vídeo](https://youtu.be/KMHQmYq6Kms){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211122/ternary-operator-in-csharp/){:target="\_blank"}.
 
 ### _Happy coding!_

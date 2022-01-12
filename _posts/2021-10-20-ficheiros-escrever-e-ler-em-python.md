@@ -36,6 +36,10 @@ print(lerFicheiro.read())
 lerFicheiro.close()
 ```
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/Hh8eV7n5ieg" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Não te esqueças de [assistir ao vídeo](https://youtu.be/Hh8eV7n5ieg){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211020/files-write-and-read-in-python/){:target="\_blank"}.
 
 ### _Happy coding!_

@@ -24,6 +24,10 @@ def adicao():
 print('Resultado da adição:', adicao()) # Resultado da adição: 55
 ```
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/qj5fi4F1e8g" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Não te esqueças de [assistir ao vídeo](https://youtu.be/qj5fi4F1e8g){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211004/return-in-python/){:target="\_blank"}.
 
 ### _Happy coding!_

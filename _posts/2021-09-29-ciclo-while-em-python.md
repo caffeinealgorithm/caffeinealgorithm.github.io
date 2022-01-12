@@ -39,6 +39,10 @@ while contador <= 10:
 '''
 ```
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/1D4afA8tvmk" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Não te esqueças de [assistir ao vídeo](https://youtu.be/1D4afA8tvmk){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20210929/while-loop-in-python/){:target="\_blank"}.
 
 ### _Happy coding!_

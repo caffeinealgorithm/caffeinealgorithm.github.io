@@ -42,6 +42,10 @@ namespace Base {
 }
 ```
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/Eov-gcwg9zc" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Não te esqueças de [assistir ao vídeo](https://youtu.be/Eov-gcwg9zc){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211117/lists-in-csharp/){:target="\_blank"}.
 
 ### _Happy coding!_

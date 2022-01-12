@@ -28,6 +28,10 @@ print('string:', string) # string: Eu sou uma string.
 print('booleano:', booleano) # booleano: True
 ```
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/fLeUijcIAiw" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Não te esqueças de [assistir ao vídeo](https://youtu.be/fLeUijcIAiw){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20210916/variables-in-python/){:target="\_blank"}.
 
 ### _Happy coding!_

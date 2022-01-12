@@ -26,6 +26,10 @@ print('Resto:', 8 % 2) # Resto: 0
 print('Exponente:', 2 ** 5) # Exponente: 32 (2 * 2 * 2 * 2 * 2)
 ```
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/lrIT6rpboVg" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Não te esqueças de [assistir ao vídeo](https://youtu.be/lrIT6rpboVg){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20210915/arithmetic-operators-in-python/){:target="\_blank"}.
 
 ### _Happy coding!_

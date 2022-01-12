@@ -39,6 +39,10 @@ x **= 2
 print('x = x ** 2:', x) # x = x ** 2: 0
 ```
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/gV9e6zsEO5M" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Não te esqueças de [assistir ao vídeo](https://youtu.be/gV9e6zsEO5M){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20210917/assignment-operators-in-python/){:target="\_blank"}.
 
 ### _Happy coding!_
