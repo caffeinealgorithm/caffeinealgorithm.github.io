@@ -194,9 +194,6 @@ $('.ajax-page-load-link').magnificPopup({
   },
 });
 
-// const toggle = document.getElementById('toggle');
-let theme = window.localStorage.getItem('theme');
-
 if (theme === 'dark') document.body.classList.add('dark');
 else {
   $('.moon').toggleClass('sun');
@@ -212,10 +209,8 @@ $('.toggle').click(function () {
   if (theme === 'dark') {
     window.localStorage.setItem('theme', 'light');
     theme = 'light';
-    console.log('Light');
   } else {
     window.localStorage.setItem('theme', 'dark');
     theme = 'dark';
-    console.log('Dark');
   }
 });

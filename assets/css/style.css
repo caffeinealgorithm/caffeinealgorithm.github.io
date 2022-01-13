@@ -1,14 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Questrial&display=swap');
 
-html,
-body {
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-font-smoothing: antialiased;
-  -moz-font-smoothing: antialiased;
-  font-smoothing: antialiased;
-}
-
-body {
+:root {
   --text: #1a1a1a;
   --bg: #fff;
 
@@ -51,6 +43,9 @@ body {
   --scrollbar-track: #fff;
   --scrollbar-thumb: #1a1a1a;
 
+  --categories-text: #aaa;
+  --categories-text-hover: #1a1a1a;
+
   --blog-text: #707070;
 
   --footer-bg: #f6f6f6;
@@ -58,7 +53,17 @@ body {
   --post-icons: #ffc900;
 
   --table-border: #1a1a1a;
+}
 
+html,
+body {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+body {
   font-family: 'Questrial', sans-serif;
   font-size: 17px;
   line-height: 1.75em;
@@ -103,6 +108,9 @@ body {
 
   --scrollbar-track: #1a1a1a;
   --scrollbar-thumb: #fff;
+
+  --categories-text: #bbb;
+  --categories-text-hover: #fff;
 
   --blog-text: #aaa;
 
@@ -280,6 +288,18 @@ a:focus {
 img {
   width: 100%;
   height: auto;
+}
+
+.categories .blog-entry .desc h3 {
+  margin-bottom: 20px;
+}
+
+.categories a {
+  color: var(--categories-text);
+}
+
+.categories a:hover {
+  color: var(--categories-text-hover);
 }
 
 .mb-30 {

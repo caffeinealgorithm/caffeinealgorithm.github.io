@@ -7,6 +7,11 @@
       <div class="moon"></div>
     </div>
 
+    <script>
+      const theme = localStorage.getItem('theme') || 'light';
+      document.body.className = theme;
+    </script>
+
     {% if site.development == false %} {% if site.google.analytics %}
     <noscript>
       <iframe
