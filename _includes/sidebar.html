@@ -65,6 +65,14 @@
           >Programar em C#</a
         >
       </li>
+      <li class="{% if active[1] == 'programar-em-java' %}active{% endif %}">
+        <a
+          href="{{
+            'programar-em-java' | prepend: site.baseurl | prepend: site.url
+          }}"
+          >Programar em Java</a
+        >
+      </li>
     </ul>
   </nav>
 

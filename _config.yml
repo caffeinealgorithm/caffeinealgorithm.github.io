@@ -105,6 +105,9 @@ collections:
   csharp:
     output: false
     sort_by: id
+  java:
+    output: false
+    sort_by: id
 
 destination: _site
 paginate: 6
