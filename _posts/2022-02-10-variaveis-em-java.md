@@ -15,10 +15,6 @@ Nesta publicação aprende-se a trabalhar com variáveis do tipo inteiro, decima
 - tipos de variáveis: inteiro, decimal (double), string, char, booleano, arrays, listas, dicionários e mais alguns;
 - é de referir que vamos falar de arrays, listas e de dicionários num dos próximos vídeos.
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/Pw2Tsh8CAaE" frameborder="0" allowfullscreen></iframe>
-</div>
-
 ```java
 package com.caffeinealgorithm.programaremjava;
 

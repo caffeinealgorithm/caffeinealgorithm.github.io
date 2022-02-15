@@ -16,10 +16,6 @@ Nesta publicação aprende-se a trabalhar com operadores aritméticos para que s
 `/` | Divisão
 `%` | Resto
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/USlZetbXrA" frameborder="0" allowfullscreen></iframe>
-</div>
-
 ```java
 package com.caffeinealgorithm.programaremjava;
 

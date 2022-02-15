@@ -12,10 +12,6 @@ Nesta publicação aprende-se a trabalhar com comentários para que se possa usa
 
 Os comentários (de uma ou de várias linhas) servem para comentar tudo o que seja necessário para que uma outra pessoa compreenda o nosso código.
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/skX2jrCiqdI" frameborder="0" allowfullscreen></iframe>
-</div>
-
 ```java
 package com.caffeinealgorithm.programaremjava;
 

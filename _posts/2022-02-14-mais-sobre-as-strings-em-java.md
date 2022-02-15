@@ -16,10 +16,6 @@ Nesta publicação aprende-se a trabalhar com algo mais sobre as strings para qu
 `variavel.toUpperCase()` | Transforma todas as letras presentes na string em letras maiúsculas
 `variavel.toLowerCase()` | Transforma todas as letras presentes na string em letras minúsculas
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/Vk0V-iw_LWo" frameborder="0" allowfullscreen></iframe>
-</div>
-
 ```java
 package com.caffeinealgorithm.programaremjava;
 

@@ -16,10 +16,6 @@ Nesta publicação aprende-se a trabalhar com operadores de atribuição para qu
 `d /= 2` | `d = d / 2`
 `e %= 2` | `e = e % 2`
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/GQVf0VwJh9c" frameborder="0" allowfullscreen></iframe>
-</div>
-
 ```java
 package com.caffeinealgorithm.programaremjava;
 
