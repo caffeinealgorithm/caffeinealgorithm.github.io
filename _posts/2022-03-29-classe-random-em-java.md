@@ -4,7 +4,7 @@ excerpt: Blog
 title: 'Classe Random em Java'
 description: 'Descobre como se trabalha com a classe Random na linguagem de programação Java. Obtém respostas às tuas dúvidas com a teoria e os exemplos apresentados.'
 keywords: 'java, classe random, classe, random, publicação'
-date: 2022-03-21
+date: 2022-03-29
 categories: [Java]
 ---
 
