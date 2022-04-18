@@ -73,6 +73,14 @@
           >Programar em Java</a
         >
       </li>
+      <li class="{% if active[1] == 'programar-em-go' %}active{% endif %}">
+        <a
+          href="{{
+            '/programar-em-go' | prepend: site.baseurl | prepend: site.url
+          }}"
+          >Programar em Go</a
+        >
+      </li>
     </ul>
   </nav>
 

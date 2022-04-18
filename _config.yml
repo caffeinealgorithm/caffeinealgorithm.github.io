@@ -108,6 +108,9 @@ collections:
   java:
     output: false
     sort_by: id
+  go:
+    output: false
+    sort_by: id
 
 destination: _site
 paginate: 6
