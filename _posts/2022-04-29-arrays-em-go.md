@@ -4,7 +4,7 @@ excerpt: Blog
 title: 'Arrays em Go'
 description: 'Descobre como se trabalha com arrays na linguagem de programação Go. Obtém respostas às tuas dúvidas com a teoria e os exemplos apresentados.'
 keywords: 'go, golang, arrays, array, publicação'
-date: 2021-09-23
+date: 2022-04-29
 categories: [Go]
 ---
 
