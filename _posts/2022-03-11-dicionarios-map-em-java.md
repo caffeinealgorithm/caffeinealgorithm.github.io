@@ -2,7 +2,7 @@
 layout: post
 excerpt: Blog
 title: 'Dicionários (Map) em Java'
-description: 'Descobre como se trabalha com dicionários  na linguagem de programação Java. Obtém respostas às tuas dúvidas com a teoria e os exemplos apresentados.'
+description: 'Descobre como se trabalha com dicionários (Map) na linguagem de programação Java. Obtém respostas às tuas dúvidas com a teoria e os exemplos apresentados.'
 keywords: 'java, dicionários, map, dicionário, publicação'
 date: 2022-03-11
 categories: [Java]
