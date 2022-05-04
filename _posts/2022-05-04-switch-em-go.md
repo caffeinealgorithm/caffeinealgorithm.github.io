@@ -4,7 +4,7 @@ excerpt: Blog
 title: 'Switch em Go'
 description: 'Descobre como se trabalha com o switch na linguagem de programação Go. Obtém respostas às tuas dúvidas com a teoria e os exemplos apresentados.'
 keywords: 'go, golang, switch, condições, condição, publicação'
-date: 2020-05-04
+date: 2022-05-04
 categories: [Go]
 ---
 
