@@ -55,6 +55,6 @@ while contador < 10:
   <iframe src="https://www.youtube.com/embed/bh0yUxxWBZE" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/bh0yUxxWBZE){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20210930/break-and-continue-in-python/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/bh0yUxxWBZE){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/break-and-continue-in-python/){:target="\_blank"}.
 
 ### _Happy coding!_

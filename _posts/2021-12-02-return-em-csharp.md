@@ -39,6 +39,6 @@ namespace Base {
   <iframe src="https://www.youtube.com/embed/-WPMAO60yQ8" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/-WPMAO60yQ8){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211202/return-in-csharp/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/-WPMAO60yQ8){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/return-in-csharp/){:target="\_blank"}.
 
 ### _Happy coding!_

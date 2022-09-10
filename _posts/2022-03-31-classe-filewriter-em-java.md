@@ -60,6 +60,6 @@ public class ClasseFileWriter {
   <iframe src="https://www.youtube.com/embed/iohYifid7pM" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/iohYifid7pM){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220330/filewriter-class-in-java/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/iohYifid7pM){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/filewriter-class-in-java/){:target="\_blank"}.
 
 ### _Happy coding!_

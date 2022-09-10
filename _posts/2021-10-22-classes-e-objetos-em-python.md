@@ -41,6 +41,6 @@ inimigo2.verificarVida() # Eu ainda estou em combate e tenho 5 vidas.
   <iframe src="https://www.youtube.com/embed/JzHlMtlohNE" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/JzHlMtlohNE){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211022/classes-and-objects-in-python/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/JzHlMtlohNE){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/classes-and-objects-in-python/){:target="\_blank"}.
 
 ### _Happy coding!_

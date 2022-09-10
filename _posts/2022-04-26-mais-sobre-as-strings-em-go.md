@@ -46,6 +46,6 @@ func main() {
   <iframe src="https://www.youtube.com/embed/4xldTbYwVcM" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/4xldTbYwVcM){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220426/more-about-strings-in-go/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/4xldTbYwVcM){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/more-about-strings-in-go/){:target="\_blank"}.
 
 ### _Happy coding!_

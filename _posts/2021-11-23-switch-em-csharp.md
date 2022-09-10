@@ -47,6 +47,6 @@ namespace Base {
   <iframe src="https://www.youtube.com/embed/vqC8km6r22k" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/vqC8km6r22k){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211123/switch-in-csharp/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/vqC8km6r22k){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/switch-in-csharp/){:target="\_blank"}.
 
 ### _Happy coding!_

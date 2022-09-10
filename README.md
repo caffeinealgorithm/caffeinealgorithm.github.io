@@ -1,6 +1,6 @@
 # caffeinealgorithm.github.io
 
-A beautiful website that uses Jekyll to represent the organization with a beautiful cover, a blog and every programming serie (fully hosted with GitHub Pages)
+A beautiful website that uses Jekyll to represent the community with a beautiful cover, a blog and every programming serie (fully hosted with GitHub Pages)
 
 ### How to set everything up
 

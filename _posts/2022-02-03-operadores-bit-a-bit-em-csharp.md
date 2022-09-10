@@ -51,6 +51,6 @@ namespace Base {
   <iframe src="https://www.youtube.com/embed/JMpv0Yt32AA" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/JMpv0Yt32AA){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220203/bitwise-operators-in-csharp/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/JMpv0Yt32AA){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/bitwise-operators-in-csharp/){:target="\_blank"}.
 
 ### _Happy coding!_

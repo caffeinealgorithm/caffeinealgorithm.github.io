@@ -44,6 +44,6 @@ public class Argumentos {
   <iframe src="https://www.youtube.com/embed/k76K3UraNhU" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/k76K3UraNhU){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220307/arguments-in-java/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/k76K3UraNhU){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/arguments-in-java/){:target="\_blank"}.
 
 ### _Happy coding!_

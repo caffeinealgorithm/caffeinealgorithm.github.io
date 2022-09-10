@@ -48,6 +48,6 @@ public class Arrays {
   <iframe src="https://www.youtube.com/embed/aD7U69fw9hQ" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/aD7U69fw9hQ){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220217/arrays-in-java/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/aD7U69fw9hQ){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/arrays-in-java/){:target="\_blank"}.
 
 ### _Happy coding!_

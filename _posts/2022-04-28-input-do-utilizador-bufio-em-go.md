@@ -51,6 +51,6 @@ func main() {
   <iframe src="https://www.youtube.com/embed/3HDVH40ZR2w" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/3HDVH40ZR2w){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220428/user-input-bufio-in-go/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/3HDVH40ZR2w){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/user-input-bufio-in-go/){:target="\_blank"}.
 
 ### _Happy coding!_

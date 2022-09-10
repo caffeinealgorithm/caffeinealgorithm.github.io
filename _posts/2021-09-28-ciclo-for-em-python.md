@@ -14,11 +14,11 @@ Nesta publicação aprende-se a trabalhar com o ciclo for para que se possa usar
 - o ciclo for dá voltas (itera) consoante os itens de uma sequência (uma lista, uma string ou um dado range).
 
 ```python
-organizacao = 'Caffeine Algorithm'
+comunidade = 'Caffeine Algorithm'
 cores = ['Azul', 'Verde', 'Amarelo', 'Vermelho', 'Laranja']
 
 '''
-  for carater in organizacao:
+  for carater in comunidade:
     print('Carater:', carater)
 
   for cor in cores:
@@ -46,6 +46,6 @@ for numero in range(1, 11):
   <iframe src="https://www.youtube.com/embed/NHn4AzcKLeA" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/NHn4AzcKLeA){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20210928/for-loop-in-python/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/NHn4AzcKLeA){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/for-loop-in-python/){:target="\_blank"}.
 
 ### _Happy coding!_

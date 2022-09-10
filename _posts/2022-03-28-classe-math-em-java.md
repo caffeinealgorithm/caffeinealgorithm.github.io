@@ -53,6 +53,6 @@ public class ClasseMath {
   <iframe src="https://www.youtube.com/embed/cpzjF8rXdI0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/cpzjF8rXdI0){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220328/math-class-in-java/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/cpzjF8rXdI0){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/math-class-in-java/){:target="\_blank"}.
 
 ### _Happy coding!_

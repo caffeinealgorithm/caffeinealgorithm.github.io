@@ -51,6 +51,6 @@ public class ClasseRandom {
   <iframe src="https://www.youtube.com/embed/-ka_3iD3V4Q" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/-ka_3iD3V4Q){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220329/random-class-in-java/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/-ka_3iD3V4Q){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/random-class-in-java/){:target="\_blank"}.
 
 ### _Happy coding!_

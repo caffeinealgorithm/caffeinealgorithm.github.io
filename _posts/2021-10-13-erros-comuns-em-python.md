@@ -31,6 +31,6 @@ print('Somos todos uma string.' # SyntaxError: invalid syntax
   <iframe src="https://www.youtube.com/embed/k9s22aFgo9s" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/k9s22aFgo9s){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211013/common-mistakes-in-python/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/k9s22aFgo9s){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/common-mistakes-in-python/){:target="\_blank"}.
 
 ### _Happy coding!_

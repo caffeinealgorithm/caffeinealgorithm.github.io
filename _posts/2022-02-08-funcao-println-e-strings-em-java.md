@@ -42,6 +42,6 @@ public class FuncaoPrintlnEStrings {
   <iframe src="https://www.youtube.com/embed/GZblJ-SqU_s" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/GZblJ-SqU_s){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220208/println-function-and-strings-in-java/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/GZblJ-SqU_s){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/println-function-and-strings-in-java/){:target="\_blank"}.
 
 ### _Happy coding!_

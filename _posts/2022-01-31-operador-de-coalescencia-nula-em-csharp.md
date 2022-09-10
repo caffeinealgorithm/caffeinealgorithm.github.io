@@ -61,6 +61,6 @@ namespace Base {
   <iframe src="https://www.youtube.com/embed/s-X26LwvxC0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/s-X26LwvxC0){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220131/null-coalescence-operator-in-csharp/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/s-X26LwvxC0){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/null-coalescence-operator-in-csharp/){:target="\_blank"}.
 
 ### _Happy coding!_

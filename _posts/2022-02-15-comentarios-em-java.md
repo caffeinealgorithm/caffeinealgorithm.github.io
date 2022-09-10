@@ -36,6 +36,6 @@ public class Comentarios {
   <iframe src="https://www.youtube.com/embed/skX2jrCiqdI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/skX2jrCiqdI){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220215/comments-in-java/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/skX2jrCiqdI){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/comments-in-java/){:target="\_blank"}.
 
 ### _Happy coding!_

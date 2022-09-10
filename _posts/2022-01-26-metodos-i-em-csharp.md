@@ -55,6 +55,6 @@ namespace Base {
   <iframe src="https://www.youtube.com/embed/nLboEkX1VNI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/nLboEkX1VNI){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220126/methods-i-in-csharp/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/nLboEkX1VNI){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/methods-i-in-csharp/){:target="\_blank"}.
 
 ### _Happy coding!_

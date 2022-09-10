@@ -34,6 +34,6 @@ print('Acesso no exterior da função:', acesso)
   <iframe src="https://www.youtube.com/embed/K6-_AwbMk34" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/K6-_AwbMk34){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211012/global-and-local-variables-in-python/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/K6-_AwbMk34){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/global-and-local-variables-in-python/){:target="\_blank"}.
 
 ### _Happy coding!_

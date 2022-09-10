@@ -46,6 +46,6 @@ namespace Base {
   <iframe src="https://www.youtube.com/embed/x1sAO_ePZdI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/x1sAO_ePZdI){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220128/methods-iii-in-csharp/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/x1sAO_ePZdI){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/methods-iii-in-csharp/){:target="\_blank"}.
 
 ### _Happy coding!_

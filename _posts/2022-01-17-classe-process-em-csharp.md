@@ -65,6 +65,6 @@ namespace Base {
   <iframe src="https://www.youtube.com/embed/yXHX-nA4Gsk" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/yXHX-nA4Gsk){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220117/process-class-in-csharp/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/yXHX-nA4Gsk){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/process-class-in-csharp/){:target="\_blank"}.
 
 ### _Happy coding!_

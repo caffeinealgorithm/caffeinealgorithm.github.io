@@ -75,6 +75,6 @@ namespace Base {
   <iframe src="https://www.youtube.com/embed/N1ZSoxB80B0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/N1ZSoxB80B0){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220118/thread-class-in-csharp/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/N1ZSoxB80B0){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/thread-class-in-csharp/){:target="\_blank"}.
 
 ### _Happy coding!_

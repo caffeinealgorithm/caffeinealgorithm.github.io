@@ -28,6 +28,6 @@ Não esquecer que tal linguagem pode ser usada para a análise de dados, para a 
   <iframe src="https://www.youtube.com/embed/H4PE1xN4AGM" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/H4PE1xN4AGM){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20210913/introduction-to-python/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/H4PE1xN4AGM){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/introduction-to-python/){:target="\_blank"}.
 
 ### _Happy coding!_

@@ -43,6 +43,6 @@ namespace Base {
   <iframe src="https://www.youtube.com/embed/06RgzwoqPDU" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/06RgzwoqPDU){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211223/more-about-exceptions-in-csharp/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/06RgzwoqPDU){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/more-about-exceptions-in-csharp/){:target="\_blank"}.
 
 ### _Happy coding!_

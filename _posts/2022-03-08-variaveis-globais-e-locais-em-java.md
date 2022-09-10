@@ -41,6 +41,6 @@ public class VariaveisGlobaisELocais {
   <iframe src="https://www.youtube.com/embed/hgVFRjqnSPM" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/hgVFRjqnSPM){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220308/global-and-local-variables-in-java/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/hgVFRjqnSPM){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/global-and-local-variables-in-java/){:target="\_blank"}.
 
 ### _Happy coding!_

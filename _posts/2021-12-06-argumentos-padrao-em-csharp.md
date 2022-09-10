@@ -38,6 +38,6 @@ namespace Base {
   <iframe src="https://www.youtube.com/embed/9Dv8IR1Hy5U" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/9Dv8IR1Hy5U){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211206/default-arguments-in-csharp/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/9Dv8IR1Hy5U){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/default-arguments-in-csharp/){:target="\_blank"}.
 
 ### _Happy coding!_

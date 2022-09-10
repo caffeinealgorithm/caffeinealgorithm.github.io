@@ -35,6 +35,6 @@ namespace Base {
   <iframe src="https://www.youtube.com/embed/Uz-wyfqr9yU" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/Uz-wyfqr9yU){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211222/access-modifiers-in-csharp/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/Uz-wyfqr9yU){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/access-modifiers-in-csharp/){:target="\_blank"}.
 
 ### _Happy coding!_

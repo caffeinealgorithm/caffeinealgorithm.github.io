@@ -45,6 +45,6 @@ public class MaisSobreAsStrings {
   <iframe src="https://www.youtube.com/embed/Vk0V-iw_LWo" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/Vk0V-iw_LWo){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220214/more-about-strings-in-java/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/Vk0V-iw_LWo){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/more-about-strings-in-java/){:target="\_blank"}.
 
 ### _Happy coding!_

@@ -41,6 +41,6 @@ namespace Base {
   <iframe src="https://www.youtube.com/embed/DU1TJ_QGS_s" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/DU1TJ_QGS_s){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220119/debug-class-in-csharp/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/DU1TJ_QGS_s){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/debug-class-in-csharp/){:target="\_blank"}.
 
 ### _Happy coding!_

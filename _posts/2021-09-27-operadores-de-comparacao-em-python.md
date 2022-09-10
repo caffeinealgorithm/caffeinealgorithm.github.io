@@ -44,6 +44,6 @@ else:
   <iframe src="https://www.youtube.com/embed/hlTEpUAu9xg" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/hlTEpUAu9xg){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20210927/comparison-operators-in-python/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/hlTEpUAu9xg){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/comparison-operators-in-python/){:target="\_blank"}.
 
 ### _Happy coding!_

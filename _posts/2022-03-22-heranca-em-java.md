@@ -54,6 +54,6 @@ class Filho extends Pai {
   <iframe src="https://www.youtube.com/embed/wFJN_36mi9M" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/wFJN_36mi9M){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220322/inheritance-in-java/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/wFJN_36mi9M){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/inheritance-in-java/){:target="\_blank"}.
 
 ### _Happy coding!_

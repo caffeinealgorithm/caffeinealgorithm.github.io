@@ -27,6 +27,6 @@ print('Idade:', idade)
   <iframe src="https://www.youtube.com/embed/6hVTr0bcBc0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/6hVTr0bcBc0){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20210922/input-function-in-python/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/6hVTr0bcBc0){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/input-function-in-python/){:target="\_blank"}.
 
 ### _Happy coding!_

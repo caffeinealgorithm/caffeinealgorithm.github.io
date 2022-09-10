@@ -41,6 +41,6 @@ namespace Base {
   <iframe src="https://www.youtube.com/embed/H1D_3_XgI9E" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/H1D_3_XgI9E){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211109/variables-in-csharp/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/H1D_3_XgI9E){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/variables-in-csharp/){:target="\_blank"}.
 
 ### _Happy coding!_

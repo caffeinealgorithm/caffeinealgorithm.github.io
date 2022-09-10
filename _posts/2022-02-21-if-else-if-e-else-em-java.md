@@ -45,6 +45,6 @@ public class IfElseIfEElse {
   <iframe src="https://www.youtube.com/embed/IyDdjn1s3Gw" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/IyDdjn1s3Gw){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220221/if-else-if-and-else-in-java/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/IyDdjn1s3Gw){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/if-else-if-and-else-in-java/){:target="\_blank"}.
 
 ### _Happy coding!_

@@ -42,6 +42,6 @@ public class OperadorTernario {
   <iframe src="https://www.youtube.com/embed/rCUwMA4JHHk" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/rCUwMA4JHHk){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220223/ternary-operator-in-java/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/rCUwMA4JHHk){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/ternary-operator-in-java/){:target="\_blank"}.
 
 ### _Happy coding!_

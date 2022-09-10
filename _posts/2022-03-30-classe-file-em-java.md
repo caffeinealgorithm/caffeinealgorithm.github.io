@@ -54,6 +54,6 @@ public class ClasseFile {
   <iframe src="https://www.youtube.com/embed/_d2WykDSZyM" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/_d2WykDSZyM){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220330/file-class-in-java/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/_d2WykDSZyM){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/file-class-in-java/){:target="\_blank"}.
 
 ### _Happy coding!_

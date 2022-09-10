@@ -30,6 +30,6 @@ print(idades.values()) # dict_values([25, 100, 68])
   <iframe src="https://www.youtube.com/embed/Ux328aoXQYM" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/Ux328aoXQYM){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211014/dictionaries-in-python/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/Ux328aoXQYM){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/dictionaries-in-python/){:target="\_blank"}.
 
 ### _Happy coding!_

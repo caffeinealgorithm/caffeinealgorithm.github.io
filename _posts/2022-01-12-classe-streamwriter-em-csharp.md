@@ -58,6 +58,6 @@ namespace Base {
   <iframe src="https://www.youtube.com/embed/7Hjm23B-quw" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/7Hjm23B-quw){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220112/streamwriter-class-in-csharp/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/7Hjm23B-quw){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/streamwriter-class-in-csharp/){:target="\_blank"}.
 
 ### _Happy coding!_

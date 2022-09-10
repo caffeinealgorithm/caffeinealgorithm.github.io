@@ -62,6 +62,6 @@ public class MetodosII {
   <iframe src="https://www.youtube.com/embed/qEVCtofREBM" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/qEVCtofREBM){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220411/methods-ii-in-java/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/qEVCtofREBM){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/methods-ii-in-java/){:target="\_blank"}.
 
 ### _Happy coding!_

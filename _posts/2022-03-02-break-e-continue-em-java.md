@@ -68,6 +68,6 @@ public class BreakEContinue {
   <iframe src="https://www.youtube.com/embed/Wbe6-a8go0o" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/Wbe6-a8go0o){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220302/break-and-continue-in-java/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/Wbe6-a8go0o){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/break-and-continue-in-java/){:target="\_blank"}.
 
 ### _Happy coding!_

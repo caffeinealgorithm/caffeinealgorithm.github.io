@@ -41,6 +41,6 @@ public class OperadoresDeComparacao {
   <iframe src="https://www.youtube.com/embed/Bxg4aC54Jgs" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/Bxg4aC54Jgs){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220222/comparison-operators-in-java/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/Bxg4aC54Jgs){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/comparison-operators-in-java/){:target="\_blank"}.
 
 ### _Happy coding!_

@@ -51,6 +51,6 @@ public class CicloFor {
   <iframe src="https://www.youtube.com/embed/aKgPE8bar_Y" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/aKgPE8bar_Y){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220225/for-loop-in-java/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/aKgPE8bar_Y){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/for-loop-in-java/){:target="\_blank"}.
 
 ### _Happy coding!_

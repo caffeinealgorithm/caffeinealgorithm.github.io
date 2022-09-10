@@ -18,14 +18,14 @@ using System;
 
 namespace Base {
   class IsEAs {
-    private string organizacao = "Caffeine Algorithm", nome = string.Empty;
+    private string comunidade = "Caffeine Algorithm", nome = string.Empty;
     private object _nome = "Nelson Silva";
 
     public void Run() {
-      if (organizacao is string)
-        Console.WriteLine("O atributo \"organizacao\" é do tipo string.");
+      if (comunidade is string)
+        Console.WriteLine("O atributo \"comunidade\" é do tipo string.");
       else
-        Console.WriteLine("O atributo \"organizacao\" não é do tipo string.");
+        Console.WriteLine("O atributo \"comunidade\" não é do tipo string.");
 
       nome = _nome as string;
 
@@ -36,7 +36,7 @@ namespace Base {
 }
 
 /*
-  O atributo "organizacao" é do tipo string.
+  O atributo "comunidade" é do tipo string.
   Nome: Nelson Silva
 */
 ```
@@ -45,6 +45,6 @@ namespace Base {
   <iframe src="https://www.youtube.com/embed/2kgNJVpXB40" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/2kgNJVpXB40){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220105/is-and-as-in-csharp/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/2kgNJVpXB40){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/is-and-as-in-csharp/){:target="\_blank"}.
 
 ### _Happy coding!_

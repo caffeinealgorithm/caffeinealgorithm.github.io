@@ -51,6 +51,6 @@ public class ClasseProcess {
   <iframe src="https://www.youtube.com/embed/rd4_ShKKqAo" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/rd4_ShKKqAo){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220404/process-class-in-java/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/rd4_ShKKqAo){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/process-class-in-java/){:target="\_blank"}.
 
 ### _Happy coding!_

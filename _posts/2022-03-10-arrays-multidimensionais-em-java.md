@@ -52,6 +52,6 @@ public class ArraysMultidimensionais {
   <iframe src="https://www.youtube.com/embed/tF6U5grcYCE" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/tF6U5grcYCE){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220310/multidimensional-arrays-in-java/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/tF6U5grcYCE){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/multidimensional-arrays-in-java/){:target="\_blank"}.
 
 ### _Happy coding!_

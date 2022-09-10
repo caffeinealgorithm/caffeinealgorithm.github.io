@@ -25,6 +25,6 @@ Algumas características importantes sobre a linguagem que vamos aprender nesta 
   <iframe src="https://www.youtube.com/embed/zkpwb3CbUF0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/zkpwb3CbUF0){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220418/introduction-to-go/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/zkpwb3CbUF0){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/introduction-to-go/){:target="\_blank"}.
 
 ### _Happy coding!_

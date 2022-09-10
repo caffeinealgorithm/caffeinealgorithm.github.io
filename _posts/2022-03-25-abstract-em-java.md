@@ -40,11 +40,11 @@ public class Abstract {
 }
 
 abstract class ClasseX {
-  public static String organizacao = "Caffeine Algorithm";
+  public static String comunidade = "Caffeine Algorithm";
   public static List<String> paises = new ArrayList<>();
 
   public static void informacaoX() {
-    for (char carater : organizacao.toCharArray())
+    for (char carater : comunidade.toCharArray())
       System.out.printf("Carater: %c\n", carater);
   }
 
@@ -71,6 +71,6 @@ class ClasseY extends ClasseX {
   <iframe src="https://www.youtube.com/embed/ZsiTd23CfUs" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/ZsiTd23CfUs){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220325/abstract-in-java/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/ZsiTd23CfUs){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/abstract-in-java/){:target="\_blank"}.
 
 ### _Happy coding!_

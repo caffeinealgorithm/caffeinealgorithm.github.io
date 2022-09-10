@@ -42,6 +42,6 @@ func main() {
   <iframe src="https://www.youtube.com/embed/dvCuGh0SGv8" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/dvCuGh0SGv8){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220503/comparison-operators-in-go/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/dvCuGh0SGv8){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/comparison-operators-in-go/){:target="\_blank"}.
 
 ### _Happy coding!_

@@ -36,6 +36,6 @@ func main() {
   <iframe src="https://www.youtube.com/embed/LUq1G_MLY84" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/LUq1G_MLY84){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220427/comments-in-go/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/LUq1G_MLY84){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/comments-in-go/){:target="\_blank"}.
 
 ### _Happy coding!_

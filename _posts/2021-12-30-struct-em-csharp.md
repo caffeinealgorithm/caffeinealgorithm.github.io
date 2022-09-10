@@ -64,6 +64,6 @@ namespace Base {
   <iframe src="https://www.youtube.com/embed/tyvCf7CUEfg" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/tyvCf7CUEfg){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211230/struct-in-csharp/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/tyvCf7CUEfg){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/struct-in-csharp/){:target="\_blank"}.
 
 ### _Happy coding!_

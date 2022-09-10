@@ -1,5 +1,5 @@
 title: 'Caffeine Algorithm'
-description: 'Uma organização de desenvolvimento que ama cafeína e algoritmos.'
+description: 'Uma comunidade de desenvolvimento que ama cafeína e algoritmos.'
 keywords: 'tecnologia, informática, programação, programador, código, cursos, séries, tutoriais, portugal, brasil, caffeinealgorithm, caffeine algorithm'
 url: 'https://caffeinealgorithm.com'
 
@@ -7,7 +7,7 @@ development: false
 
 tagline: 'Aprende a Programar'
 
-organization:
+community:
   name: 'Caffeine Algorithm'
   email: 'contacto@caffeinealgorithm.com'
   youtube_id: 'UCdt_qK8rmpxrq942ZFIqxvQ'
@@ -90,7 +90,7 @@ links:
     color: '#1a1a1a'
     icon: fas fa-user
 
-  - title: Novidades da Organização
+  - title: Novidades da Comunidade
     url: https://www.linkedin.com/company/caffeinealgorithm
     color: '#1a1a1a'
     icon: fab fa-linkedin
@@ -115,7 +115,7 @@ collections:
 destination: _site
 paginate: 6
 paginate_path: /blog/pagina/:num/
-permalink: /blog/:year:month:day/:title/
+permalink: /blog/:title/
 
 markdown: kramdown
 kramdown:

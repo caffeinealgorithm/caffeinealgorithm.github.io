@@ -34,6 +34,6 @@ imprimirArgumentos('Eu sou uma string.', 1, 1.5, True, ['ABC', 'DEF', 'GHI'])
   <iframe src="https://www.youtube.com/embed/LhcLdqNjvpc" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/LhcLdqNjvpc){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211011/flexible-arguments-in-python/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/LhcLdqNjvpc){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/flexible-arguments-in-python/){:target="\_blank"}.
 
 ### _Happy coding!_

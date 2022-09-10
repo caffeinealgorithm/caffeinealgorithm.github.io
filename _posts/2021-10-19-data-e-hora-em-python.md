@@ -31,6 +31,6 @@ print(asctime(localtime(time()))) # Thu Aug 5 22:03:08 2021
   <iframe src="https://www.youtube.com/embed/pT6gLZZOoIw" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/pT6gLZZOoIw){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211019/date-and-time-in-python/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/pT6gLZZOoIw){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/date-and-time-in-python/){:target="\_blank"}.
 
 ### _Happy coding!_

@@ -37,6 +37,6 @@ dadosPessoais('Larissa Fernandes', 37, 'Brasileira')
   <iframe src="https://www.youtube.com/embed/rYJermgsgKk" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/rYJermgsgKk){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211006/arguments-in-python/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/rYJermgsgKk){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/arguments-in-python/){:target="\_blank"}.
 
 ### _Happy coding!_

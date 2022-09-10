@@ -17,6 +17,6 @@ Nesta publicação não se vai aprender a criar um projeto e/ou dar a compreende
   <iframe src="https://www.youtube.com/embed/TWe8RFTLe6Q" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/TWe8RFTLe6Q){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211104/creation-and-structure-in-csharp/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/TWe8RFTLe6Q){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/creation-and-structure-in-csharp/){:target="\_blank"}.
 
 ### _Happy coding!_

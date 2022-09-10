@@ -28,6 +28,6 @@ print('Eu sou uma string.')
   <iframe src="https://www.youtube.com/embed/cAxkOgCkz9s" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/cAxkOgCkz9s){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20210921/comments-in-python/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/cAxkOgCkz9s){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/comments-in-python/){:target="\_blank"}.
 
 ### _Happy coding!_

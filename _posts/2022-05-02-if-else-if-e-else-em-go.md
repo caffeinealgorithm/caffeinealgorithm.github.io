@@ -46,6 +46,6 @@ func main() {
   <iframe src="https://www.youtube.com/embed/B8Lg8TbighI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/B8Lg8TbighI){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220502/if-else-if-and-else-in-go/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/B8Lg8TbighI){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/if-else-if-and-else-in-go/){:target="\_blank"}.
 
 ### _Happy coding!_

@@ -30,6 +30,6 @@ print('Exponente:', 2 ** 5) # Exponente: 32 (2 * 2 * 2 * 2 * 2)
   <iframe src="https://www.youtube.com/embed/lrIT6rpboVg" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/lrIT6rpboVg){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20210915/arithmetic-operators-in-python/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/lrIT6rpboVg){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/arithmetic-operators-in-python/){:target="\_blank"}.
 
 ### _Happy coding!_

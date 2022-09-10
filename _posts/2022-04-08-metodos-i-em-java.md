@@ -52,6 +52,6 @@ public class MetodosI {
   <iframe src="https://www.youtube.com/embed/TAKYXCKl4VE" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/TAKYXCKl4VE){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220408/methods-i-in-java/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/TAKYXCKl4VE){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/methods-i-in-java/){:target="\_blank"}.
 
 ### _Happy coding!_

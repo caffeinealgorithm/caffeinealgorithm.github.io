@@ -28,6 +28,6 @@ Algumas características importantes sobre a linguagem que vamos aprender nesta 
   <iframe src="https://www.youtube.com/embed/JuVlWkNqRMA" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/JuVlWkNqRMA){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20211103/introduction-to-csharp/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/JuVlWkNqRMA){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/introduction-to-csharp/){:target="\_blank"}.
 
 ### _Happy coding!_

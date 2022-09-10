@@ -34,6 +34,6 @@ func main() {
   <iframe src="https://www.youtube.com/embed/PUpojD6_Swo" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/PUpojD6_Swo){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220420/arithmetic-operators-in-go/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/PUpojD6_Swo){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/arithmetic-operators-in-go/){:target="\_blank"}.
 
 ### _Happy coding!_

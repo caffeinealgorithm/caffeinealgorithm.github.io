@@ -46,6 +46,6 @@ public class ErrosComuns {
   <iframe src="https://www.youtube.com/embed/HCclW4TLSyY" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/HCclW4TLSyY){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220309/common-mistakes-in-java/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/HCclW4TLSyY){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/common-mistakes-in-java/){:target="\_blank"}.
 
 ### _Happy coding!_

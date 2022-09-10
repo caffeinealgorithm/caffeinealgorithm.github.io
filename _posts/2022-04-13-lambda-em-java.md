@@ -51,6 +51,6 @@ public class Lambda {
   <iframe src="https://www.youtube.com/embed/Xh95YJxeAnI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/Xh95YJxeAnI){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220413/lambda-in-java/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/Xh95YJxeAnI){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/lambda-in-java/){:target="\_blank"}.
 
 ### _Happy coding!_

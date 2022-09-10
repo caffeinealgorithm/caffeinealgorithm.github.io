@@ -42,6 +42,6 @@ public class ClasseScanner {
   <iframe src="https://www.youtube.com/embed/d1Fp1_jjPsE" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/d1Fp1_jjPsE){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220216/scanner-class-in-java/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/d1Fp1_jjPsE){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/scanner-class-in-java/){:target="\_blank"}.
 
 ### _Happy coding!_

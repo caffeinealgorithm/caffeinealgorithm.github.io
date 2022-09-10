@@ -89,6 +89,6 @@ public class ClasseThread {
   <iframe src="https://www.youtube.com/embed/Crk467wQmQg" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/Crk467wQmQg){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220405/thread-class-in-java/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/Crk467wQmQg){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/thread-class-in-java/){:target="\_blank"}.
 
 ### _Happy coding!_

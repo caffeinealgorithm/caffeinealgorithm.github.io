@@ -45,6 +45,6 @@ public class OperadoresDeAtribuicao {
   <iframe src="https://www.youtube.com/embed/GQVf0VwJh9c" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/GQVf0VwJh9c){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220211/assignment-operators-in-java/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/GQVf0VwJh9c){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/assignment-operators-in-java/){:target="\_blank"}.
 
 ### _Happy coding!_

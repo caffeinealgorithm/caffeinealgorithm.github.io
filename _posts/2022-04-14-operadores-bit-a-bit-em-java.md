@@ -49,6 +49,6 @@ public class OperadoresBitABit {
   <iframe src="https://www.youtube.com/embed/f_RICgMykc8" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Não te esqueças de [assistir ao vídeo](https://youtu.be/f_RICgMykc8){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/20220414/bitwise-operators-in-java/){:target="\_blank"}.
+Não te esqueças de [assistir ao vídeo](https://youtu.be/f_RICgMykc8){:target="\_blank"} e podes sempre ler esta publicação [em inglês](https://nelsonsilvadev.com/blog/bitwise-operators-in-java/){:target="\_blank"}.
 
 ### _Happy coding!_
