@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com funções na linguagem de programaç
 keywords: 'java, funções, função, métodos, método, publicação'
 date: 2022-03-03
 categories: [Java]
+redirect_from:
+  - /blog/20220303/funcoes-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com funções para que se possa usar esses mesmos conhecimentos e assim evoluir.

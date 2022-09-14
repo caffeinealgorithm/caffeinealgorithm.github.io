@@ -125,5 +125,12 @@ kramdown:
   syntax_highlighter_opts:
     css_class: 'syntax'
 
-plugins: ['jekyll-paginate', 'jekyll-sitemap', 'jekyll-seo-tag']
+plugins:
+  [
+    'jekyll-paginate',
+    'jekyll-sitemap',
+    'jekyll-seo-tag',
+    'jekyll-redirect-from',
+    'webrick',
+  ]
 exclude: ['README.md']
