@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a herança na linguagem de programa�
 keywords: 'python, herança, publicação'
 date: 2021-10-26
 categories: [Python]
+redirect_from:
+  - /blog/20211026/heranca-em-python/
 ---
 
 Nesta publicação aprende-se a trabalhar com a herança para que se possa usar esses mesmos conhecimentos e assim evoluir.

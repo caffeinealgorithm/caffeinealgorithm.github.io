@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com exceções na linguagem de programa�
 keywords: 'python, exceções, exceção, publicação'
 date: 2021-10-21
 categories: [Python]
+redirect_from:
+  - /blog/20211021/excecoes-em-python/
 ---
 
 Nesta publicação aprende-se a trabalhar com exceções para que se possa usar esses mesmos conhecimentos e assim evoluir.

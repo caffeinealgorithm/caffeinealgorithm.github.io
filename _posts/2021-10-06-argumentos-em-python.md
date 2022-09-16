@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com argumentos na linguagem de programa�
 keywords: 'python, argumentos, argumento, publicação'
 date: 2021-10-06
 categories: [Python]
+redirect_from:
+  - /blog/20211006/argumentos-em-python/
 ---
 
 Nesta publicação aprende-se a trabalhar com argumentos para que se possa usar esses mesmos conhecimentos e assim evoluir.

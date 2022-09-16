@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com decisões (if, elif e else) na lingu
 keywords: 'python, if, elif, else, condições, condição, publicação'
 date: 2021-09-24
 categories: [Python]
+redirect_from:
+  - /blog/20210924/if-elif-e-else-em-python/
 ---
 
 Nesta publicação aprende-se a trabalhar com decisões (if, elif e else) para que se possa usar esses mesmos conhecimentos e assim evoluir.

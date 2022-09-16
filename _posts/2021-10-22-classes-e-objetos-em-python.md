@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com classes e objetos na linguagem de pr
 keywords: 'python, classes e objetos, classes, objetos, classe, objeto, publicação'
 date: 2021-10-22
 categories: [Python]
+redirect_from:
+  - /blog/20211022/classes-e-objetos-em-python/
 ---
 
 Nesta publicação aprende-se a trabalhar com classes e objetos para que se possa usar esses mesmos conhecimentos e assim evoluir.

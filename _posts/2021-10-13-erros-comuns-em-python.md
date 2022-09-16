@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com erros comuns na linguagem de program
 keywords: 'python, erros communs, erros, erro, publicação'
 date: 2021-10-13
 categories: [Python]
+redirect_from:
+  - /blog/20211013/erros-comuns-em-python/
 ---
 
 Nesta publicação aprende-se a trabalhar com erros comuns para que se possa usar esses mesmos conhecimentos e assim evoluir.

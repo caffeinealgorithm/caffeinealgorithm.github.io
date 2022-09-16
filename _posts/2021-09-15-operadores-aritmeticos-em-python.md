@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com operadores aritméticos na linguagem
 keywords: 'python, operadores aritméticos, operadores, aritméticos, publicação'
 date: 2021-09-15
 categories: [Python]
+redirect_from:
+  - /blog/20210915/operadores-aritmeticos-em-python/
 ---
 
 Nesta publicação aprende-se a trabalhar com operadores aritméticos para que se possa usar esses mesmos conhecimentos e assim evoluir.

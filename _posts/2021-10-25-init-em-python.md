@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o init na linguagem de programação
 keywords: 'python, init, construtores, construtor, publicação'
 date: 2021-10-25
 categories: [Python]
+redirect_from:
+  - /blog/20211025/init-em-python/
 ---
 
 Nesta publicação aprende-se a trabalhar com o init para que se possa usar esses mesmos conhecimentos e assim evoluir.

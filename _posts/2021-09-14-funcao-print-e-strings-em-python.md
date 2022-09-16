@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a função print() e com as strings 
 keywords: 'python, função print, função, print, strings, string, publicação'
 date: 2021-09-14
 categories: [Python]
+redirect_from:
+  - /blog/20210914/funcao-print-e-strings-em-python/
 ---
 
 Nesta publicação aprende-se a trabalhar com a função `print()` e com as strings para que se possa usar esses mesmos conhecimentos e assim evoluir.

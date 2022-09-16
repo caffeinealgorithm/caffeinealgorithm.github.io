@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o ciclo for na linguagem de programa
 keywords: 'python, ciclo for, ciclo, for, ciclos, publicação'
 date: 2021-09-28
 categories: [Python]
+redirect_from:
+  - /blog/20210928/ciclo-for-em-python/
 ---
 
 Nesta publicação aprende-se a trabalhar com o ciclo for para que se possa usar esses mesmos conhecimentos e assim evoluir.

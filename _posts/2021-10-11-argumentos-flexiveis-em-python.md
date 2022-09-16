@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com argumentos flexíveis na linguagem d
 keywords: 'python, argumentos flexíveis, argumentos, flexíveis, argumento, publicação'
 date: 2021-10-11
 categories: [Python]
+redirect_from:
+  - /blog/20211011/argumentos-flexiveis-em-python/
 ---
 
 Nesta publicação aprende-se a trabalhar com argumentos flexíveis para que se possa usar esses mesmos conhecimentos e assim evoluir.

@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com listas na linguagem de programação
 keywords: 'python, listas, lista, publicação'
 date: 2021-09-23
 categories: [Python]
+redirect_from:
+  - /blog/20210923/listas-em-python/
 ---
 
 Nesta publicação aprende-se a trabalhar com listas para que se possa usar esses mesmos conhecimentos e assim evoluir.

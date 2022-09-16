@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o ciclo while na linguagem de progra
 keywords: 'python, ciclo while, ciclo, while, ciclos, publicação'
 date: 2021-09-29
 categories: [Python]
+redirect_from:
+  - /blog/20210929/ciclo-while-em-python/
 ---
 
 Nesta publicação aprende-se a trabalhar com o ciclo while para que se possa usar esses mesmos conhecimentos e assim evoluir.

@@ -6,6 +6,8 @@ description: 'Descobre a história da linguagem de programação Python, como su
 keywords: 'python, introdução, história, publicação'
 date: 2021-09-13
 categories: [Python]
+redirect_from:
+  - /blog/20210913/introducao-ao-python/
 ---
 
 Ora bem, o Python é uma linguagem de programação criada por Guido van Rossum em 1991 (sendo este mesmo, um matemático e programador holandês), e basicamente, os dois objetivos desta mesma linguagem são a produtividade e a legibilidade, que por outras palavras, consiga produzir código eficiente e que seja fácil de manter de maneira rápida.

@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com operadores de atribuição na lingua
 keywords: 'python, operadores de atribuição, operadores, atribuição, publicação'
 date: 2021-09-17
 categories: [Python]
+redirect_from:
+  - /blog/20210917/operadores-de-atribuicao-em-python/
 ---
 
 Nesta publicação aprende-se a trabalhar com operadores de atribuição para que se possa usar esses mesmos conhecimentos e assim evoluir.

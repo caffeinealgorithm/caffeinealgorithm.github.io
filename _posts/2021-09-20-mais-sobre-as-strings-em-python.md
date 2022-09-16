@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com algo mais sobre as strings na lingua
 keywords: 'python, strings, string, publicação'
 date: 2021-09-20
 categories: [Python]
+redirect_from:
+  - /blog/20210920/mais-sobre-as-strings-em-python/
 ---
 
 Nesta publicação aprende-se a trabalhar com algo mais sobre as strings para que se possa usar esses mesmos conhecimentos e assim evoluir.

@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com operadores de comparação na lingua
 keywords: 'python, operadores de comparação, operadores, comparação, publicação'
 date: 2021-09-27
 categories: [Python]
+redirect_from:
+  - /blog/20210927/operadores-de-comparacao-em-python/
 ---
 
 Nesta publicação aprende-se a trabalhar com operadores de comparação para que se possa usar esses mesmos conhecimentos e assim evoluir.

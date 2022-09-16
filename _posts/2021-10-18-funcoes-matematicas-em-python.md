@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com funções matemáticas na linguagem 
 keywords: 'python, funções matemáticas, funções, matemáticas, função, publicação'
 date: 2021-10-18
 categories: [Python]
+redirect_from:
+  - /blog/20211018/funcoes-matematicas-em-python/
 ---
 
 Nesta publicação aprende-se a trabalhar com funções matemáticas para que se possa usar esses mesmos conhecimentos e assim evoluir.

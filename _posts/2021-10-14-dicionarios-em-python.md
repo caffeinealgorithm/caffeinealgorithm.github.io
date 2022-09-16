@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com dicionários na linguagem de program
 keywords: 'python, dicionários, dicionário, publicação'
 date: 2021-10-14
 categories: [Python]
+redirect_from:
+  - /blog/20211014/dicionarios-em-python/
 ---
 
 Nesta publicação aprende-se a trabalhar com dicionários para que se possa usar esses mesmos conhecimentos e assim evoluir.

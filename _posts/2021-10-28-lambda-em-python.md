@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o lambda na linguagem de programaç�
 keywords: 'python, lambda, publicação'
 date: 2021-10-28
 categories: [Python]
+redirect_from:
+  - /blog/20211028/lambda-em-python/
 ---
 
 Nesta publicação aprende-se a trabalhar com o lambda para que se possa usar esses mesmos conhecimentos e assim evoluir.

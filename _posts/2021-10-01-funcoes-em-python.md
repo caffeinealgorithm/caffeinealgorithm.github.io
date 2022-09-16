@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com funções na linguagem de programaç
 keywords: 'python, funções, função, métodos, método, publicação'
 date: 2021-10-01
 categories: [Python]
+redirect_from:
+  - /blog/20211001/funcoes-em-python/
 ---
 
 Nesta publicação aprende-se a trabalhar com funções para que se possa usar esses mesmos conhecimentos e assim evoluir.

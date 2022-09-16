@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com argumentos padrão na linguagem de p
 keywords: 'python, argumentos padrão, argumentos, padrão, argumento, publicação'
 date: 2021-10-07
 categories: [Python]
+redirect_from:
+  - /blog/20211007/argumentos-padrao-em-python/
 ---
 
 Nesta publicação aprende-se a trabalhar com argumentos padrão para que se possa usar esses mesmos conhecimentos e assim evoluir.

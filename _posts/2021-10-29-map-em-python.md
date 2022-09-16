@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o map na linguagem de programação 
 keywords: 'python, map, publicação'
 date: 2021-10-29
 categories: [Python]
+redirect_from:
+  - /blog/20211029/map-em-python/
 ---
 
 Nesta publicação aprende-se a trabalhar com o map para que se possa usar esses mesmos conhecimentos e assim evoluir.

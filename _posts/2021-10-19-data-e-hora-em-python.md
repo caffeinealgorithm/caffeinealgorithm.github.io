@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a data e a hora na linguagem de prog
 keywords: 'python, data e hora, data, hora, publicação'
 date: 2021-10-19
 categories: [Python]
+redirect_from:
+  - /blog/20211019/data-e-hora-em-python/
 ---
 
 Nesta publicação aprende-se a trabalhar com a data e a hora para que se possa usar esses mesmos conhecimentos e assim evoluir.

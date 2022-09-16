@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com comentários na linguagem de program
 keywords: 'python, comentários, comentário, publicação'
 date: 2021-09-21
 categories: [Python]
+redirect_from:
+  - /blog/20210921/comentarios-em-python/
 ---
 
 Nesta publicação aprende-se a trabalhar com comentários para que se possa usar esses mesmos conhecimentos e assim evoluir.

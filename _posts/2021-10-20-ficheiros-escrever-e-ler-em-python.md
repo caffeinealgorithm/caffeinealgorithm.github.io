@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com ficheiros (escrever e ler) na lingua
 keywords: 'python, ficheiros, ficheiros escrever, ficheiros ler, escrever e ler, escrever, ler, publicação'
 date: 2021-10-20
 categories: [Python]
+redirect_from:
+  - /blog/20211020/ficheiros-escrever-e-ler-em-python/
 ---
 
 Nesta publicação aprende-se a trabalhar com ficheiros (escrever e ler) para que se possa usar esses mesmos conhecimentos e assim evoluir.

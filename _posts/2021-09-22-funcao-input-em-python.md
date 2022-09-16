@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a função input() na linguagem de p
 keywords: 'python, função input, função, input, publicação'
 date: 2021-09-22
 categories: [Python]
+redirect_from:
+  - /blog/20210922/funcao-input-em-python/
 ---
 
 Nesta publicação aprende-se a trabalhar com a função `input()` para que se possa usar esses mesmos conhecimentos e assim evoluir.

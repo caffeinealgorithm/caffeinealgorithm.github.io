@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com variáveis do tipo inteiro, decimal 
 keywords: 'python, variáveis, variável, inteiro, decimal, float, string, booleano, publicação'
 date: 2021-09-16
 categories: [Python]
+redirect_from:
+  - /blog/20210916/variaveis-em-python/
 ---
 
 Nesta publicação aprende-se a trabalhar com variáveis do tipo inteiro, decimal (float), string e booleano para que se possa usar esses mesmos conhecimentos e assim evoluir.

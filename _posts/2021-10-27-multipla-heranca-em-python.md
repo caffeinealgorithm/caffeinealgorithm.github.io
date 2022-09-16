@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a múltipla herança na linguagem de
 keywords: 'python, múltipla herança, herança, publicação'
 date: 2021-10-27
 categories: [Python]
+redirect_from:
+  - /blog/20211027/multipla-heranca-em-python/
 ---
 
 Nesta publicação aprende-se a trabalhar com a múltipla herança para que se possa usar esses mesmos conhecimentos e assim evoluir.

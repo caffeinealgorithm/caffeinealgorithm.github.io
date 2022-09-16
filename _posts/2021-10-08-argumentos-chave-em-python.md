@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com argumentos chave na linguagem de pro
 keywords: 'python, argumentos chave, argumentos, chave, argumento, publicação'
 date: 2021-10-08
 categories: [Python]
+redirect_from:
+  - /blog/20211008/argumentos-chave-em-python/
 ---
 
 Nesta publicação aprende-se a trabalhar com argumentos chave para que se possa usar esses mesmos conhecimentos e assim evoluir.

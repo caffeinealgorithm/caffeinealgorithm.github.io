@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o break e o continue na linguagem de
 keywords: 'python, break e continue, break, continue, publicação'
 date: 2021-09-30
 categories: [Python]
+redirect_from:
+  - /blog/20210930/break-e-continue-em-python/
 ---
 
 Nesta publicação aprende-se a trabalhar com o break e o continue para que se possa usar esses mesmos conhecimentos e assim evoluir.
