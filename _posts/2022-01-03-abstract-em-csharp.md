@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o abstract na linguagem de programa�
 keywords: 'c#, csharp, abstract, publicação'
 date: 2022-01-03
 categories: [C#]
+redirect_from:
+  - /blog/20220103/abstract-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com o abstract para que se possa usar esses mesmos conhecimentos e assim evoluir.

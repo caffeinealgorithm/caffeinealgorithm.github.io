@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com argumentos chave na linguagem de pro
 keywords: 'c#, csharp, argumentos chave, argumentos, chave, argumento, publicação'
 date: 2021-12-07
 categories: [C#]
+redirect_from:
+  - /blog/20211207/argumentos-chave-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com argumentos chave para que se possa usar esses mesmos conhecimentos e assim evoluir.

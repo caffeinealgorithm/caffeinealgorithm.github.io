@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o goto e o #region/#endregion na lin
 keywords: 'c#, csharp, goto, #region, region, #endregion, endregion, publicação'
 date: 2022-02-01
 categories: [C#]
+redirect_from:
+  - /blog/20220201/goto-e-region-endregion-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com o goto e o #region/#endregion para que se possa usar esses mesmos conhecimentos e assim evoluir.

@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a classe Path na linguagem de progra
 keywords: 'c#, csharp, classe path, classe, path, publicação'
 date: 2022-01-14
 categories: [C#]
+redirect_from:
+  - /blog/20220114/classe-path-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com a classe Path para que se possa usar esses mesmos conhecimentos e assim evoluir.

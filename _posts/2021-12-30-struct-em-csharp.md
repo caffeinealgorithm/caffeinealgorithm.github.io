@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o struct na linguagem de programaç�
 keywords: 'c#, csharp, struct, estrutura, publicação'
 date: 2021-12-30
 categories: [C#]
+redirect_from:
+  - /blog/20211230/struct-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com o struct para que se possa usar esses mesmos conhecimentos e assim evoluir.

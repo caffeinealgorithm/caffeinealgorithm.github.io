@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a classe Debug na linguagem de progr
 keywords: 'c#, csharp, classe debug, classe, debug, publicação'
 date: 2022-01-19
 categories: [C#]
+redirect_from:
+  - /blog/20220119/classe-debug-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com a classe Debug para que se possa usar esses mesmos conhecimentos e assim evoluir.

@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o is e as na linguagem de programaç
 keywords: 'c#, csharp, is e as, is, as, publicação'
 date: 2022-01-05
 categories: [C#]
+redirect_from:
+  - /blog/20220105/is-e-as-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com o is e as para que se possa usar esses mesmos conhecimentos e assim evoluir.

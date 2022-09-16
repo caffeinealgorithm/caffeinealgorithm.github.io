@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o partial na linguagem de programaç
 keywords: 'c#, csharp, partial, publicação'
 date: 2021-12-31
 categories: [C#]
+redirect_from:
+  - /blog/20211231/partial-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com o partial para que se possa usar esses mesmos conhecimentos e assim evoluir.

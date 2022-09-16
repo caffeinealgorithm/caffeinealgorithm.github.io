@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com operadores aritméticos na linguagem
 keywords: 'c#, csharp, operadores aritméticos, operadores, aritméticos, publicação'
 date: 2021-11-08
 categories: [C#]
+redirect_from:
+  - /blog/20211108/operadores-aritmeticos-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com operadores aritméticos para que se possa usar esses mesmos conhecimentos e assim evoluir.

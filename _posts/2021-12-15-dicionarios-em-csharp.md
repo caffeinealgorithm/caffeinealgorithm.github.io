@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com dicionários na linguagem de program
 keywords: 'c#, csharp, dicionários, dicionário, publicação'
 date: 2021-12-15
 categories: [C#]
+redirect_from:
+  - /blog/20211215/dicionarios-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com dicionários para que se possa usar esses mesmos conhecimentos e assim evoluir.

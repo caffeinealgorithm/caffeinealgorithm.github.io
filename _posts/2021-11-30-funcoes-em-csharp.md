@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com funções na linguagem de programaç
 keywords: 'c#, csharp, funções, função, métodos, método, publicação'
 date: 2021-11-30
 categories: [C#]
+redirect_from:
+  - /blog/20211130/funcoes-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com funções para que se possa usar esses mesmos conhecimentos e assim evoluir.

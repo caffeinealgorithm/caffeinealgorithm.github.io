@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o operador ternário na linguagem de
 keywords: 'c#, csharp, operador ternário, operador, ternário, publicação'
 date: 2021-11-22
 categories: [C#]
+redirect_from:
+  - /blog/20211122/operador-ternario-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com o operador ternário para que se possa usar esses mesmos conhecimentos e assim evoluir.

@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a classe Thread na linguagem de prog
 keywords: 'c#, csharp, classe thread, classe, thread, publicação'
 date: 2022-01-18
 categories: [C#]
+redirect_from:
+  - /blog/20220118/classe-thread-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com a classe Thread para que se possa usar esses mesmos conhecimentos e assim evoluir.

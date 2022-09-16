@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o propriedades na linguagem de progr
 keywords: 'c#, csharp, propriedades, propriedade, get, set, publicação'
 date: 2021-12-24
 categories: [C#]
+redirect_from:
+  - /blog/20211224/propriedades-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com o propriedades para que se possa usar esses mesmos conhecimentos e assim evoluir.

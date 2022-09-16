@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o ciclo foreach na linguagem de prog
 keywords: 'c#, csharp, ciclo foreach, ciclo, foreach, ciclos, publicação'
 date: 2021-11-25
 categories: [C#]
+redirect_from:
+  - /blog/20211125/ciclo-foreach-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com o ciclo foreach para que se possa usar esses mesmos conhecimentos e assim evoluir.

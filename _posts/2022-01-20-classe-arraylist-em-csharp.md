@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a classe ArrayList na linguagem de p
 keywords: 'c#, csharp, classe arraylist, classe, arraylist, arrays, array, publicação'
 date: 2022-01-20
 categories: [C#]
+redirect_from:
+  - /blog/20220120/classe-arraylist-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com a classe ArrayList para que se possa usar esses mesmos conhecimentos e assim evoluir.

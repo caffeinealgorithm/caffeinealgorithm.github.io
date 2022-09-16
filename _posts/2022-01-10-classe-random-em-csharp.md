@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a classe Random na linguagem de prog
 keywords: 'c#, csharp, classe random, classe, random, publicação'
 date: 2022-01-10
 categories: [C#]
+redirect_from:
+  - /blog/20220110/classe-random-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com a classe Random para que se possa usar esses mesmos conhecimentos e assim evoluir.

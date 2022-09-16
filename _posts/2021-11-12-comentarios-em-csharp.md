@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com comentários na linguagem de program
 keywords: 'c#, csharp, comentários, comentário, publicação'
 date: 2021-11-12
 categories: [C#]
+redirect_from:
+  - /blog/20211112/comentarios-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com comentários para que se possa usar esses mesmos conhecimentos e assim evoluir.

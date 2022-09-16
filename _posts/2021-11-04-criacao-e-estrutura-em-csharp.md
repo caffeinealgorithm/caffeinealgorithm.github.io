@@ -6,6 +6,8 @@ description: 'Descobre como se cria um projeto e compreende-se como funciona tod
 keywords: 'c#, sharp, criação, estrutura, publicação'
 date: 2021-11-04
 categories: [C#]
+redirect_from:
+  - /blog/20211104/criacao-e-estrutura-em-csharp/
 ---
 
 Nesta publicação não se vai aprender a criar um projeto e/ou dar a compreender toda a estrutura desse mesmo, contudo, todo esse conhecimento está inteiramente disponível no vídeo em baixo (está tudo bem detalhado para que possas compreender tudo).

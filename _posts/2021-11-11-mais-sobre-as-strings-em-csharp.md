@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com algo mais sobre as strings na lingua
 keywords: 'c#, csharp, strings, string, publicação'
 date: 2021-11-11
 categories: [C#]
+redirect_from:
+  - /blog/20211111/mais-sobre-as-strings-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com algo mais sobre as strings para que se possa usar esses mesmos conhecimentos e assim evoluir.

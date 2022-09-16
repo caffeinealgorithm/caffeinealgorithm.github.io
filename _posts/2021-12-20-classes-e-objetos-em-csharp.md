@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com classes e objetos na linguagem de pr
 keywords: 'c#, csharp, classes e objetos, classes, objetos, classe, objeto, publicação'
 date: 2021-12-20
 categories: [C#]
+redirect_from:
+  - /blog/20211220/classes-e-objetos-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com classes e objetos para que se possa usar esses mesmos conhecimentos e assim evoluir.

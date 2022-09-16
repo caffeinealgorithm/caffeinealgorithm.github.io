@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a função WriteLine() e com as stri
 keywords: 'c#, csharp, função writeline, função, writeline, strings, string, publicação'
 date: 2021-11-05
 categories: [C#]
+redirect_from:
+  - /blog/20211105/funcao-writeline-e-strings-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com a função `WriteLine()` e com as strings para que se possa usar esses mesmos conhecimentos e assim evoluir.

@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a classe Stack na linguagem de progr
 keywords: 'c#, csharp, classe stack, classe, stack, pilha, publicação'
 date: 2022-01-24
 categories: [C#]
+redirect_from:
+  - /blog/20220124/classe-stack-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com a classe Stack para que se possa usar esses mesmos conhecimentos e assim evoluir.

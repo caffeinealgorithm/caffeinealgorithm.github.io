@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com operadores de comparação na lingua
 keywords: 'c#, csharp, operadores de comparação, operadores, comparação, publicação'
 date: 2021-11-19
 categories: [C#]
+redirect_from:
+  - /blog/20211119/operadores-de-comparacao-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com operadores de comparação para que se possa usar esses mesmos conhecimentos e assim evoluir.

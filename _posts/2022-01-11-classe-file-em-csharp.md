@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a classe File na linguagem de progra
 keywords: 'c#, csharp, classe file, classe, file, publicação'
 date: 2022-01-11
 categories: [C#]
+redirect_from:
+  - /blog/20220111/classe-file-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com a classe File para que se possa usar esses mesmos conhecimentos e assim evoluir.

@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com interfaces na linguagem de programa�
 keywords: 'c#, csharp, interfaces, interface, publicação'
 date: 2021-12-29
 categories: [C#]
+redirect_from:
+  - /blog/20211229/interfaces-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com interfaces para que se possa usar esses mesmos conhecimentos e assim evoluir.

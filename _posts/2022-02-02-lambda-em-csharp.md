@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o lambda na linguagem de programaç�
 keywords: 'c#, csharp, lambda, publicação'
 date: 2022-02-02
 categories: [C#]
+redirect_from:
+  - /blog/20220202/lambda-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com o lambda para que se possa usar esses mesmos conhecimentos e assim evoluir.

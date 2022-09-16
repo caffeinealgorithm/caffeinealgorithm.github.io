@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a classe Convert na linguagem de pro
 keywords: 'c#, csharp, classe convert, classe, convert, publicação'
 date: 2022-01-06
 categories: [C#]
+redirect_from:
+  - /blog/20220106/class-convert-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com a classe Convert para que se possa usar esses mesmos conhecimentos e assim evoluir.

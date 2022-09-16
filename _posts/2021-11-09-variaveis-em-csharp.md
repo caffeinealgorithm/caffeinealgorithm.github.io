@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com variáveis do tipo inteiro, decimal 
 keywords: 'c#, csharp, variáveis, variável, inteiro, decimal, double, string, char, booleano, publicação'
 date: 2021-11-09
 categories: [C#]
+redirect_from:
+  - /blog/20211109/variaveis-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com variáveis do tipo inteiro, decimal (double), string, char e booleano para que se possa usar esses mesmos conhecimentos e assim evoluir.

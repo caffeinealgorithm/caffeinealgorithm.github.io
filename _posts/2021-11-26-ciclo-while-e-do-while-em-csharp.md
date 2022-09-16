@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o ciclo while e do while na linguage
 keywords: 'c#, csharp, ciclo while, ciclo do while, ciclo, while, do while, ciclos, publicação'
 date: 2021-11-26
 categories: [C#]
+redirect_from:
+  - /blog/20211126/ciclo-while-e-do-while-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com o ciclo while e do while para que se possa usar esses mesmos conhecimentos e assim evoluir.

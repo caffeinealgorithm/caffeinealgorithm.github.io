@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com erros comuns na linguagem de program
 keywords: 'c#, csharp, erros communs, erros, erro, publicação'
 date: 2021-12-13
 categories: [C#]
+redirect_from:
+  - /blog/20211213/erros-comuns-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com erros comuns para que se possa usar esses mesmos conhecimentos e assim evoluir.

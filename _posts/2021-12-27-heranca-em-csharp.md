@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a herança na linguagem de programa�
 keywords: 'c#, csharp, herança, publicação'
 date: 2021-12-27
 categories: [C#]
+redirect_from:
+  - /blog/20211227/heranca-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com a herança para que se possa usar esses mesmos conhecimentos e assim evoluir.

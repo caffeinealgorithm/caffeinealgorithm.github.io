@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com modificadores de acesso na linguagem
 keywords: 'c#, csharp, modificadores de acesso, modificadores, acesso, public, protected, internal, protected internal, private, publicação'
 date: 2021-12-22
 categories: [C#]
+redirect_from:
+  - /blog/20211222/modificadores-de-acesso-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com modificadores de acesso para que se possa usar esses mesmos conhecimentos e assim evoluir.

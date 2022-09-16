@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com decisões (if, else if e else) na li
 keywords: 'c#, csharp, if, else if, else, condições, condição, publicação'
 date: 2021-11-18
 categories: [C#]
+redirect_from:
+  - /blog/20211118/if-else-if-e-else-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com decisões (if, else if e else) para que se possa usar esses mesmos conhecimentos e assim evoluir.

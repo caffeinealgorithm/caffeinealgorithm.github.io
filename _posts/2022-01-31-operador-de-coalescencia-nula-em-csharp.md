@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o operador de coalescência nula na 
 keywords: 'c#, csharp, operador de coalescência nula, operador, coalescência nula, coalescência, nula, publicação'
 date: 2022-01-31
 categories: [C#]
+redirect_from:
+  - /blog/20220131/operador-de-coalescencia-nula-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com o operador de coalescência nula para que se possa usar esses mesmos conhecimentos e assim evoluir.

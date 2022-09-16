@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com variáveis globais e locais na lingu
 keywords: 'c#, csharp, variáveis globais, variáveis locais, variáveis, globais, locais, variável, publicação'
 date: 2021-12-10
 categories: [C#]
+redirect_from:
+  - /blog/20211210/variaveis-globais-e-locais-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com variáveis globais e locais para que se possa usar esses mesmos conhecimentos e assim evoluir.

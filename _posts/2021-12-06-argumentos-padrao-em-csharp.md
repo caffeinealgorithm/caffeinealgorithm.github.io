@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com argumentos padrão na linguagem de p
 keywords: 'c#, csharp, argumentos padrão, argumentos, padrão, argumento, publicação'
 date: 2021-12-06
 categories: [C#]
+redirect_from:
+  - /blog/20211206/argumentos-padrao-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com argumentos padrão para que se possa usar esses mesmos conhecimentos e assim evoluir.

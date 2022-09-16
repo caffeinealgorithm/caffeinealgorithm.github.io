@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o delegate na linguagem de programa�
 keywords: 'c#, csharp, delegate, publicação'
 date: 2022-01-04
 categories: [C#]
+redirect_from:
+  - /blog/20220104/delegate-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com o delegate para que se possa usar esses mesmos conhecimentos e assim evoluir.

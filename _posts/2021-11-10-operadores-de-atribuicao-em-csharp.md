@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com operadores de atribuição na lingua
 keywords: 'c#, csharp, operadores de atribuição, operadores, atribuição, publicação'
 date: 2021-11-10
 categories: [C#]
+redirect_from:
+  - /blog/20211110/operadores-de-atribuicao-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com operadores de atribuição para que se possa usar esses mesmos conhecimentos e assim evoluir.

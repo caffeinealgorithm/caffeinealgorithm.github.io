@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com listas na linguagem de programação
 keywords: 'c#, csharp, listas, lista, publicação'
 date: 2021-11-17
 categories: [C#]
+redirect_from:
+  - /blog/20211117/listas-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com listas para que se possa usar esses mesmos conhecimentos e assim evoluir.

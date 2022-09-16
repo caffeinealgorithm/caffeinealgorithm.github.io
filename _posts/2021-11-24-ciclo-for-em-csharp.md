@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o ciclo for na linguagem de programa
 keywords: 'c#, csharp, ciclo for, ciclo, for, ciclos, publicação'
 date: 2021-11-24
 categories: [C#]
+redirect_from:
+  - /blog/20211124/ciclo-for-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com o ciclo for para que se possa usar esses mesmos conhecimentos e assim evoluir.

@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o switch na linguagem de programaç�
 keywords: 'c#, csharp, switch, condições, condição, publicação'
 date: 2021-11-23
 categories: [C#]
+redirect_from:
+  - /blog/20211123/switch-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com o switch para que se possa usar esses mesmos conhecimentos e assim evoluir.

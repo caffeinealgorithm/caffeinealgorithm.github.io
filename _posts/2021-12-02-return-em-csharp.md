@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o return na linguagem de programaç�
 keywords: 'c#, csharp, return, publicação'
 date: 2021-12-02
 categories: [C#]
+redirect_from:
+  - /blog/20211202/return-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com o return para que se possa usar esses mesmos conhecimentos e assim evoluir.

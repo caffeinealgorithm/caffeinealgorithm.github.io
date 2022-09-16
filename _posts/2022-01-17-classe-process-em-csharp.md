@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a classe Process na linguagem de pro
 keywords: 'c#, csharp, classe process, classe, process, publicação'
 date: 2022-01-17
 categories: [C#]
+redirect_from:
+  - /blog/20220117/classe-process-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com a classe Process para que se possa usar esses mesmos conhecimentos e assim evoluir.

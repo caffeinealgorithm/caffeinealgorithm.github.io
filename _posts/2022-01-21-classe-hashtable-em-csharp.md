@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a classe Hashtable na linguagem de p
 keywords: 'c#, csharp, classe hashtable, classe, hashtable, hash, publicação'
 date: 2022-01-21
 categories: [C#]
+redirect_from:
+  - /blog/20220121/classe-hashtable-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com a classe Hashtable para que se possa usar esses mesmos conhecimentos e assim evoluir.

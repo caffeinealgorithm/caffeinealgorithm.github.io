@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com operadores bit a bit na linguagem de
 keywords: 'c#, csharp, operadores bit a bit, operadores bit, operadores, bit, publicação'
 date: 2022-02-03
 categories: [C#]
+redirect_from:
+  - /blog/20220203/operadores-bit-a-bit-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com operadores bit a bit para que se possa usar esses mesmos conhecimentos e assim evoluir.

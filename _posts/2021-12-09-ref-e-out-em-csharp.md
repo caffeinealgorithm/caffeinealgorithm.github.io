@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o ref e out na linguagem de programa
 keywords: 'c#, csharp, ref e out, ref, out, publicação'
 date: 2021-12-09
 categories: [C#]
+redirect_from:
+  - /blog/20211209/ref-e-out-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com o ref e out para que se possa usar esses mesmos conhecimentos e assim evoluir.

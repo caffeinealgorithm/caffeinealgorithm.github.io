@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com argumentos na linguagem de programa�
 keywords: 'c#, csharp, argumentos, argumento, publicação'
 date: 2021-12-03
 categories: [C#]
+redirect_from:
+  - /blog/20211203/argumentos-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com argumentos para que se possa usar esses mesmos conhecimentos e assim evoluir.

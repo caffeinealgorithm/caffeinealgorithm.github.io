@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com arrays multidimensionais na linguage
 keywords: 'c#, csharp, arrays multidimensionais, arrays, multimensionais, array, multidimensional, publicação'
 date: 2021-12-14
 categories: [C#]
+redirect_from:
+  - /blog/20211214/arrays-multidimensionais-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com arrays multidimensionais para que se possa usar esses mesmos conhecimentos e assim evoluir.

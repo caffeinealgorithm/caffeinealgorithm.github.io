@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com dois métodos específicos (Substrin
 keywords: 'c#, csharp, métodos, método, funções, função, publicação'
 date: 2022-01-26
 categories: [C#]
+redirect_from:
+  - /blog/20220126/metodos-i-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com dois métodos específicos (`Substring()` e `Split()`) para que se possa usar esses mesmos conhecimentos e assim evoluir.

@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com dois métodos específicos (IndexOf(
 keywords: 'c#, csharp, métodos, método, funções, função, publicação'
 date: 2022-01-27
 categories: [C#]
+redirect_from:
+  - /blog/20220127/metodos-ii-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com dois métodos específicos (`IndexOf()` e `Trim()`) para que se possa usar esses mesmos conhecimentos e assim evoluir.

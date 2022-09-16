@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com dois métodos específicos (Remove()
 keywords: 'c#, csharp, métodos, método, funções, função, publicação'
 date: 2022-01-28
 categories: [C#]
+redirect_from:
+  - /blog/20220128/metodos-iii-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com dois métodos específicos (`Remove()` e `Replace()`) para que se possa usar esses mesmos conhecimentos e assim evoluir.

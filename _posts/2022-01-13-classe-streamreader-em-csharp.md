@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a classe StreamReader na linguagem d
 keywords: 'c#, csharp, classe streamreader, classe, streamreader, publicação'
 date: 2022-01-13
 categories: [C#]
+redirect_from:
+  - /blog/20220113/classe-streamreader-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com a classe StreamReader para que se possa usar esses mesmos conhecimentos e assim evoluir.

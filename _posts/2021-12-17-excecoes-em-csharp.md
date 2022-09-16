@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com exceções na linguagem de programa�
 keywords: 'c#, csharp, exceções, exceção, publicação'
 date: 2021-12-17
 categories: [C#]
+redirect_from:
+  - /blog/20211217/excecoes-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com exceções para que se possa usar esses mesmos conhecimentos e assim evoluir.

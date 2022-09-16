@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a classe StreamWriter na linguagem d
 keywords: 'c#, csharp, classe streamwriter, classe, streamwriter, publicação'
 date: 2022-01-12
 categories: [C#]
+redirect_from:
+  - /blog/20220112/classe-streamwriter-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com a classe StreamWriter para que se possa usar esses mesmos conhecimentos e assim evoluir.

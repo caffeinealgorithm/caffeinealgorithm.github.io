@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a classe Math na linguagem de progra
 keywords: 'c#, csharp, classe math, classe, math, publicação'
 date: 2022-01-07
 categories: [C#]
+redirect_from:
+  - /blog/20220107/classe-math-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com a classe Math para que se possa usar esses mesmos conhecimentos e assim evoluir.

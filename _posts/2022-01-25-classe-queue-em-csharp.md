@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a classe Queue na linguagem de progr
 keywords: 'c#, csharp, classe queue, classe, queue, fila, publicação'
 date: 2022-01-25
 categories: [C#]
+redirect_from:
+  - /blog/20220125/classe-queue-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com a classe Queue para que se possa usar esses mesmos conhecimentos e assim evoluir.

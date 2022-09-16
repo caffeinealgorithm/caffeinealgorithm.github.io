@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com mais sobre as variáveis na linguage
 keywords: 'c#, csharp, variáveis, variável, publicação'
 date: 2021-12-16
 categories: [C#]
+redirect_from:
+  - /blog/20211216/mais-sobre-as-variaveis-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com mais sobre as variáveis para que se possa usar esses mesmos conhecimentos e assim evoluir.

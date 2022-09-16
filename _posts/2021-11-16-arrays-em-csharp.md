@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com arrays na linguagem de programação
 keywords: 'c#, csharp, arrays, array, publicação'
 date: 2021-11-16
 categories: [C#]
+redirect_from:
+  - /blog/20211116/arrays-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com arrays para que se possa usar esses mesmos conhecimentos e assim evoluir.

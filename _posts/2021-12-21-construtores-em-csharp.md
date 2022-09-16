@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com construtores na linguagem de program
 keywords: 'c#, csharp, construtores, construtor, publicação'
 date: 2021-12-21
 categories: [C#]
+redirect_from:
+  - /blog/20211221/construtores-em-csharp/
 ---
 
 Nesta publicação aprende-se a trabalhar com construtores para que se possa usar esses mesmos conhecimentos e assim evoluir.
