@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o return na linguagem de programaç�
 keywords: 'java, return, publicação'
 date: 2022-03-04
 categories: [Java]
+redirect_from:
+  - /blog/20220304/return-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com o return para que se possa usar esses mesmos conhecimentos e assim evoluir.

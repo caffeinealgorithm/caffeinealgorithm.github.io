@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a classe FileWriter na linguagem de 
 keywords: 'java, classe filewriter, classe, filewriter, publicação'
 date: 2022-03-31
 categories: [Java]
+redirect_from:
+  - /blog/20220331/classe-filewriter-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com a classe FileWriter para que se possa usar esses mesmos conhecimentos e assim evoluir.

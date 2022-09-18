@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com mais sobre as exceções na linguage
 keywords: 'java, exceções, exceção, publicação'
 date: 2022-03-18
 categories: [Java]
+redirect_from:
+  - /blog/20220318/mais-sobre-as-excecoes-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com mais sobre as exceções para que se possa usar esses mesmos conhecimentos e assim evoluir.

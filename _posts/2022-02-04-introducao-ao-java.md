@@ -6,6 +6,8 @@ description: 'Descobre a história da linguagem de programação Java, como surg
 keywords: 'java, introdução, história, publicação'
 date: 2022-02-04
 categories: [Java]
+redirect_from:
+  - /blog/20220204/introducao-ao-java/
 ---
 
 Um IDE (Integrated Development Environment), que traduzido significa, Ambiente de Desenvolvimento Integrado, é um programa que integra as várias ferramentas necessárias para o desenvolvimento de software ajudando todo esse processo.

@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com argumentos na linguagem de programa�
 keywords: 'java, argumentos, argumento, publicação'
 date: 2022-03-07
 categories: [Java]
+redirect_from:
+  - /blog/20220307/argumentos-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com argumentos para que se possa usar esses mesmos conhecimentos e assim evoluir.

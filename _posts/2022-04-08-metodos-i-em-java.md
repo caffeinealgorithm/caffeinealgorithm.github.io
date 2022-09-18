@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com dois métodos específicos (substrin
 keywords: 'java, métodos, método, funções, função, publicação'
 date: 2022-04-08
 categories: [Java]
+redirect_from:
+  - /blog/20220408/metodos-i-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com dois métodos específicos (`substring()` e `split()`) para que se possa usar esses mesmos conhecimentos e assim evoluir.

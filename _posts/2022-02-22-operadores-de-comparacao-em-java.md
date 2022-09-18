@@ -4,8 +4,10 @@ excerpt: Blog
 title: 'Operadores de Comparação em Java'
 description: 'Descobre como se trabalha com operadores de comparação na linguagem de programação Java. Obtém respostas às tuas dúvidas com a teoria e os exemplos apresentados.'
 keywords: 'java, operadores de comparação, operadores, comparação, publicação'
-date: 2022-02-21
+date: 2022-02-22
 categories: [Java]
+redirect_from:
+  - /blog/20220222/operadores-de-comparacao-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com operadores de comparação para que se possa usar esses mesmos conhecimentos e assim evoluir.

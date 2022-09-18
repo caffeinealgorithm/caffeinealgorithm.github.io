@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o abstract na linguagem de programa�
 keywords: 'java, abstract, publicação'
 date: 2022-03-25
 categories: [Java]
+redirect_from:
+  - /blog/20220325/abstract-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com o abstract para que se possa usar esses mesmos conhecimentos e assim evoluir.

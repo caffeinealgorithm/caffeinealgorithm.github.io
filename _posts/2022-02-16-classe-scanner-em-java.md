@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a classe Scanner na linguagem de pro
 keywords: 'java, classe scanner, classe, scanner, publicação'
 date: 2022-02-16
 categories: [Java]
+redirect_from:
+  - /blog/20220216/classe-scanner-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com a classe Scanner para que se possa usar esses mesmos conhecimentos e assim evoluir.

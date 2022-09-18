@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a classe File na linguagem de progra
 keywords: 'java, classe file, classe, file, publicação'
 date: 2022-03-30
 categories: [Java]
+redirect_from:
+  - /blog/20220330/classe-file-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com a classe File para que se possa usar esses mesmos conhecimentos e assim evoluir.

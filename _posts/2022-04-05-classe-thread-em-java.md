@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a classe Thread na linguagem de prog
 keywords: 'java, classe thread, classe, thread, publicação'
 date: 2022-04-05
 categories: [Java]
+redirect_from:
+  - /blog/20220405/classe-thread-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com a classe Thread para que se possa usar esses mesmos conhecimentos e assim evoluir.

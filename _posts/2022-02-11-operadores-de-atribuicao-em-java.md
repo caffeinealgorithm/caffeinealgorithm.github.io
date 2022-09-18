@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com operadores de atribuição na lingua
 keywords: 'java, operadores de atribuição, operadores, atribuição, publicação'
 date: 2022-02-11
 categories: [Java]
+redirect_from:
+  - /blog/20220211/operadores-de-atribuicao-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com operadores de atribuição para que se possa usar esses mesmos conhecimentos e assim evoluir.

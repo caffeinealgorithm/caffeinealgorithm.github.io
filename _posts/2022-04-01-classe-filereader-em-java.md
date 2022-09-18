@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a classe FileReader na linguagem de 
 keywords: 'java, classe filereader, classe, filereader, publicação'
 date: 2022-04-01
 categories: [Java]
+redirect_from:
+  - /blog/20220401/classe-filereader-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com a classe FileReader para que se possa usar esses mesmos conhecimentos e assim evoluir.

@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com listas na linguagem de programação
 keywords: 'java, listas, lista, publicação'
 date: 2022-02-18
 categories: [Java]
+redirect_from:
+  - /blog/20220218/listas-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com listas para que se possa usar esses mesmos conhecimentos e assim evoluir.

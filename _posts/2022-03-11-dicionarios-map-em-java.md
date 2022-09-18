@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com dicionários (Map) na linguagem de p
 keywords: 'java, dicionários, map, dicionário, publicação'
 date: 2022-03-11
 categories: [Java]
+redirect_from:
+  - /blog/20220311/dicionarios-map-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com dicionários (Map) para que se possa usar esses mesmos conhecimentos e assim evoluir.

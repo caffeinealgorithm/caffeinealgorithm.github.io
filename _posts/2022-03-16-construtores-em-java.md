@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com construtores na linguagem de program
 keywords: 'java, construtores, construtor, publicação'
 date: 2022-03-16
 categories: [Java]
+redirect_from:
+  - /blog/20220316/construtores-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com construtores para que se possa usar esses mesmos conhecimentos e assim evoluir.

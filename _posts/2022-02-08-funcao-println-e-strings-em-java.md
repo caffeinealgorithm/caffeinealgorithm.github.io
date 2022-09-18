@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a função println() e com as string
 keywords: 'java, função println, função, println, strings, string, publicação'
 date: 2022-02-08
 categories: [Java]
+redirect_from:
+  - /blog/20220208/funcao-println-e-strings-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com a função `println()` e com as strings para que se possa usar esses mesmos conhecimentos e assim evoluir.

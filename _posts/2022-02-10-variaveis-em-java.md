@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com variáveis do tipo inteiro, decimal 
 keywords: 'java, variáveis, variável, inteiro, decimal, double, string, char, booleano, publicação'
 date: 2022-02-10
 categories: [Java]
+redirect_from:
+  - /blog/20220210/variaveis-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com variáveis do tipo inteiro, decimal (double), string, char e booleano para que se possa usar esses mesmos conhecimentos e assim evoluir.

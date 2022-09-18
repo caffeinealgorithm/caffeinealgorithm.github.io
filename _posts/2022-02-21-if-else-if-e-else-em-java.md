@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com decisões (if, else if e else) na li
 keywords: 'java, if, else if, else, condições, condição, publicação'
 date: 2022-02-21
 categories: [Java]
+redirect_from:
+  - /blog/20220221/if-else-if-e-else-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com decisões (if, else if e else) para que se possa usar esses mesmos conhecimentos e assim evoluir.

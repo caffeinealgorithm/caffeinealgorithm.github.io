@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com arrays na linguagem de programação
 keywords: 'java, arrays, array, publicação'
 date: 2022-02-17
 categories: [Java]
+redirect_from:
+  - /blog/20220217/arrays-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com arrays para que se possa usar esses mesmos conhecimentos e assim evoluir.

@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o ciclo while e do while na linguage
 keywords: 'java, ciclo while, ciclo do while, ciclo, while, do while, ciclos, publicação'
 date: 2022-03-01
 categories: [Java]
+redirect_from:
+  - /blog/20220301/ciclo-while-e-do-while-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com o ciclo while e do while para que se possa usar esses mesmos conhecimentos e assim evoluir.

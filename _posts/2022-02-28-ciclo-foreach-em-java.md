@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o ciclo foreach na linguagem de prog
 keywords: 'java, ciclo for, ciclo foreach, ciclo, for, foreach, ciclos, publicação'
 date: 2022-02-28
 categories: [Java]
+redirect_from:
+  - /blog/20220228/ciclo-foreach-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com o ciclo "foreach" para que se possa usar esses mesmos conhecimentos e assim evoluir.

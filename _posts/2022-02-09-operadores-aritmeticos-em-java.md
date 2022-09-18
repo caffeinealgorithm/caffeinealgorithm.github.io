@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com operadores aritméticos na linguagem
 keywords: 'java, operadores aritméticos, operadores, aritméticos, publicação'
 date: 2022-02-09
 categories: [Java]
+redirect_from:
+  - /blog/20220209/operadores-aritmeticos-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com operadores aritméticos para que se possa usar esses mesmos conhecimentos e assim evoluir.

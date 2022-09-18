@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a classe Hashtable na linguagem de p
 keywords: 'java, classe hashtable, classe, hashtable, hash, publicação'
 date: 2022-04-06
 categories: [Java]
+redirect_from:
+  - /blog/20220406/classe-hashtable-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com a classe Hashtable para que se possa usar esses mesmos conhecimentos e assim evoluir.

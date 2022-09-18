@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com comentários na linguagem de program
 keywords: 'java, comentários, comentário, publicação'
 date: 2022-02-15
 categories: [Java]
+redirect_from:
+  - /blog/20220215/comentarios-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com comentários para que se possa usar esses mesmos conhecimentos e assim evoluir.

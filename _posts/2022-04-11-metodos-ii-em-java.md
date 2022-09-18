@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com dois métodos específicos (indexOf(
 keywords: 'java, métodos, método, funções, função, publicação'
 date: 2022-04-11
 categories: [Java]
+redirect_from:
+  - /blog/20220411/metodos-ii-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com dois métodos específicos (`indexOf()` e `trim()`) para que se possa usar esses mesmos conhecimentos e assim evoluir.

@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a classe Random na linguagem de prog
 keywords: 'java, classe random, classe, random, publicação'
 date: 2022-03-29
 categories: [Java]
+redirect_from:
+  - /blog/20220329/classe-random-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com a classe Random para que se possa usar esses mesmos conhecimentos e assim evoluir.

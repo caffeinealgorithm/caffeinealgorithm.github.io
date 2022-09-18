@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a classe Stack na linguagem de progr
 keywords: 'java, classe stack, classe, stack, pilha, publicação'
 date: 2022-04-07
 categories: [Java]
+redirect_from:
+  - /blog/20220407/classe-stack-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com a classe Stack para que se possa usar esses mesmos conhecimentos e assim evoluir.

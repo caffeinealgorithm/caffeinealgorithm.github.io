@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a herança na linguagem de programa�
 keywords: 'java, herança, publicação'
 date: 2022-03-22
 categories: [Java]
+redirect_from:
+  - /blog/20220322/heranca-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com a herança para que se possa usar esses mesmos conhecimentos e assim evoluir.

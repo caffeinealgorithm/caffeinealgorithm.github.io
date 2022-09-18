@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o ciclo for na linguagem de programa
 keywords: 'java, ciclo for, ciclo, for, ciclos, publicação'
 date: 2022-02-25
 categories: [Java]
+redirect_from:
+  - /blog/20220225/ciclo-for-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com o ciclo for para que se possa usar esses mesmos conhecimentos e assim evoluir.

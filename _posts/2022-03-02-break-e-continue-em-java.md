@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o break e o continue na linguagem de
 keywords: 'java, break e continue, break, continue, publicação'
 date: 2022-03-02
 categories: [Java]
+redirect_from:
+  - /blog/20220302/break-e-continue-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com o break e o continue para que se possa usar esses mesmos conhecimentos e assim evoluir.

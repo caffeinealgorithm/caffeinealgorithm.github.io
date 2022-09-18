@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a função print() e com as strings 
 keywords: 'java, criação, publicação'
 date: 2022-02-07
 categories: [Java]
+redirect_from:
+  - /blog/20220207/criacao-e-estrutura-em-java/
 ---
 
 Nesta publicação não se vai aprender a criar um projeto e/ou dar a compreender toda a estrutura desse mesmo, contudo, todo esse conhecimento está inteiramente disponível no vídeo em baixo (está tudo bem detalhado para que possas compreender tudo).

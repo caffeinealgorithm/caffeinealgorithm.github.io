@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o propriedades na linguagem de progr
 keywords: 'java, propriedades, propriedade, get, set, publicação'
 date: 2022-03-21
 categories: [Java]
+redirect_from:
+  - /blog/20220321/propriedades-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com o propriedades para que se possa usar esses mesmos conhecimentos e assim evoluir.

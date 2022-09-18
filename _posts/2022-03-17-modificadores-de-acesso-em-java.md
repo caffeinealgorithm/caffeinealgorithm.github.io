@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com modificadores de acesso na linguagem
 keywords: 'java, modificadores de acesso, modificadores, acesso, public, protected, private, publicação'
 date: 2022-03-17
 categories: [Java]
+redirect_from:
+  - /blog/20220317/modificadores-de-acesso-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com modificadores de acesso para que se possa usar esses mesmos conhecimentos e assim evoluir.

@@ -1,11 +1,13 @@
 ---
 layout: post
 excerpt: Blog
-title: 'Mais sobre Herança em Java'
+title: 'Mais sobre a Herança em Java'
 description: 'Descobre como se trabalha com mais sobre a herança na linguagem de programação Java. Obtém respostas às tuas dúvidas com a teoria e os exemplos apresentados.'
 keywords: 'java, herança, publicação'
 date: 2022-03-23
 categories: [Java]
+redirect_from:
+  - /blog/20220323/mais-sobre-a-heranca-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com mais sobre a herança para que se possa usar esses mesmos conhecimentos e assim evoluir.

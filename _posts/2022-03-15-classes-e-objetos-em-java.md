@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com classes e objetos na linguagem de pr
 keywords: 'java, classes e objetos, classes, objetos, classe, objeto, publicação'
 date: 2022-03-15
 categories: [Java]
+redirect_from:
+  - /blog/20220315/classes-e-objetos-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com classes e objetos para que se possa usar esses mesmos conhecimentos e assim evoluir.

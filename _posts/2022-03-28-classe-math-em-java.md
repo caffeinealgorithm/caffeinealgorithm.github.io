@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a classe Math na linguagem de progra
 keywords: 'java, classe math, classe, math, publicação'
 date: 2022-03-28
 categories: [Java]
+redirect_from:
+  - /blog/20220328/classe-math-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com a classe Math para que se possa usar esses mesmos conhecimentos e assim evoluir.

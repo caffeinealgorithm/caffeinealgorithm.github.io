@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com interfaces na linguagem de programa�
 keywords: 'java, interfaces, interface, publicação'
 date: 2022-03-24
 categories: [Java]
+redirect_from:
+  - /blog/20220324/interfaces-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com interfaces para que se possa usar esses mesmos conhecimentos e assim evoluir.

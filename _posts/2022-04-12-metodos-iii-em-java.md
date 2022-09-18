@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com dois métodos específicos (equals()
 keywords: 'java, métodos, método, funções, função, publicação'
 date: 2022-04-12
 categories: [Java]
+redirect_from:
+  - /blog/20220412/metodos-iii-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com dois métodos específicos (`equals()` e `replace()`) para que se possa usar esses mesmos conhecimentos e assim evoluir.

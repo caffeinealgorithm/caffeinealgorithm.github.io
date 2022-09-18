@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com variáveis globais e locais na lingu
 keywords: 'java, variáveis globais, variáveis locais, variáveis, globais, locais, variável, publicação'
 date: 2022-03-08
 categories: [Java]
+redirect_from:
+  - /blog/20220308/variaveis-globais-e-locais-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com variáveis globais e locais para que se possa usar esses mesmos conhecimentos e assim evoluir.

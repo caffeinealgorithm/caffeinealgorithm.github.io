@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o switch na linguagem de programaç�
 keywords: 'java, switch, condições, condição, publicação'
 date: 2022-02-24
 categories: [Java]
+redirect_from:
+  - /blog/20220224/switch-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com o switch para que se possa usar esses mesmos conhecimentos e assim evoluir.

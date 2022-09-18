@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o operador ternário na linguagem de
 keywords: 'java, operador ternário, operador, comparação, publicação'
 date: 2022-02-23
 categories: [Java]
+redirect_from:
+  - /blog/20220223/operador-ternario-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com o operador ternário para que se possa usar esses mesmos conhecimentos e assim evoluir.

@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com algo mais sobre as strings na lingua
 keywords: 'java, strings, string, publicação'
 date: 2022-02-14
 categories: [Java]
+redirect_from:
+  - /blog/20220214/mais-sobre-as-strings-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com algo mais sobre as strings para que se possa usar esses mesmos conhecimentos e assim evoluir.

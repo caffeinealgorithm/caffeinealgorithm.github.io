@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com arrays multidimensionais na linguage
 keywords: 'java, arrays multidimensionais, arrays, multimensionais, array, multidimensional, publicação'
 date: 2022-03-10
 categories: [Java]
+redirect_from:
+  - /blog/20220310/arrays-multidimensionais-em-java/
 ---
 
 Nesta publicação aprende-se a trabalhar com arrays multidimensionais para que se possa usar esses mesmos conhecimentos e assim evoluir.
