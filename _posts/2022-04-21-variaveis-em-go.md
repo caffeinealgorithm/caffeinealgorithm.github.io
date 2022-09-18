@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com variáveis do tipo inteiro, decimal 
 keywords: 'go, golang, variáveis, variável, inteiro, decimal, float, string, booleano, publicação'
 date: 2022-04-21
 categories: [Go]
+redirect_from:
+  - /blog/20220421/variaveis-em-go/
 ---
 
 Nesta publicação aprende-se a trabalhar com variáveis do tipo inteiro, decimal (float32 e float64), string e booleano para que se possa usar esses mesmos conhecimentos e assim evoluir.

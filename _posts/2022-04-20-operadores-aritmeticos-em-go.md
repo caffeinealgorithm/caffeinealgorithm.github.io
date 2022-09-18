@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com operadores aritméticos na linguagem
 keywords: 'go, golang, operadores aritméticos, operadores, aritméticos, publicação'
 date: 2022-04-20
 categories: [Go]
+redirect_from:
+  - /blog/20220420/operadores-aritmeticos-em-go/
 ---
 
 Nesta publicação aprende-se a trabalhar com operadores aritméticos para que se possa usar esses mesmos conhecimentos e assim evoluir.

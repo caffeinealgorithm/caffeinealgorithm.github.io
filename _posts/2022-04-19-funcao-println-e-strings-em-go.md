@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com a função Println() e com as string
 keywords: 'go, golang, função println, função, println, strings, string, publicação'
 date: 2022-04-19
 categories: [Go]
+redirect_from:
+  - /blog/20220419/funcao-println-e-strings-em-go/
 ---
 
 Nesta publicação aprende-se a trabalhar com a função `Println()` e com as strings para que se possa usar esses mesmos conhecimentos e assim evoluir.

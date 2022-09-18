@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com algo mais sobre as strings na lingua
 keywords: 'go, golang, strings, string, publicação'
 date: 2022-04-26
 categories: [Go]
+redirect_from:
+  - /blog/20220426/mais-sobre-as-strings-em-go/
 ---
 
 Nesta publicação aprende-se a trabalhar com algo mais sobre as strings para que se possa usar esses mesmos conhecimentos e assim evoluir.

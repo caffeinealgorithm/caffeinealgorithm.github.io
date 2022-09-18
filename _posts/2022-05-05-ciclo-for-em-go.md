@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o ciclo for na linguagem de programa
 keywords: 'go, golang, ciclo for, ciclo, for, ciclos, publicação'
 date: 2022-05-05
 categories: [Go]
+redirect_from:
+  - /blog/20220505/ciclo-for-em-go/
 ---
 
 Nesta publicação aprende-se a trabalhar com o ciclo for para que se possa usar esses mesmos conhecimentos e assim evoluir.

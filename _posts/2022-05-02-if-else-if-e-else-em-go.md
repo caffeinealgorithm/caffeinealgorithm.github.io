@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com decisões (if, else if e else) na li
 keywords: 'go, golang, if, else if, else, condições, condição, publicação'
 date: 2022-05-02
 categories: [Go]
+redirect_from:
+  - /blog/20220502/if-else-if-e-else-em-go/
 ---
 
 Nesta publicação aprende-se a trabalhar com decisões (if, else if e else) para que se possa usar esses mesmos conhecimentos e assim evoluir.

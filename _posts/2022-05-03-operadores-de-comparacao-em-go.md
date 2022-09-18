@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com operadores de comparação na lingua
 keywords: 'go, golang, operadores de comparação, operadores, comparação, publicação'
 date: 2022-05-03
 categories: [Go]
+redirect_from:
+  - /blog/20220503/operadores-de-comparacao-em-go/
 ---
 
 Nesta publicação aprende-se a trabalhar com operadores de comparação para que se possa usar esses mesmos conhecimentos e assim evoluir.

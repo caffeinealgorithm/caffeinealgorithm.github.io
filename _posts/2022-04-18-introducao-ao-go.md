@@ -6,6 +6,8 @@ description: 'Descobre a história da linguagem de programação Go, como surgiu
 keywords: 'go, golang, introdução, história, publicação'
 date: 2022-04-18
 categories: [Go]
+redirect_from:
+  - /blog/20220418/introducao-ao-go/
 ---
 
 Ora bem, o Go é uma linguagem de programação compilada criada por uma equipa de engenheiros da Google em 2007, sendo que, em 2009 tornou-se uma linguagem open source sendo mais tarde, em 2010, usada por desenvolvedores fora da Google. É importante dizer também que esta linguagem fora criada devido a estarem insatisfeitos com as características do C e de outras linguagens disponíveis que não oferecem recursos necessários relativamente a alguns projetos da empresa.

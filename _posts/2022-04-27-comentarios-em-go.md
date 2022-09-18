@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com comentários na linguagem de program
 keywords: 'go, golang, comentários, comentário, publicação'
 date: 2022-04-27
 categories: [Go]
+redirect_from:
+  - /blog/20220427/comentarios-em-go/
 ---
 
 Nesta publicação aprende-se a trabalhar com comentários para que se possa usar esses mesmos conhecimentos e assim evoluir.

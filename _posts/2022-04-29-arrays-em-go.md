@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com arrays na linguagem de programação
 keywords: 'go, golang, arrays, array, publicação'
 date: 2022-04-29
 categories: [Go]
+redirect_from:
+  - /blog/20220429/arrays-em-go/
 ---
 
 Nesta publicação aprende-se a trabalhar com arrays para que se possa usar esses mesmos conhecimentos e assim evoluir.

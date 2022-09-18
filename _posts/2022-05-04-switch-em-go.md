@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o switch na linguagem de programaç�
 keywords: 'go, golang, switch, condições, condição, publicação'
 date: 2022-05-04
 categories: [Go]
+redirect_from:
+  - /blog/20220504/switch-em-go/
 ---
 
 Nesta publicação aprende-se a trabalhar com o switch para que se possa usar esses mesmos conhecimentos e assim evoluir.

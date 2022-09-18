@@ -6,6 +6,8 @@ description: 'Descobre como se trabalha com o input do utilizador (bufio) na lin
 keywords: 'go, golang, função input, função, input, publicação'
 date: 2022-04-28
 categories: [Go]
+redirect_from:
+  - /blog/20220428/input-do-utilizador-bufio-em-go/
 ---
 
 Nesta publicação aprende-se a trabalhar com o input do utilizador (bufio) para que se possa usar esses mesmos conhecimentos e assim evoluir.
