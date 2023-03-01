@@ -313,7 +313,7 @@ small {
 
 b,
 strong {
-  color: #1a1a1a;
+  color: var(--text);
 }
 
 code > span {
