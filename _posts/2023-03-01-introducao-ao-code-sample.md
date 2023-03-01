@@ -40,6 +40,6 @@ Estamos entusiasmados por trazer a nossa plataforma para o mundo e ajudar a torn
 
 **Facebook:** [facebook.com/codesample.io](https://www.facebook.com/codesample.io/)
 
-**Medium:** [Text](URL)
+**Medium:** [medium.com/@codesample.io/introducing-code-sample](https://medium.com/@codesample.io/introducing-code-sample-b421ffaf44a6)
 
 ### _Happy coding!_
