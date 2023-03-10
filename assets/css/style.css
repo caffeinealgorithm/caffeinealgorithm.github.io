@@ -1636,6 +1636,7 @@ ol.comment-list li .children li {
 #sticky .close {
   margin-bottom: auto;
   margin-left: 23px;
+  margin-top: 4px;
   cursor: pointer;
 }
 
