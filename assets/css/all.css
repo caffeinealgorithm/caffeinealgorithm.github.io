@@ -81,6 +81,10 @@
   content: '\f167';
 }
 
+.fa-times-circle:before {
+  content: '\f057';
+}
+
 @font-face {
   font-family: 'Font Awesome 5 Brands';
   font-style: normal;

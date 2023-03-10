@@ -87,6 +87,21 @@
     document.body.className += navigator.userAgent.match(/(MSIE|rv:11\.0)/)
       ? ' is-ie'
       : '';
+
+    if (localStorage.getItem('shown') !== 'true') {
+      document.getElementById('sticky').style.display = 'flex';
+
+      const sticky = document.getElementById('sticky');
+      const close = document.getElementById('close-sticky');
+
+      close.onclick = () => {
+        localStorage.setItem('shown', 'true');
+
+        if (sticky.style.display !== 'none') {
+          sticky.style.display = 'none';
+        }
+      };
+    }
   }
 </script>
 
