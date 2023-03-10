@@ -89,7 +89,12 @@
       if (localStorage.getItem('shown') !== 'true') {
         const blog = document.getElementById('blog');
         const footer = document.getElementById('footer');
+        const shareButtons = document.getElementById('shr-bttns');
         const sticky = document.getElementById('sticky');
+
+        if (!!shareButtons && window.innerWidth < 768) {
+          shareButtons.style.bottom = `${sticky.offsetHeight + 50}px`;
+        }
 
         if (!!footer) {
           footer.style.paddingBottom = `${sticky.offsetHeight + 120}px`;
@@ -108,8 +113,13 @@
 
       const blog = document.getElementById('blog');
       const footer = document.getElementById('footer');
+      const shareButtons = document.getElementById('shr-bttns');
       const sticky = document.getElementById('sticky');
       const close = document.getElementById('close-sticky');
+
+      if (!!shareButtons && window.innerWidth < 768) {
+        shareButtons.style.bottom = `${sticky.offsetHeight + 50}px`;
+      }
 
       if (!!footer) {
         footer.style.paddingBottom = `${sticky.offsetHeight + 120}px`;
@@ -122,6 +132,10 @@
 
         if (sticky.style.display !== 'none') {
           sticky.style.display = 'none';
+
+          if (!!shareButtons) {
+            shareButtons.style.bottom = '100px';
+          }
 
           if (!!footer) {
             footer.style.paddingBottom = '120px';
