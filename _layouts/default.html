@@ -24,7 +24,7 @@
     </noscript>
     {% endif %} {% endif %} {% if page.id != "links" %}
     <div id="page">
-      <a href="#" class="js-nav-toggle nav-toggle"><i></i></a>
+      <a href="#" class="js-nav-toggle nav-toggle" aria-label="Menu"><i></i></a>
       {% include sidebar.html %} {{ content }}
     </div>
     {% else %} {{ content }} {% endif %} {% include scripts.html %}
